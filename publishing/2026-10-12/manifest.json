@@ -1,0 +1,185 @@
+{
+  "site": "ClosingSpecialist",
+  "canonicalDomain": "https://closingspecialist.com",
+  "repository": "coolifystealthagents/closing-specialist",
+  "branch": "main",
+  "baseSha": "c96363d5a8539edd5a4e0ef95ca5eff95b81ccb1",
+  "publicationDate": "2026-10-12",
+  "counts": {
+    "blog": 12,
+    "research": 5,
+    "total": 17
+  },
+  "registryPaths": [
+    "lib/october12BlogPosts.ts",
+    "lib/october12ResearchPosts.ts",
+    "lib/content.ts"
+  ],
+  "routePaths": [
+    "app/blog/[slug]/page.tsx",
+    "app/research/[slug]/page.tsx"
+  ],
+  "indexPaths": [
+    "app/blog/page.tsx",
+    "app/research/page.tsx"
+  ],
+  "sidebarPaths": [
+    "app/blog/[slug]/page.tsx",
+    "components/ResearchSidebar.tsx"
+  ],
+  "items": [
+    {
+      "section": "Blog",
+      "slug": "closing-checklist-version-custody",
+      "title": "Keep Closing Checklist Versions Traceable",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/closing-checklist-version-custody.svg",
+      "route": "/blog/closing-checklist-version-custody"
+    },
+    {
+      "section": "Blog",
+      "slug": "closing-document-receipt-log",
+      "title": "Build a Closing Document Receipt Log",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/closing-document-receipt-log.svg",
+      "route": "/blog/closing-document-receipt-log"
+    },
+    {
+      "section": "Blog",
+      "slug": "stakeholder-question-owner-routing",
+      "title": "Route Closing Questions to Accountable Owners",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/stakeholder-question-owner-routing.svg",
+      "route": "/blog/stakeholder-question-owner-routing"
+    },
+    {
+      "section": "Blog",
+      "slug": "closing-date-change-verification",
+      "title": "Verify Closing Date Changes Before Updating",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/closing-date-change-verification.svg",
+      "route": "/blog/closing-date-change-verification"
+    },
+    {
+      "section": "Blog",
+      "slug": "wire-instruction-change-escalation",
+      "title": "Escalate Wire Instruction Changes Independently",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/wire-instruction-change-escalation.svg",
+      "route": "/blog/wire-instruction-change-escalation"
+    },
+    {
+      "section": "Blog",
+      "slug": "title-exception-follow-up-custody",
+      "title": "Track Title Exception Follow Up by Owner",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/title-exception-follow-up-custody.svg",
+      "route": "/blog/title-exception-follow-up-custody"
+    },
+    {
+      "section": "Blog",
+      "slug": "closing-disclosure-version-reconciliation",
+      "title": "Reconcile Closing Disclosure Versions",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/closing-disclosure-version-reconciliation.svg",
+      "route": "/blog/closing-disclosure-version-reconciliation"
+    },
+    {
+      "section": "Blog",
+      "slug": "signing-package-delivery-chain",
+      "title": "Verify the Signing Package Delivery Chain",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/signing-package-delivery-chain.svg",
+      "route": "/blog/signing-package-delivery-chain"
+    },
+    {
+      "section": "Blog",
+      "slug": "post-closing-record-gap-log",
+      "title": "Log Post-Closing Record Gaps",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/post-closing-record-gap-log.svg",
+      "route": "/blog/post-closing-record-gap-log"
+    },
+    {
+      "section": "Blog",
+      "slug": "closing-contact-preference-register",
+      "title": "Maintain Closing Contact Preferences",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/closing-contact-preference-register.svg",
+      "route": "/blog/closing-contact-preference-register"
+    },
+    {
+      "section": "Blog",
+      "slug": "funding-condition-handoff",
+      "title": "Build a Funding Condition Handoff",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/funding-condition-handoff.svg",
+      "route": "/blog/funding-condition-handoff"
+    },
+    {
+      "section": "Blog",
+      "slug": "closing-system-outage-reconciliation",
+      "title": "Reconcile Closing Records After an Outage",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/closing-system-outage-reconciliation.svg",
+      "route": "/blog/closing-system-outage-reconciliation"
+    },
+    {
+      "section": "Research",
+      "slug": "closing-checklist-completeness-study",
+      "title": "Closing Checklist Evidence Completeness",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12ResearchPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/closing-checklist-completeness-study.svg",
+      "route": "/research/closing-checklist-completeness-study"
+    },
+    {
+      "section": "Research",
+      "slug": "document-version-lineage-study",
+      "title": "Closing Document Version Lineage",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12ResearchPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/document-version-lineage-study.svg",
+      "route": "/research/document-version-lineage-study"
+    },
+    {
+      "section": "Research",
+      "slug": "milestone-timestamp-agreement-study",
+      "title": "Closing Milestone Timestamp Agreement",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12ResearchPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/milestone-timestamp-agreement-study.svg",
+      "route": "/research/milestone-timestamp-agreement-study"
+    },
+    {
+      "section": "Research",
+      "slug": "stakeholder-handoff-acknowledgment-study",
+      "title": "Stakeholder Handoff Acknowledgment Reliability",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12ResearchPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/stakeholder-handoff-acknowledgment-study.svg",
+      "route": "/research/stakeholder-handoff-acknowledgment-study"
+    },
+    {
+      "section": "Research",
+      "slug": "wire-change-verification-adherence-study",
+      "title": "Independent Verification for Wire Changes",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12ResearchPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/wire-change-verification-adherence-study.svg",
+      "route": "/research/wire-change-verification-adherence-study"
+    }
+  ]
+}
