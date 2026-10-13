@@ -1,0 +1,188 @@
+{
+  "site": "ClosingSpecialist",
+  "canonicalDomain": "https://closingspecialist.com",
+  "repository": "coolifystealthagents/closing-specialist",
+  "branch": "main",
+  "baseSha": "2fef4090a6fa65c7eefdeed18282701afc4e6bc6",
+  "publicationDate": "2026-10-13",
+  "counts": {
+    "blog": 12,
+    "research": 5,
+    "total": 17
+  },
+  "registryPaths": [
+    "lib/october13BlogPosts.ts",
+    "lib/october13ResearchPosts.ts",
+    "lib/content.ts"
+  ],
+  "routePaths": [
+    "app/blog/[slug]/page.tsx",
+    "app/research/[slug]/page.tsx"
+  ],
+  "indexPaths": [
+    "app/blog/page.tsx",
+    "app/research/page.tsx"
+  ],
+  "sidebarPaths": [
+    "app/blog/[slug]/page.tsx",
+    "components/ResearchSidebar.tsx"
+  ],
+  "sitemapPaths": [
+    "app/sitemap.ts"
+  ],
+  "items": [
+    {
+      "section": "Blog",
+      "slug": "earnest-money-receipt-custody",
+      "title": "Keep Earnest Money Receipt Evidence Tied to the Transaction",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-13/earnest-money-receipt-custody.svg",
+      "route": "/blog/earnest-money-receipt-custody"
+    },
+    {
+      "section": "Blog",
+      "slug": "payoff-statement-validity-review",
+      "title": "Review Payoff Statement Validity Before Closing Handoff",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-13/payoff-statement-validity-review.svg",
+      "route": "/blog/payoff-statement-validity-review"
+    },
+    {
+      "section": "Blog",
+      "slug": "lien-release-exception-handoff",
+      "title": "Handoff Lien Release Exceptions With Source Evidence",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-13/lien-release-exception-handoff.svg",
+      "route": "/blog/lien-release-exception-handoff"
+    },
+    {
+      "section": "Blog",
+      "slug": "signing-identity-check-handoff",
+      "title": "Route Signing Identity Check Exceptions Without Guesswork",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-13/signing-identity-check-handoff.svg",
+      "route": "/blog/signing-identity-check-handoff"
+    },
+    {
+      "section": "Blog",
+      "slug": "final-walkthrough-issue-routing",
+      "title": "Route Final Walkthrough Issues to an Accountable Decision Owner",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-13/final-walkthrough-issue-routing.svg",
+      "route": "/blog/final-walkthrough-issue-routing"
+    },
+    {
+      "section": "Blog",
+      "slug": "closing-cost-change-acknowledgment",
+      "title": "Track Acknowledgment of Closing Cost Changes",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-13/closing-cost-change-acknowledgment.svg",
+      "route": "/blog/closing-cost-change-acknowledgment"
+    },
+    {
+      "section": "Blog",
+      "slug": "recording-package-chain-of-custody",
+      "title": "Maintain Chain of Custody for Recording Packages",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-13/recording-package-chain-of-custody.svg",
+      "route": "/blog/recording-package-chain-of-custody"
+    },
+    {
+      "section": "Blog",
+      "slug": "hoa-transfer-document-queue",
+      "title": "Control HOA Transfer Documents in a Separate Review Queue",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-13/hoa-transfer-document-queue.svg",
+      "route": "/blog/hoa-transfer-document-queue"
+    },
+    {
+      "section": "Blog",
+      "slug": "remote-signing-package-delivery",
+      "title": "Verify Remote Signing Package Delivery and Return Events",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-13/remote-signing-package-delivery.svg",
+      "route": "/blog/remote-signing-package-delivery"
+    },
+    {
+      "section": "Blog",
+      "slug": "funding-authorization-evidence",
+      "title": "Keep Funding Authorization Separate From Funding Preparation",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-13/funding-authorization-evidence.svg",
+      "route": "/blog/funding-authorization-evidence"
+    },
+    {
+      "section": "Blog",
+      "slug": "closing-day-communication-ledger",
+      "title": "Use One Communication Ledger for Closing Day Changes",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-13/closing-day-communication-ledger.svg",
+      "route": "/blog/closing-day-communication-ledger"
+    },
+    {
+      "section": "Blog",
+      "slug": "returned-document-reconciliation",
+      "title": "Reconcile Returned Closing Documents Against the Final Index",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-13/returned-document-reconciliation.svg",
+      "route": "/blog/returned-document-reconciliation"
+    },
+    {
+      "section": "Research",
+      "slug": "payoff-validity-adherence-study",
+      "title": "Adherence to Payoff Statement Validity Controls",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13ResearchPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-13/payoff-validity-adherence-study.svg",
+      "route": "/research/payoff-validity-adherence-study"
+    },
+    {
+      "section": "Research",
+      "slug": "disclosure-delivery-timestamp-agreement",
+      "title": "Agreement Between Disclosure Delivery Timestamps",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13ResearchPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-13/disclosure-delivery-timestamp-agreement.svg",
+      "route": "/research/disclosure-delivery-timestamp-agreement"
+    },
+    {
+      "section": "Research",
+      "slug": "closing-package-completeness-agreement",
+      "title": "Reviewer Agreement on Closing Package Completeness",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13ResearchPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-13/closing-package-completeness-agreement.svg",
+      "route": "/research/closing-package-completeness-agreement"
+    },
+    {
+      "section": "Research",
+      "slug": "recording-submission-lineage-study",
+      "title": "Lineage Completeness for Recording Submissions",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13ResearchPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-13/recording-submission-lineage-study.svg",
+      "route": "/research/recording-submission-lineage-study"
+    },
+    {
+      "section": "Research",
+      "slug": "wire-verification-reviewer-reliability",
+      "title": "Reviewer Reliability for Wire Change Verification Evidence",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13ResearchPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-13/wire-verification-reviewer-reliability.svg",
+      "route": "/research/wire-verification-reviewer-reliability"
+    }
+  ]
+}
