@@ -1,17 +1,17 @@
 import { NextRequest, NextResponse } from 'next/server';
+import { canonicalRedirect } from './lib/canonical-request';
 
-const canonicalHost = 'closingspecialist.com';
 export function proxy(request: NextRequest) {
-  const forwardedHost = request.headers.get('x-forwarded-host')?.split(',')[0].trim();
-  const host = (forwardedHost || request.headers.get('host') || '').split(':')[0].toLowerCase();
-  const protocol = request.headers.get('x-forwarded-proto')?.split(',')[0].trim() || request.nextUrl.protocol.replace(':','');
-  if (host === `www.${canonicalHost}` || (host === canonicalHost && protocol === 'http')) {
-    const destination = request.nextUrl.clone();
-    destination.protocol = 'https:';
-    destination.host = canonicalHost;
-    destination.port = '';
-    return NextResponse.redirect(destination, 308);
-  }
+  const destination = canonicalRedirect({
+    host: request.headers.get('host'),
+    forwardedHost: request.headers.get('x-forwarded-host'),
+    cfVisitor: request.headers.get('cf-visitor'),
+    forwardedProto: request.headers.get('x-forwarded-proto'),
+    urlProtocol: request.nextUrl.protocol,
+    pathname: request.nextUrl.pathname,
+    search: request.nextUrl.search,
+  });
+  if (destination) return NextResponse.redirect(destination, 308);
   return NextResponse.next();
 }
 export const config = { matcher: ['/((?!_next/static|_next/image|favicon.ico).*)'] };
