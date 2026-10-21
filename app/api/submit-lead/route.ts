@@ -59,6 +59,7 @@ export async function POST(request: Request) {
   const legacyName = value(form, 'name', 160);
   const email = value(form, 'email', 160).toLowerCase();
   const company = value(form, 'company', 120);
+  const companyWebsite = value(form, 'company_website', 500);
   const companySize = value(form, 'company_size', 40);
   const positions = value(form, 'positions_to_fill', 40);
   const referral = value(form, 'referral_source', 80);
@@ -69,7 +70,7 @@ export async function POST(request: Request) {
   if (!/^\S+@\S+\.\S+$/.test(email) || (full ? (!firstName || !lastName || !company || !companySize || !positions || !referral) : !legacyName)) return json({ ok: false, message: 'Please complete every required field.' }, 400);
   if (full && personalDomains.has(email.split('@')[1])) return json({ ok: false, message: 'Please use your business email address.' }, 400);
 
-  const payload = { source, first_name:firstName, last_name:lastName, name:legacyName, email, company, company_size:companySize, positions_to_fill:positions, referral_source:referral, phone, phone_country:phoneCountry, message, _page_url:pageUrl };
+  const payload = { source, first_name:firstName, last_name:lastName, name:legacyName, email, company, company_website:companyWebsite, company_size:companySize, positions_to_fill:positions, referral_source:referral, phone, phone_country:phoneCountry, message, _page_url:pageUrl };
   const endpoint = process.env.ACR_LEAD_ENDPOINT;
   if (endpoint) {
     const controller = new AbortController(); const timeout = setTimeout(() => controller.abort(), 8000);
