@@ -1,0 +1,29 @@
+{
+  "domain": "closingspecialist.com",
+  "industry": "Real estate closing coordination staffing",
+  "audience": "Title teams, real estate operations leaders, and transaction coordinators",
+  "designFamily": "Architectural closing-desk editorial",
+  "heroComposition": "Large document-led value proposition paired with documentary closing-table photography and an ownership ledger",
+  "typeCharacter": "High-contrast editorial serif with compact operational sans-serif copy",
+  "paletteFamily": "Warm closing paper, evergreen ink, parchment, and restrained brass",
+  "shapeGrammar": "Squared document fields, fine rules, ledger tabs, and selective keyhole curves",
+  "imageTreatment": "Documentary closing photography, route-specific operational diagrams, and official Bacolod team evidence",
+  "sectionRhythm": "Open editorial arguments alternating with dense document ledgers, dark decision bands, and narrow reading columns",
+  "navigationTreatment": "Compact sticky three-link masthead with persistent parent attribution and keyboard mobile disclosure",
+  "motionSignature": "One continuously recycled first-party review rail with static reduced-motion presentation",
+  "density": "High-information and scan-friendly with generous editorial hierarchy",
+  "signatureElement": "A closing ownership ledger that separates source evidence, specialist preparation, licensed review, and final authority",
+  "designRead": {
+    "statement": "Reading this as: a closing-operations staffing service for title teams and transaction leaders, with a composed, precise, document-led visual language, leaning toward architectural editorial minimalism.",
+    "DESIGN_VARIANCE": 8,
+    "MOTION_INTENSITY": 2,
+    "VISUAL_DENSITY": 8,
+    "redesignMode": "evolve",
+    "primaryTheme": "warm light",
+    "primaryAccentStrategy": "Use brass for evidence and focus cues, evergreen for primary actions and authority boundaries.",
+    "shapeSystem": "Squared document geometry with fine rules and selective keyhole curves.",
+    "typographyDirection": "Editorial serif display type with compact operational sans-serif copy.",
+    "imageDirection": "Closing-specific documentary imagery and operational diagrams, plus official parent-team evidence.",
+    "motionRationale": "Keep closing records and forms stable. Limit movement to the sourced review rail."
+  }
+}

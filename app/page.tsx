@@ -1,2 +1,22 @@
-import { HomePage } from '@/components/Marketing';
-export default function Page() { return <HomePage />; }
+import type { Metadata } from 'next';
+import Image from 'next/image';
+import Link from 'next/link';
+import { site } from '@/lib/site';
+import { blogPosts } from '@/lib/content';
+
+export const metadata: Metadata = { title: 'Closing coordination support', description: site.heroBody, alternates: { canonical: '/' } };
+
+export default function HomePage() {
+  return <main id="main-content" tabIndex={-1}>
+    <section className="home-hero">
+      <div className="hero-copy"><p className="kicker">Closing coordination with calm precision</p><h1>Bring every closing detail <em>to the same table.</em></h1><p className="hero-body">Specialist remote staff maintain the checklists, source records, milestone notes, and approved communications that keep a closing visible. Licensed and accountable professionals retain every decision.</p><div className="hero-actions"><Link className="button primary" href="/contact-us">Plan your support role</Link><Link className="text-link" href="/services">Explore the service system</Link></div><div className="hero-proof"><span>Source-linked records</span><span>Defined review owners</span><span>Explicit escalation</span></div></div>
+      <div className="hero-media"><Image src="/hero.webp" alt={site.heroAlt} fill priority sizes="(max-width: 900px) 100vw, 48vw"/><div className="ownership-note"><strong>Closing ownership ledger</strong><span>Source evidence</span><span>Specialist preparation</span><span>Licensed review</span><span>Authorized close</span></div></div>
+    </section>
+    <section className="editorial-intro"><p className="kicker">The operating argument</p><div><h2>Capacity should make the file easier to inspect.</h2><p>A closing specialist does not replace professional judgment. The role creates a reliable preparation layer around the people who hold authority. Every task begins with an approved source, ends with a reviewable output, and stops when an exception crosses the agreed boundary.</p></div></section>
+    <section className="section services-overview"><div className="section-heading"><p className="kicker">Six focused support lanes</p><h2>Choose the queue that needs clearer ownership.</h2><p>Each service starts with a bounded workflow rather than a broad job title.</p></div><div className="service-list">{site.services.map(service => <Link href={`/services/${service.slug}`} key={service.slug} className="service-row"><div><h3>{service.name}</h3><p>{service.short}</p></div><span>View scope</span></Link>)}</div></section>
+    <section className="authority-band"><div><p className="kicker">A practical boundary</p><h2>Preparation moves. Authority stays put.</h2></div><div className="authority-grid"><article><h3>The specialist prepares</h3><p>Checklists, approved records, source links, status drafts, milestone queues, review packets, and exception notes.</p></article><article><h3>Your team decides</h3><p>Legal interpretation, title and escrow decisions, disclosure approval, identity controls, signatures, funding, wires, and final acceptance.</p></article></div></section>
+    <section className="section workflow-story"><div className="workflow-copy"><p className="kicker">How a controlled launch works</p><h2>Start with one closing lane and make completion visible.</h2><p>Choose a repeatable queue with a known owner. Define the source, output, review point, and escalation rule. Test the lane on a small sample, then refine the checklist before expanding access or volume.</p><Link className="button secondary" href="/services">Review every support lane</Link></div><div className="workflow-ledger" role="img" aria-label="Workflow from approved source through specialist preparation and accountable review"><div><strong>Approved source</strong><span>Known system and current version</span></div><div><strong>Prepared record</strong><span>Evidence, status, and unresolved items</span></div><div><strong>Owner review</strong><span>Decision, correction, or escalation</span></div></div></section>
+    <section className="section reading-room"><div className="section-heading"><p className="kicker">Closing desk notes</p><h2>Guidance built around real handoffs.</h2></div><div className="feature-articles">{blogPosts.slice(0,3).map(post => <Link href={`/blog/${post.slug}`} key={post.slug}><span>{post.category}</span><h3>{post.title}</h3><p>{post.description}</p><strong>Read the guide</strong></Link>)}</div></section>
+    <section className="closing-cta"><p className="kicker">A narrower role is easier to trust</p><h2>Bring one closing workflow to the conversation.</h2><p>We will help you separate recurring coordination from decisions that must remain with licensed and accountable owners.</p><Link className="button light" href="/contact-us">Plan a free consultation</Link></section>
+  </main>;
+}

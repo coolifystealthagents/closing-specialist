@@ -91,7 +91,7 @@ export const october13BlogPosts: BlogPost[] = [
     "internalService": "/services/closing-checklist-support",
     "internalSibling": "/blog/payoff-statement-validity-review",
     "source": {
-      "label": "CFPB — Closing on a Home",
+      "label": "CFPB: Closing on a Home",
       "url": "https://www.consumerfinance.gov/owning-a-home/close/"
     }
   },
@@ -185,7 +185,7 @@ export const october13BlogPosts: BlogPost[] = [
     "internalService": "/services/document-coordination",
     "internalSibling": "/blog/lien-release-exception-handoff",
     "source": {
-      "label": "CFPB — Closing Disclosure",
+      "label": "CFPB: Closing Disclosure",
       "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-a-closing-disclosure-en-1983/"
     }
   },
@@ -279,7 +279,7 @@ export const october13BlogPosts: BlogPost[] = [
     "internalService": "/services/closing-file-preparation",
     "internalSibling": "/blog/signing-identity-check-handoff",
     "source": {
-      "label": "HUD — Real Estate Settlement Procedures Act",
+      "label": "HUD: Real Estate Settlement Procedures Act",
       "url": "https://www.hud.gov/hud-partners/single-family-real-estate-settlement-procedures-act"
     }
   },
@@ -561,7 +561,7 @@ export const october13BlogPosts: BlogPost[] = [
     "internalService": "/services/document-coordination",
     "internalSibling": "/blog/recording-package-chain-of-custody",
     "source": {
-      "label": "FTC — Recognize and Avoid Phishing Scams",
+      "label": "FTC: Recognize and Avoid Phishing Scams",
       "url": "https://consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams"
     }
   },
@@ -655,7 +655,7 @@ export const october13BlogPosts: BlogPost[] = [
     "internalService": "/services/post-closing-records",
     "internalSibling": "/blog/hoa-transfer-document-queue",
     "source": {
-      "label": "CISA — Recognize and Report Phishing",
+      "label": "CISA: Recognize and Report Phishing",
       "url": "https://www.cisa.gov/secure-our-world/recognize-and-report-phishing"
     }
   },
@@ -1031,7 +1031,7 @@ export const october13BlogPosts: BlogPost[] = [
     "internalService": "/services/stakeholder-updates",
     "internalSibling": "/blog/returned-document-reconciliation",
     "source": {
-      "label": "CFPB — Closing on a Home",
+      "label": "CFPB: Closing on a Home",
       "url": "https://www.consumerfinance.gov/owning-a-home/close/"
     }
   },
@@ -1125,7 +1125,7 @@ export const october13BlogPosts: BlogPost[] = [
     "internalService": "/services/post-closing-records",
     "internalSibling": "/blog/earnest-money-receipt-custody",
     "source": {
-      "label": "CFPB — Closing Disclosure",
+      "label": "CFPB: Closing Disclosure",
       "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-a-closing-disclosure-en-1983/"
     }
   }

@@ -19,13 +19,13 @@ const research=[
 {slug:'recording-submission-lineage-study',title:'Lineage Completeness for Recording Submissions',cluster:'Post-closing evidence',question:'assess whether recording submissions retain their executed source, reviewer, delivery, rejection, correction, resubmission, and confirmation history',unit:'one document submitted for recording in one transaction',fields:'study key, document type, executed version, review event, submission ID, submission time, jurisdiction, delivery receipt, rejection, correction, resubmission, recording reference, and archive state',groups:'document type, submission channel, rejection state, correction pathway, jurisdiction, and lineage result',outcome:'the proportion of sampled submissions with a reconstructable source-to-confirmation chain',limit:'complete lineage does not establish document validity, recording priority, title effect, or jurisdictional compliance',sensitivity:'treat every inaccessible executed version as incomplete and report first-pass and resubmitted documents separately'},
 {slug:'wire-verification-reviewer-reliability',title:'Reviewer Reliability for Wire Change Verification Evidence',cluster:'Transaction safety',question:'measure whether reviewers consistently identify required independent-verification evidence for wire instruction changes',unit:'one change request selected before reviewer coding',fields:'study key, request channel, prior instruction reference, changed field, known contact source, verification channel, verifier, result, stopped action, first code, second code, disagreement, and adjudication',groups:'request channel, changed field, urgency flag, verification path, evidence completeness, and reviewer result',outcome:'agreement and evidence completeness for the declared independent-verification rule',limit:'documented verification reduces ambiguity but cannot prove identity, prevent every fraud attempt, or authorize fund release',sensitivity:'use a strict known-channel rule first, then report a declared equivalent-control analysis separately'}];
 const sources=[
-{label:'CFPB — Closing on a Home',url:'https://www.consumerfinance.gov/owning-a-home/close/'},
-{label:'CFPB — Closing Disclosure',url:'https://www.consumerfinance.gov/ask-cfpb/what-is-a-closing-disclosure-en-1983/'},
-{label:'HUD — Real Estate Settlement Procedures Act',url:'https://www.hud.gov/hud-partners/single-family-real-estate-settlement-procedures-act'},
+{label:'CFPB: Closing on a Home',url:'https://www.consumerfinance.gov/owning-a-home/close/'},
+{label:'CFPB: Closing Disclosure',url:'https://www.consumerfinance.gov/ask-cfpb/what-is-a-closing-disclosure-en-1983/'},
+{label:'HUD: Real Estate Settlement Procedures Act',url:'https://www.hud.gov/hud-partners/single-family-real-estate-settlement-procedures-act'},
 {label:'Fannie Mae Selling Guide',url:'https://selling-guide.fanniemae.com/'},
 {label:'Freddie Mac Seller/Servicer Guide',url:'https://guide.freddiemac.com/'},
-{label:'FTC — Recognize and Avoid Phishing Scams',url:'https://consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams'},
-{label:'CISA — Recognize and Report Phishing',url:'https://www.cisa.gov/secure-our-world/recognize-and-report-phishing'},
+{label:'FTC: Recognize and Avoid Phishing Scams',url:'https://consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams'},
+{label:'CISA: Recognize and Report Phishing',url:'https://www.cisa.gov/secure-our-world/recognize-and-report-phishing'},
 {label:'NIST Privacy Framework',url:'https://www.nist.gov/privacy-framework'},
 {label:'FinCEN Guidance',url:'https://www.fincen.gov/resources/statutes-regulations/guidance'},
 {label:'IRS Instructions for Form 1099-S',url:'https://www.irs.gov/instructions/i1099s'}];

@@ -90,15 +90,15 @@ export const october13ResearchPosts: ResearchPost[] = [
     ],
     "sources": [
       {
-        "label": "CFPB — Closing on a Home",
+        "label": "CFPB: Closing on a Home",
         "url": "https://www.consumerfinance.gov/owning-a-home/close/"
       },
       {
-        "label": "CFPB — Closing Disclosure",
+        "label": "CFPB: Closing Disclosure",
         "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-a-closing-disclosure-en-1983/"
       },
       {
-        "label": "HUD — Real Estate Settlement Procedures Act",
+        "label": "HUD: Real Estate Settlement Procedures Act",
         "url": "https://www.hud.gov/hud-partners/single-family-real-estate-settlement-procedures-act"
       },
       {
@@ -110,11 +110,11 @@ export const october13ResearchPosts: ResearchPost[] = [
         "url": "https://guide.freddiemac.com/"
       },
       {
-        "label": "FTC — Recognize and Avoid Phishing Scams",
+        "label": "FTC: Recognize and Avoid Phishing Scams",
         "url": "https://consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams"
       },
       {
-        "label": "CISA — Recognize and Report Phishing",
+        "label": "CISA: Recognize and Report Phishing",
         "url": "https://www.cisa.gov/secure-our-world/recognize-and-report-phishing"
       },
       {
@@ -220,15 +220,15 @@ export const october13ResearchPosts: ResearchPost[] = [
     ],
     "sources": [
       {
-        "label": "CFPB — Closing on a Home",
+        "label": "CFPB: Closing on a Home",
         "url": "https://www.consumerfinance.gov/owning-a-home/close/"
       },
       {
-        "label": "CFPB — Closing Disclosure",
+        "label": "CFPB: Closing Disclosure",
         "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-a-closing-disclosure-en-1983/"
       },
       {
-        "label": "HUD — Real Estate Settlement Procedures Act",
+        "label": "HUD: Real Estate Settlement Procedures Act",
         "url": "https://www.hud.gov/hud-partners/single-family-real-estate-settlement-procedures-act"
       },
       {
@@ -240,11 +240,11 @@ export const october13ResearchPosts: ResearchPost[] = [
         "url": "https://guide.freddiemac.com/"
       },
       {
-        "label": "FTC — Recognize and Avoid Phishing Scams",
+        "label": "FTC: Recognize and Avoid Phishing Scams",
         "url": "https://consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams"
       },
       {
-        "label": "CISA — Recognize and Report Phishing",
+        "label": "CISA: Recognize and Report Phishing",
         "url": "https://www.cisa.gov/secure-our-world/recognize-and-report-phishing"
       },
       {
@@ -350,15 +350,15 @@ export const october13ResearchPosts: ResearchPost[] = [
     ],
     "sources": [
       {
-        "label": "CFPB — Closing on a Home",
+        "label": "CFPB: Closing on a Home",
         "url": "https://www.consumerfinance.gov/owning-a-home/close/"
       },
       {
-        "label": "CFPB — Closing Disclosure",
+        "label": "CFPB: Closing Disclosure",
         "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-a-closing-disclosure-en-1983/"
       },
       {
-        "label": "HUD — Real Estate Settlement Procedures Act",
+        "label": "HUD: Real Estate Settlement Procedures Act",
         "url": "https://www.hud.gov/hud-partners/single-family-real-estate-settlement-procedures-act"
       },
       {
@@ -370,11 +370,11 @@ export const october13ResearchPosts: ResearchPost[] = [
         "url": "https://guide.freddiemac.com/"
       },
       {
-        "label": "FTC — Recognize and Avoid Phishing Scams",
+        "label": "FTC: Recognize and Avoid Phishing Scams",
         "url": "https://consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams"
       },
       {
-        "label": "CISA — Recognize and Report Phishing",
+        "label": "CISA: Recognize and Report Phishing",
         "url": "https://www.cisa.gov/secure-our-world/recognize-and-report-phishing"
       },
       {
@@ -480,15 +480,15 @@ export const october13ResearchPosts: ResearchPost[] = [
     ],
     "sources": [
       {
-        "label": "CFPB — Closing on a Home",
+        "label": "CFPB: Closing on a Home",
         "url": "https://www.consumerfinance.gov/owning-a-home/close/"
       },
       {
-        "label": "CFPB — Closing Disclosure",
+        "label": "CFPB: Closing Disclosure",
         "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-a-closing-disclosure-en-1983/"
       },
       {
-        "label": "HUD — Real Estate Settlement Procedures Act",
+        "label": "HUD: Real Estate Settlement Procedures Act",
         "url": "https://www.hud.gov/hud-partners/single-family-real-estate-settlement-procedures-act"
       },
       {
@@ -500,11 +500,11 @@ export const october13ResearchPosts: ResearchPost[] = [
         "url": "https://guide.freddiemac.com/"
       },
       {
-        "label": "FTC — Recognize and Avoid Phishing Scams",
+        "label": "FTC: Recognize and Avoid Phishing Scams",
         "url": "https://consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams"
       },
       {
-        "label": "CISA — Recognize and Report Phishing",
+        "label": "CISA: Recognize and Report Phishing",
         "url": "https://www.cisa.gov/secure-our-world/recognize-and-report-phishing"
       },
       {
@@ -610,15 +610,15 @@ export const october13ResearchPosts: ResearchPost[] = [
     ],
     "sources": [
       {
-        "label": "CFPB — Closing on a Home",
+        "label": "CFPB: Closing on a Home",
         "url": "https://www.consumerfinance.gov/owning-a-home/close/"
       },
       {
-        "label": "CFPB — Closing Disclosure",
+        "label": "CFPB: Closing Disclosure",
         "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-a-closing-disclosure-en-1983/"
       },
       {
-        "label": "HUD — Real Estate Settlement Procedures Act",
+        "label": "HUD: Real Estate Settlement Procedures Act",
         "url": "https://www.hud.gov/hud-partners/single-family-real-estate-settlement-procedures-act"
       },
       {
@@ -630,11 +630,11 @@ export const october13ResearchPosts: ResearchPost[] = [
         "url": "https://guide.freddiemac.com/"
       },
       {
-        "label": "FTC — Recognize and Avoid Phishing Scams",
+        "label": "FTC: Recognize and Avoid Phishing Scams",
         "url": "https://consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams"
       },
       {
-        "label": "CISA — Recognize and Report Phishing",
+        "label": "CISA: Recognize and Report Phishing",
         "url": "https://www.cisa.gov/secure-our-world/recognize-and-report-phishing"
       },
       {
