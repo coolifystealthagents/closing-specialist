@@ -916,8 +916,8 @@ const existingResearchPosts: ResearchPost[] = [
   }
 ];
 
-export const blogPosts: BlogPost[] = [...october22BlogBatch, ...october13BlogPosts,...october12BlogPosts,...existingBlogPosts];
-export const researchPosts: ResearchPost[] = [...october22ResearchBatch, ...october13ResearchPosts,...october12ResearchPosts,...existingResearchPosts];
+export const blogPosts: BlogPost[] = [...october22BlogBatch, ...october13BlogPosts,...october12BlogPosts,...existingBlogPosts].sort((a,b)=>String(b.publishedAt).localeCompare(String(a.publishedAt)));
+export const researchPosts: ResearchPost[] = [...october22ResearchBatch, ...october13ResearchPosts,...october12ResearchPosts,...existingResearchPosts].sort((a,b)=>String(b.publishedAt).localeCompare(String(a.publishedAt)));
 
 export const nav = [
   { href: '/services', label: 'Services' },
