@@ -960,6 +960,882 @@ export const october22BlogBatch: readonly BlogPost[] = [
       "label": "Consumer Financial Protection Bureau, closing checklist",
       "url": "https://www.consumerfinance.gov/owning-a-home/closing-disclosure/"
     }
+  },
+  {
+    "slug": "closingspecialist-intake-request-triage",
+    "title": "Intake Request Triage for Closing Specialist Teams",
+    "description": "A practical Closing Specialist workflow for intake request triage for closing specialist teams, with evidence, ownership, exceptions, and review.",
+    "category": "Closing Specialist Operations",
+    "publishedAt": "2026-10-25",
+    "readTime": "9 min read",
+    "thumbnail": "/article-thumbnails/october-22/closingspecialist-intake-request-triage.svg",
+    "sections": [
+      {
+        "heading": "Define the outcome for Intake Request Triage",
+        "paragraphs": [
+          "Intake Request Triage gives Closing Specialist teams a bounded way to coordinate intake request triage. The operating risk is that a request can be marked complete without the source, owner, or a usable next action. A useful record keeps the request, source, owner, due time, exception state, and completion evidence together.",
+          "Name the event that creates a record, the source system, the minimum evidence, the accountable owner, and the clock start before the queue opens. Administrative preparation stays separate from the decision reserved to the accountable owner."
+        ]
+      },
+      {
+        "heading": "Map the inputs and the record",
+        "paragraphs": [
+          "Capture request, source, owner, due time, status, exception reason, and completion evidence. Link each consequential value to its source and record when it was observed. Missing information must remain visible rather than being replaced by a plausible assumption.",
+          "Use a small set of named states such as received, incomplete, ready for review, exception, and closed. Every exception needs a reason code, the role that must resolve it, and a dated next action."
+        ]
+      },
+      {
+        "heading": "Separate preparation from judgment",
+        "paragraphs": [
+          "The support role may collect, label, route, and draft within approved language. It may not invent a rationale, infer an approval, or make a commitment that belongs to an authorized owner.",
+          "Use proceed, pause for review, and escalate now as operational states. Preserve the original question when the answer depends on a professional or commercial decision."
+        ]
+      },
+      {
+        "heading": "Run the daily queue",
+        "paragraphs": [
+          "Sort open items for intake request triage by client impact, external deadline, dependency, and age. Update status only from a verifiable event, not from a conversation or an assumption.",
+          "Before handoff, give every open item a named owner, a dated next action, and a link to the evidence. A shared inbox may receive work, but it cannot own an outcome."
+        ]
+      },
+      {
+        "heading": "Escalate with a bounded packet",
+        "paragraphs": [
+          "An escalation should include the record link, verified facts, the unresolved decision, the deadline, actions already taken, and the safest permitted next step. Use distinct reason codes for missing source, conflicting source, wrong record, expired evidence, unavailable approver, and system outage.",
+          "Do not convert silence into approval. Keep the work paused when the next action depends on authority or evidence that has not arrived."
+        ]
+      },
+      {
+        "heading": "Close, review, and improve",
+        "paragraphs": [
+          "Close only when the completion event, communication, and evidence are present. Sample new, closed, and reopened records and compare the final state with the source. When the same exception recurs, change the intake field, evidence rule, ownership map, or approval gate.",
+          "Test the revision on a bounded sample and keep the prior version for audit. Review quality with denominators and inspect routine, adverse, and unresolved records."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Who owns decisions in intake request triage?",
+        "a": "The accountable Closing Specialist owner retains the professional or commercial decision; support prepares and routes the record."
+      },
+      {
+        "q": "What proves the workflow is complete?",
+        "a": "The completion event, communication, source evidence, named owner, and closure state must all be present."
+      },
+      {
+        "q": "What happens when evidence conflicts?",
+        "a": "Preserve both values, pause the dependent action, and route a concise comparison to the authorized owner."
+      }
+    ],
+    "internalService": "/services",
+    "internalSibling": "/blog/title-commitment-review",
+    "source": {
+      "label": "Consumer Financial Protection Bureau, closing checklist",
+      "url": "https://www.consumerfinance.gov/owning-a-home/closing-disclosure/"
+    }
+  },
+  {
+    "slug": "closingspecialist-evidence-capture-standard",
+    "title": "Evidence Capture Standard for Closing Specialist Teams",
+    "description": "A practical Closing Specialist workflow for evidence capture standard for closing specialist teams, with evidence, ownership, exceptions, and review.",
+    "category": "Closing Specialist Operations",
+    "publishedAt": "2026-10-25",
+    "readTime": "9 min read",
+    "thumbnail": "/article-thumbnails/october-22/closingspecialist-evidence-capture-standard.svg",
+    "sections": [
+      {
+        "heading": "Define the outcome for Evidence Capture Standard",
+        "paragraphs": [
+          "Evidence Capture Standard gives Closing Specialist teams a bounded way to coordinate evidence capture. The operating risk is that a later summary can replace the original evidence and hide what was actually known. A useful record keeps the request, source, owner, due time, exception state, and completion evidence together.",
+          "Name the event that creates a record, the source system, the minimum evidence, the accountable owner, and the clock start before the queue opens. Staff may preserve and label evidence but may not invent a rationale or approval."
+        ]
+      },
+      {
+        "heading": "Map the inputs and the record",
+        "paragraphs": [
+          "Capture request key, source artifact, received time, patient or client reference, owner, decision boundary, and correction history. Link each consequential value to its source and record when it was observed. Missing information must remain visible rather than being replaced by a plausible assumption.",
+          "Use a small set of named states such as received, incomplete, ready for review, exception, and closed. Every exception needs a reason code, the role that must resolve it, and a dated next action."
+        ]
+      },
+      {
+        "heading": "Separate preparation from judgment",
+        "paragraphs": [
+          "The support role may collect, label, route, and draft within approved language. It may not invent a rationale, infer an approval, or make a commitment that belongs to an authorized owner.",
+          "Use proceed, pause for review, and escalate now as operational states. Preserve the original question when the answer depends on a professional or commercial decision."
+        ]
+      },
+      {
+        "heading": "Run the daily queue",
+        "paragraphs": [
+          "Sort open items for evidence capture by client impact, external deadline, dependency, and age. Update status only from a verifiable event, not from a conversation or an assumption.",
+          "Before handoff, give every open item a named owner, a dated next action, and a link to the evidence. A shared inbox may receive work, but it cannot own an outcome."
+        ]
+      },
+      {
+        "heading": "Escalate with a bounded packet",
+        "paragraphs": [
+          "An escalation should include the record link, verified facts, the unresolved decision, the deadline, actions already taken, and the safest permitted next step. Use distinct reason codes for missing source, conflicting source, wrong record, expired evidence, unavailable approver, and system outage.",
+          "Do not convert silence into approval. Keep the work paused when the next action depends on authority or evidence that has not arrived."
+        ]
+      },
+      {
+        "heading": "Close, review, and improve",
+        "paragraphs": [
+          "Close only when the completion event, communication, and evidence are present. Trace a sample from the original message to the recorded outcome. When the same exception recurs, change the intake field, evidence rule, ownership map, or approval gate.",
+          "Test the revision on a bounded sample and keep the prior version for audit. Review quality with denominators and inspect routine, adverse, and unresolved records."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Who owns decisions in evidence capture?",
+        "a": "The accountable Closing Specialist owner retains the professional or commercial decision; support prepares and routes the record."
+      },
+      {
+        "q": "What proves the workflow is complete?",
+        "a": "The completion event, communication, source evidence, named owner, and closure state must all be present."
+      },
+      {
+        "q": "What happens when evidence conflicts?",
+        "a": "Preserve both values, pause the dependent action, and route a concise comparison to the authorized owner."
+      }
+    ],
+    "internalService": "/services",
+    "internalSibling": "/blog/title-commitment-review",
+    "source": {
+      "label": "Consumer Financial Protection Bureau, closing checklist",
+      "url": "https://www.consumerfinance.gov/owning-a-home/closing-disclosure/"
+    }
+  },
+  {
+    "slug": "closingspecialist-owner-handoff-map",
+    "title": "Owner Handoff Map for Closing Specialist Teams",
+    "description": "A practical Closing Specialist workflow for owner handoff map for closing specialist teams, with evidence, ownership, exceptions, and review.",
+    "category": "Closing Specialist Operations",
+    "publishedAt": "2026-10-25",
+    "readTime": "9 min read",
+    "thumbnail": "/article-thumbnails/october-22/closingspecialist-owner-handoff-map.svg",
+    "sections": [
+      {
+        "heading": "Define the outcome for Owner Handoff Map",
+        "paragraphs": [
+          "Owner Handoff Map gives Closing Specialist teams a bounded way to coordinate owner handoffs. The operating risk is that two people can each believe the other owns the next step. A useful record keeps the request, source, owner, due time, exception state, and completion evidence together.",
+          "Name the event that creates a record, the source system, the minimum evidence, the accountable owner, and the clock start before the queue opens. A handoff transfers ownership only when the receiving role acknowledges it."
+        ]
+      },
+      {
+        "heading": "Map the inputs and the record",
+        "paragraphs": [
+          "Capture record, current owner, receiving owner, handoff reason, acknowledgement, due time, and open question. Link each consequential value to its source and record when it was observed. Missing information must remain visible rather than being replaced by a plausible assumption.",
+          "Use a small set of named states such as received, incomplete, ready for review, exception, and closed. Every exception needs a reason code, the role that must resolve it, and a dated next action."
+        ]
+      },
+      {
+        "heading": "Separate preparation from judgment",
+        "paragraphs": [
+          "The support role may collect, label, route, and draft within approved language. It may not invent a rationale, infer an approval, or make a commitment that belongs to an authorized owner.",
+          "Use proceed, pause for review, and escalate now as operational states. Preserve the original question when the answer depends on a professional or commercial decision."
+        ]
+      },
+      {
+        "heading": "Run the daily queue",
+        "paragraphs": [
+          "Sort open items for owner handoffs by client impact, external deadline, dependency, and age. Update status only from a verifiable event, not from a conversation or an assumption.",
+          "Before handoff, give every open item a named owner, a dated next action, and a link to the evidence. A shared inbox may receive work, but it cannot own an outcome."
+        ]
+      },
+      {
+        "heading": "Escalate with a bounded packet",
+        "paragraphs": [
+          "An escalation should include the record link, verified facts, the unresolved decision, the deadline, actions already taken, and the safest permitted next step. Use distinct reason codes for missing source, conflicting source, wrong record, expired evidence, unavailable approver, and system outage.",
+          "Do not convert silence into approval. Keep the work paused when the next action depends on authority or evidence that has not arrived."
+        ]
+      },
+      {
+        "heading": "Close, review, and improve",
+        "paragraphs": [
+          "Close only when the completion event, communication, and evidence are present. Inspect handoffs that crossed shifts, teams, or systems. When the same exception recurs, change the intake field, evidence rule, ownership map, or approval gate.",
+          "Test the revision on a bounded sample and keep the prior version for audit. Review quality with denominators and inspect routine, adverse, and unresolved records."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Who owns decisions in owner handoffs?",
+        "a": "The accountable Closing Specialist owner retains the professional or commercial decision; support prepares and routes the record."
+      },
+      {
+        "q": "What proves the workflow is complete?",
+        "a": "The completion event, communication, source evidence, named owner, and closure state must all be present."
+      },
+      {
+        "q": "What happens when evidence conflicts?",
+        "a": "Preserve both values, pause the dependent action, and route a concise comparison to the authorized owner."
+      }
+    ],
+    "internalService": "/services",
+    "internalSibling": "/blog/title-commitment-review",
+    "source": {
+      "label": "Consumer Financial Protection Bureau, closing checklist",
+      "url": "https://www.consumerfinance.gov/owning-a-home/closing-disclosure/"
+    }
+  },
+  {
+    "slug": "closingspecialist-queue-aging-review",
+    "title": "Queue Aging Review for Closing Specialist Teams",
+    "description": "A practical Closing Specialist workflow for queue aging review for closing specialist teams, with evidence, ownership, exceptions, and review.",
+    "category": "Closing Specialist Operations",
+    "publishedAt": "2026-10-25",
+    "readTime": "9 min read",
+    "thumbnail": "/article-thumbnails/october-22/closingspecialist-queue-aging-review.svg",
+    "sections": [
+      {
+        "heading": "Define the outcome for Queue Aging Review",
+        "paragraphs": [
+          "Queue Aging Review gives Closing Specialist teams a bounded way to coordinate queue aging. The operating risk is that an old item can disappear into an average while a patient or client waits. A useful record keeps the request, source, owner, due time, exception state, and completion evidence together.",
+          "Name the event that creates a record, the source system, the minimum evidence, the accountable owner, and the clock start before the queue opens. Age is an administrative signal and does not determine clinical or commercial priority."
+        ]
+      },
+      {
+        "heading": "Map the inputs and the record",
+        "paragraphs": [
+          "Capture arrival time, priority basis, owner, dependency, last action, age band, and next review time. Link each consequential value to its source and record when it was observed. Missing information must remain visible rather than being replaced by a plausible assumption.",
+          "Use a small set of named states such as received, incomplete, ready for review, exception, and closed. Every exception needs a reason code, the role that must resolve it, and a dated next action."
+        ]
+      },
+      {
+        "heading": "Separate preparation from judgment",
+        "paragraphs": [
+          "The support role may collect, label, route, and draft within approved language. It may not invent a rationale, infer an approval, or make a commitment that belongs to an authorized owner.",
+          "Use proceed, pause for review, and escalate now as operational states. Preserve the original question when the answer depends on a professional or commercial decision."
+        ]
+      },
+      {
+        "heading": "Run the daily queue",
+        "paragraphs": [
+          "Sort open items for queue aging by client impact, external deadline, dependency, and age. Update status only from a verifiable event, not from a conversation or an assumption.",
+          "Before handoff, give every open item a named owner, a dated next action, and a link to the evidence. A shared inbox may receive work, but it cannot own an outcome."
+        ]
+      },
+      {
+        "heading": "Escalate with a bounded packet",
+        "paragraphs": [
+          "An escalation should include the record link, verified facts, the unresolved decision, the deadline, actions already taken, and the safest permitted next step. Use distinct reason codes for missing source, conflicting source, wrong record, expired evidence, unavailable approver, and system outage.",
+          "Do not convert silence into approval. Keep the work paused when the next action depends on authority or evidence that has not arrived."
+        ]
+      },
+      {
+        "heading": "Close, review, and improve",
+        "paragraphs": [
+          "Close only when the completion event, communication, and evidence are present. Review the oldest open items and the reasons they remain open. When the same exception recurs, change the intake field, evidence rule, ownership map, or approval gate.",
+          "Test the revision on a bounded sample and keep the prior version for audit. Review quality with denominators and inspect routine, adverse, and unresolved records."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Who owns decisions in queue aging?",
+        "a": "The accountable Closing Specialist owner retains the professional or commercial decision; support prepares and routes the record."
+      },
+      {
+        "q": "What proves the workflow is complete?",
+        "a": "The completion event, communication, source evidence, named owner, and closure state must all be present."
+      },
+      {
+        "q": "What happens when evidence conflicts?",
+        "a": "Preserve both values, pause the dependent action, and route a concise comparison to the authorized owner."
+      }
+    ],
+    "internalService": "/services",
+    "internalSibling": "/blog/title-commitment-review",
+    "source": {
+      "label": "Consumer Financial Protection Bureau, closing checklist",
+      "url": "https://www.consumerfinance.gov/owning-a-home/closing-disclosure/"
+    }
+  },
+  {
+    "slug": "closingspecialist-exception-escalation-path",
+    "title": "Exception Escalation Path for Closing Specialist Teams",
+    "description": "A practical Closing Specialist workflow for exception escalation path for closing specialist teams, with evidence, ownership, exceptions, and review.",
+    "category": "Closing Specialist Operations",
+    "publishedAt": "2026-10-25",
+    "readTime": "9 min read",
+    "thumbnail": "/article-thumbnails/october-22/closingspecialist-exception-escalation-path.svg",
+    "sections": [
+      {
+        "heading": "Define the outcome for Exception Escalation Path",
+        "paragraphs": [
+          "Exception Escalation Path gives Closing Specialist teams a bounded way to coordinate exception escalation. The operating risk is that an unanswered escalation can be mistaken for approval. A useful record keeps the request, source, owner, due time, exception state, and completion evidence together.",
+          "Name the event that creates a record, the source system, the minimum evidence, the accountable owner, and the clock start before the queue opens. The escalation asks for a decision; it does not make the decision."
+        ]
+      },
+      {
+        "heading": "Map the inputs and the record",
+        "paragraphs": [
+          "Capture exception type, affected record, evidence conflict, action already taken, safe next step, owner, and deadline. Link each consequential value to its source and record when it was observed. Missing information must remain visible rather than being replaced by a plausible assumption.",
+          "Use a small set of named states such as received, incomplete, ready for review, exception, and closed. Every exception needs a reason code, the role that must resolve it, and a dated next action."
+        ]
+      },
+      {
+        "heading": "Separate preparation from judgment",
+        "paragraphs": [
+          "The support role may collect, label, route, and draft within approved language. It may not invent a rationale, infer an approval, or make a commitment that belongs to an authorized owner.",
+          "Use proceed, pause for review, and escalate now as operational states. Preserve the original question when the answer depends on a professional or commercial decision."
+        ]
+      },
+      {
+        "heading": "Run the daily queue",
+        "paragraphs": [
+          "Sort open items for exception escalation by client impact, external deadline, dependency, and age. Update status only from a verifiable event, not from a conversation or an assumption.",
+          "Before handoff, give every open item a named owner, a dated next action, and a link to the evidence. A shared inbox may receive work, but it cannot own an outcome."
+        ]
+      },
+      {
+        "heading": "Escalate with a bounded packet",
+        "paragraphs": [
+          "An escalation should include the record link, verified facts, the unresolved decision, the deadline, actions already taken, and the safest permitted next step. Use distinct reason codes for missing source, conflicting source, wrong record, expired evidence, unavailable approver, and system outage.",
+          "Do not convert silence into approval. Keep the work paused when the next action depends on authority or evidence that has not arrived."
+        ]
+      },
+      {
+        "heading": "Close, review, and improve",
+        "paragraphs": [
+          "Close only when the completion event, communication, and evidence are present. Sample exceptions by reason and check whether the right owner responded. When the same exception recurs, change the intake field, evidence rule, ownership map, or approval gate.",
+          "Test the revision on a bounded sample and keep the prior version for audit. Review quality with denominators and inspect routine, adverse, and unresolved records."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Who owns decisions in exception escalation?",
+        "a": "The accountable Closing Specialist owner retains the professional or commercial decision; support prepares and routes the record."
+      },
+      {
+        "q": "What proves the workflow is complete?",
+        "a": "The completion event, communication, source evidence, named owner, and closure state must all be present."
+      },
+      {
+        "q": "What happens when evidence conflicts?",
+        "a": "Preserve both values, pause the dependent action, and route a concise comparison to the authorized owner."
+      }
+    ],
+    "internalService": "/services",
+    "internalSibling": "/blog/title-commitment-review",
+    "source": {
+      "label": "Consumer Financial Protection Bureau, closing checklist",
+      "url": "https://www.consumerfinance.gov/owning-a-home/closing-disclosure/"
+    }
+  },
+  {
+    "slug": "closingspecialist-access-permission-review",
+    "title": "Access Permission Review for Closing Specialist Teams",
+    "description": "A practical Closing Specialist workflow for access permission review for closing specialist teams, with evidence, ownership, exceptions, and review.",
+    "category": "Closing Specialist Operations",
+    "publishedAt": "2026-10-25",
+    "readTime": "9 min read",
+    "thumbnail": "/article-thumbnails/october-22/closingspecialist-access-permission-review.svg",
+    "sections": [
+      {
+        "heading": "Define the outcome for Access Permission Review",
+        "paragraphs": [
+          "Access Permission Review gives Closing Specialist teams a bounded way to coordinate access and permissions. The operating risk is that temporary or inherited access can outlive the task that justified it. A useful record keeps the request, source, owner, due time, exception state, and completion evidence together.",
+          "Name the event that creates a record, the source system, the minimum evidence, the accountable owner, and the clock start before the queue opens. Access to a system is not authorization to make every decision available in it."
+        ]
+      },
+      {
+        "heading": "Map the inputs and the record",
+        "paragraphs": [
+          "Capture role, system, permitted action, approval source, last review, temporary access, and removal evidence. Link each consequential value to its source and record when it was observed. Missing information must remain visible rather than being replaced by a plausible assumption.",
+          "Use a small set of named states such as received, incomplete, ready for review, exception, and closed. Every exception needs a reason code, the role that must resolve it, and a dated next action."
+        ]
+      },
+      {
+        "heading": "Separate preparation from judgment",
+        "paragraphs": [
+          "The support role may collect, label, route, and draft within approved language. It may not invent a rationale, infer an approval, or make a commitment that belongs to an authorized owner.",
+          "Use proceed, pause for review, and escalate now as operational states. Preserve the original question when the answer depends on a professional or commercial decision."
+        ]
+      },
+      {
+        "heading": "Run the daily queue",
+        "paragraphs": [
+          "Sort open items for access and permissions by client impact, external deadline, dependency, and age. Update status only from a verifiable event, not from a conversation or an assumption.",
+          "Before handoff, give every open item a named owner, a dated next action, and a link to the evidence. A shared inbox may receive work, but it cannot own an outcome."
+        ]
+      },
+      {
+        "heading": "Escalate with a bounded packet",
+        "paragraphs": [
+          "An escalation should include the record link, verified facts, the unresolved decision, the deadline, actions already taken, and the safest permitted next step. Use distinct reason codes for missing source, conflicting source, wrong record, expired evidence, unavailable approver, and system outage.",
+          "Do not convert silence into approval. Keep the work paused when the next action depends on authority or evidence that has not arrived."
+        ]
+      },
+      {
+        "heading": "Close, review, and improve",
+        "paragraphs": [
+          "Close only when the completion event, communication, and evidence are present. Compare the current roster with approved roles and remove unexplained access. When the same exception recurs, change the intake field, evidence rule, ownership map, or approval gate.",
+          "Test the revision on a bounded sample and keep the prior version for audit. Review quality with denominators and inspect routine, adverse, and unresolved records."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Who owns decisions in access and permissions?",
+        "a": "The accountable Closing Specialist owner retains the professional or commercial decision; support prepares and routes the record."
+      },
+      {
+        "q": "What proves the workflow is complete?",
+        "a": "The completion event, communication, source evidence, named owner, and closure state must all be present."
+      },
+      {
+        "q": "What happens when evidence conflicts?",
+        "a": "Preserve both values, pause the dependent action, and route a concise comparison to the authorized owner."
+      }
+    ],
+    "internalService": "/services",
+    "internalSibling": "/blog/title-commitment-review",
+    "source": {
+      "label": "Consumer Financial Protection Bureau, closing checklist",
+      "url": "https://www.consumerfinance.gov/owning-a-home/closing-disclosure/"
+    }
+  },
+  {
+    "slug": "closingspecialist-documentation-version-control",
+    "title": "Documentation Version Control for Closing Specialist Teams",
+    "description": "A practical Closing Specialist workflow for documentation version control for closing specialist teams, with evidence, ownership, exceptions, and review.",
+    "category": "Closing Specialist Operations",
+    "publishedAt": "2026-10-25",
+    "readTime": "9 min read",
+    "thumbnail": "/article-thumbnails/october-22/closingspecialist-documentation-version-control.svg",
+    "sections": [
+      {
+        "heading": "Define the outcome for Documentation Version Control",
+        "paragraphs": [
+          "Documentation Version Control gives Closing Specialist teams a bounded way to coordinate documentation version control. The operating risk is that an older script or form can remain in use after the approved version changes. A useful record keeps the request, source, owner, due time, exception state, and completion evidence together.",
+          "Name the event that creates a record, the source system, the minimum evidence, the accountable owner, and the clock start before the queue opens. Staff follow the approved version and route proposed changes to its owner."
+        ]
+      },
+      {
+        "heading": "Map the inputs and the record",
+        "paragraphs": [
+          "Capture document name, version, owner, effective date, approval, location, and superseded copy. Link each consequential value to its source and record when it was observed. Missing information must remain visible rather than being replaced by a plausible assumption.",
+          "Use a small set of named states such as received, incomplete, ready for review, exception, and closed. Every exception needs a reason code, the role that must resolve it, and a dated next action."
+        ]
+      },
+      {
+        "heading": "Separate preparation from judgment",
+        "paragraphs": [
+          "The support role may collect, label, route, and draft within approved language. It may not invent a rationale, infer an approval, or make a commitment that belongs to an authorized owner.",
+          "Use proceed, pause for review, and escalate now as operational states. Preserve the original question when the answer depends on a professional or commercial decision."
+        ]
+      },
+      {
+        "heading": "Run the daily queue",
+        "paragraphs": [
+          "Sort open items for documentation version control by client impact, external deadline, dependency, and age. Update status only from a verifiable event, not from a conversation or an assumption.",
+          "Before handoff, give every open item a named owner, a dated next action, and a link to the evidence. A shared inbox may receive work, but it cannot own an outcome."
+        ]
+      },
+      {
+        "heading": "Escalate with a bounded packet",
+        "paragraphs": [
+          "An escalation should include the record link, verified facts, the unresolved decision, the deadline, actions already taken, and the safest permitted next step. Use distinct reason codes for missing source, conflicting source, wrong record, expired evidence, unavailable approver, and system outage.",
+          "Do not convert silence into approval. Keep the work paused when the next action depends on authority or evidence that has not arrived."
+        ]
+      },
+      {
+        "heading": "Close, review, and improve",
+        "paragraphs": [
+          "Close only when the completion event, communication, and evidence are present. Match live documents to the current approved version. When the same exception recurs, change the intake field, evidence rule, ownership map, or approval gate.",
+          "Test the revision on a bounded sample and keep the prior version for audit. Review quality with denominators and inspect routine, adverse, and unresolved records."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Who owns decisions in documentation version control?",
+        "a": "The accountable Closing Specialist owner retains the professional or commercial decision; support prepares and routes the record."
+      },
+      {
+        "q": "What proves the workflow is complete?",
+        "a": "The completion event, communication, source evidence, named owner, and closure state must all be present."
+      },
+      {
+        "q": "What happens when evidence conflicts?",
+        "a": "Preserve both values, pause the dependent action, and route a concise comparison to the authorized owner."
+      }
+    ],
+    "internalService": "/services",
+    "internalSibling": "/blog/title-commitment-review",
+    "source": {
+      "label": "Consumer Financial Protection Bureau, closing checklist",
+      "url": "https://www.consumerfinance.gov/owning-a-home/closing-disclosure/"
+    }
+  },
+  {
+    "slug": "closingspecialist-vendor-coordination-ledger",
+    "title": "Vendor Coordination Ledger for Closing Specialist Teams",
+    "description": "A practical Closing Specialist workflow for vendor coordination ledger for closing specialist teams, with evidence, ownership, exceptions, and review.",
+    "category": "Closing Specialist Operations",
+    "publishedAt": "2026-10-25",
+    "readTime": "9 min read",
+    "thumbnail": "/article-thumbnails/october-22/closingspecialist-vendor-coordination-ledger.svg",
+    "sections": [
+      {
+        "heading": "Define the outcome for Vendor Coordination Ledger",
+        "paragraphs": [
+          "Vendor Coordination Ledger gives Closing Specialist teams a bounded way to coordinate vendor coordination. The operating risk is that a vendor promise can be treated as a completed service. A useful record keeps the request, source, owner, due time, exception state, and completion evidence together.",
+          "Name the event that creates a record, the source system, the minimum evidence, the accountable owner, and the clock start before the queue opens. The vendor supplies a service; the accountable owner accepts the result."
+        ]
+      },
+      {
+        "heading": "Map the inputs and the record",
+        "paragraphs": [
+          "Capture vendor, service, request, commitment, contact, due date, evidence, exception, and closure. Link each consequential value to its source and record when it was observed. Missing information must remain visible rather than being replaced by a plausible assumption.",
+          "Use a small set of named states such as received, incomplete, ready for review, exception, and closed. Every exception needs a reason code, the role that must resolve it, and a dated next action."
+        ]
+      },
+      {
+        "heading": "Separate preparation from judgment",
+        "paragraphs": [
+          "The support role may collect, label, route, and draft within approved language. It may not invent a rationale, infer an approval, or make a commitment that belongs to an authorized owner.",
+          "Use proceed, pause for review, and escalate now as operational states. Preserve the original question when the answer depends on a professional or commercial decision."
+        ]
+      },
+      {
+        "heading": "Run the daily queue",
+        "paragraphs": [
+          "Sort open items for vendor coordination by client impact, external deadline, dependency, and age. Update status only from a verifiable event, not from a conversation or an assumption.",
+          "Before handoff, give every open item a named owner, a dated next action, and a link to the evidence. A shared inbox may receive work, but it cannot own an outcome."
+        ]
+      },
+      {
+        "heading": "Escalate with a bounded packet",
+        "paragraphs": [
+          "An escalation should include the record link, verified facts, the unresolved decision, the deadline, actions already taken, and the safest permitted next step. Use distinct reason codes for missing source, conflicting source, wrong record, expired evidence, unavailable approver, and system outage.",
+          "Do not convert silence into approval. Keep the work paused when the next action depends on authority or evidence that has not arrived."
+        ]
+      },
+      {
+        "heading": "Close, review, and improve",
+        "paragraphs": [
+          "Close only when the completion event, communication, and evidence are present. Compare vendor confirmations with the evidence held by the business. When the same exception recurs, change the intake field, evidence rule, ownership map, or approval gate.",
+          "Test the revision on a bounded sample and keep the prior version for audit. Review quality with denominators and inspect routine, adverse, and unresolved records."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Who owns decisions in vendor coordination?",
+        "a": "The accountable Closing Specialist owner retains the professional or commercial decision; support prepares and routes the record."
+      },
+      {
+        "q": "What proves the workflow is complete?",
+        "a": "The completion event, communication, source evidence, named owner, and closure state must all be present."
+      },
+      {
+        "q": "What happens when evidence conflicts?",
+        "a": "Preserve both values, pause the dependent action, and route a concise comparison to the authorized owner."
+      }
+    ],
+    "internalService": "/services",
+    "internalSibling": "/blog/title-commitment-review",
+    "source": {
+      "label": "Consumer Financial Protection Bureau, closing checklist",
+      "url": "https://www.consumerfinance.gov/owning-a-home/closing-disclosure/"
+    }
+  },
+  {
+    "slug": "closingspecialist-reporting-cadence-review",
+    "title": "Reporting Cadence Review for Closing Specialist Teams",
+    "description": "A practical Closing Specialist workflow for reporting cadence review for closing specialist teams, with evidence, ownership, exceptions, and review.",
+    "category": "Closing Specialist Operations",
+    "publishedAt": "2026-10-25",
+    "readTime": "9 min read",
+    "thumbnail": "/article-thumbnails/october-22/closingspecialist-reporting-cadence-review.svg",
+    "sections": [
+      {
+        "heading": "Define the outcome for Reporting Cadence Review",
+        "paragraphs": [
+          "Reporting Cadence Review gives Closing Specialist teams a bounded way to coordinate reporting cadence. The operating risk is that a recurring report can become a ritual that no one uses to change a decision. A useful record keeps the request, source, owner, due time, exception state, and completion evidence together.",
+          "Name the event that creates a record, the source system, the minimum evidence, the accountable owner, and the clock start before the queue opens. The report informs an owner; it does not replace judgment."
+        ]
+      },
+      {
+        "heading": "Map the inputs and the record",
+        "paragraphs": [
+          "Capture metric, definition, source, owner, review date, denominator, exclusion, and action. Link each consequential value to its source and record when it was observed. Missing information must remain visible rather than being replaced by a plausible assumption.",
+          "Use a small set of named states such as received, incomplete, ready for review, exception, and closed. Every exception needs a reason code, the role that must resolve it, and a dated next action."
+        ]
+      },
+      {
+        "heading": "Separate preparation from judgment",
+        "paragraphs": [
+          "The support role may collect, label, route, and draft within approved language. It may not invent a rationale, infer an approval, or make a commitment that belongs to an authorized owner.",
+          "Use proceed, pause for review, and escalate now as operational states. Preserve the original question when the answer depends on a professional or commercial decision."
+        ]
+      },
+      {
+        "heading": "Run the daily queue",
+        "paragraphs": [
+          "Sort open items for reporting cadence by client impact, external deadline, dependency, and age. Update status only from a verifiable event, not from a conversation or an assumption.",
+          "Before handoff, give every open item a named owner, a dated next action, and a link to the evidence. A shared inbox may receive work, but it cannot own an outcome."
+        ]
+      },
+      {
+        "heading": "Escalate with a bounded packet",
+        "paragraphs": [
+          "An escalation should include the record link, verified facts, the unresolved decision, the deadline, actions already taken, and the safest permitted next step. Use distinct reason codes for missing source, conflicting source, wrong record, expired evidence, unavailable approver, and system outage.",
+          "Do not convert silence into approval. Keep the work paused when the next action depends on authority or evidence that has not arrived."
+        ]
+      },
+      {
+        "heading": "Close, review, and improve",
+        "paragraphs": [
+          "Close only when the completion event, communication, and evidence are present. Trace one metric from source to decision and remove unused fields. When the same exception recurs, change the intake field, evidence rule, ownership map, or approval gate.",
+          "Test the revision on a bounded sample and keep the prior version for audit. Review quality with denominators and inspect routine, adverse, and unresolved records."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Who owns decisions in reporting cadence?",
+        "a": "The accountable Closing Specialist owner retains the professional or commercial decision; support prepares and routes the record."
+      },
+      {
+        "q": "What proves the workflow is complete?",
+        "a": "The completion event, communication, source evidence, named owner, and closure state must all be present."
+      },
+      {
+        "q": "What happens when evidence conflicts?",
+        "a": "Preserve both values, pause the dependent action, and route a concise comparison to the authorized owner."
+      }
+    ],
+    "internalService": "/services",
+    "internalSibling": "/blog/title-commitment-review",
+    "source": {
+      "label": "Consumer Financial Protection Bureau, closing checklist",
+      "url": "https://www.consumerfinance.gov/owning-a-home/closing-disclosure/"
+    }
+  },
+  {
+    "slug": "closingspecialist-client-onboarding-brief",
+    "title": "Client Onboarding Brief for Closing Specialist Teams",
+    "description": "A practical Closing Specialist workflow for client onboarding brief for closing specialist teams, with evidence, ownership, exceptions, and review.",
+    "category": "Closing Specialist Operations",
+    "publishedAt": "2026-10-25",
+    "readTime": "9 min read",
+    "thumbnail": "/article-thumbnails/october-22/closingspecialist-client-onboarding-brief.svg",
+    "sections": [
+      {
+        "heading": "Define the outcome for Client Onboarding Brief",
+        "paragraphs": [
+          "Client Onboarding Brief gives Closing Specialist teams a bounded way to coordinate client onboarding. The operating risk is that a new client can begin work before ownership, access, and boundaries are confirmed. A useful record keeps the request, source, owner, due time, exception state, and completion evidence together.",
+          "Name the event that creates a record, the source system, the minimum evidence, the accountable owner, and the clock start before the queue opens. Onboarding prepares the relationship; authorized leaders approve scope and exceptions."
+        ]
+      },
+      {
+        "heading": "Map the inputs and the record",
+        "paragraphs": [
+          "Capture client, service scope, hours, contacts, escalation path, systems, permissions, and first review. Link each consequential value to its source and record when it was observed. Missing information must remain visible rather than being replaced by a plausible assumption.",
+          "Use a small set of named states such as received, incomplete, ready for review, exception, and closed. Every exception needs a reason code, the role that must resolve it, and a dated next action."
+        ]
+      },
+      {
+        "heading": "Separate preparation from judgment",
+        "paragraphs": [
+          "The support role may collect, label, route, and draft within approved language. It may not invent a rationale, infer an approval, or make a commitment that belongs to an authorized owner.",
+          "Use proceed, pause for review, and escalate now as operational states. Preserve the original question when the answer depends on a professional or commercial decision."
+        ]
+      },
+      {
+        "heading": "Run the daily queue",
+        "paragraphs": [
+          "Sort open items for client onboarding by client impact, external deadline, dependency, and age. Update status only from a verifiable event, not from a conversation or an assumption.",
+          "Before handoff, give every open item a named owner, a dated next action, and a link to the evidence. A shared inbox may receive work, but it cannot own an outcome."
+        ]
+      },
+      {
+        "heading": "Escalate with a bounded packet",
+        "paragraphs": [
+          "An escalation should include the record link, verified facts, the unresolved decision, the deadline, actions already taken, and the safest permitted next step. Use distinct reason codes for missing source, conflicting source, wrong record, expired evidence, unavailable approver, and system outage.",
+          "Do not convert silence into approval. Keep the work paused when the next action depends on authority or evidence that has not arrived."
+        ]
+      },
+      {
+        "heading": "Close, review, and improve",
+        "paragraphs": [
+          "Close only when the completion event, communication, and evidence are present. Compare the first week of work with the signed onboarding record. When the same exception recurs, change the intake field, evidence rule, ownership map, or approval gate.",
+          "Test the revision on a bounded sample and keep the prior version for audit. Review quality with denominators and inspect routine, adverse, and unresolved records."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Who owns decisions in client onboarding?",
+        "a": "The accountable Closing Specialist owner retains the professional or commercial decision; support prepares and routes the record."
+      },
+      {
+        "q": "What proves the workflow is complete?",
+        "a": "The completion event, communication, source evidence, named owner, and closure state must all be present."
+      },
+      {
+        "q": "What happens when evidence conflicts?",
+        "a": "Preserve both values, pause the dependent action, and route a concise comparison to the authorized owner."
+      }
+    ],
+    "internalService": "/services",
+    "internalSibling": "/blog/title-commitment-review",
+    "source": {
+      "label": "Consumer Financial Protection Bureau, closing checklist",
+      "url": "https://www.consumerfinance.gov/owning-a-home/closing-disclosure/"
+    }
+  },
+  {
+    "slug": "closingspecialist-quality-sample-review",
+    "title": "Quality Sample Review for Closing Specialist Teams",
+    "description": "A practical Closing Specialist workflow for quality sample review for closing specialist teams, with evidence, ownership, exceptions, and review.",
+    "category": "Closing Specialist Operations",
+    "publishedAt": "2026-10-25",
+    "readTime": "9 min read",
+    "thumbnail": "/article-thumbnails/october-22/closingspecialist-quality-sample-review.svg",
+    "sections": [
+      {
+        "heading": "Define the outcome for Quality Sample Review",
+        "paragraphs": [
+          "Quality Sample Review gives Closing Specialist teams a bounded way to coordinate quality sampling. The operating risk is that a convenient sample can make a queue look better than it is. A useful record keeps the request, source, owner, due time, exception state, and completion evidence together.",
+          "Name the event that creates a record, the source system, the minimum evidence, the accountable owner, and the clock start before the queue opens. Reviewers classify against written criteria and escalate professional questions."
+        ]
+      },
+      {
+        "heading": "Map the inputs and the record",
+        "paragraphs": [
+          "Capture sample frame, record, reviewer, criteria, result, correction, and retest date. Link each consequential value to its source and record when it was observed. Missing information must remain visible rather than being replaced by a plausible assumption.",
+          "Use a small set of named states such as received, incomplete, ready for review, exception, and closed. Every exception needs a reason code, the role that must resolve it, and a dated next action."
+        ]
+      },
+      {
+        "heading": "Separate preparation from judgment",
+        "paragraphs": [
+          "The support role may collect, label, route, and draft within approved language. It may not invent a rationale, infer an approval, or make a commitment that belongs to an authorized owner.",
+          "Use proceed, pause for review, and escalate now as operational states. Preserve the original question when the answer depends on a professional or commercial decision."
+        ]
+      },
+      {
+        "heading": "Run the daily queue",
+        "paragraphs": [
+          "Sort open items for quality sampling by client impact, external deadline, dependency, and age. Update status only from a verifiable event, not from a conversation or an assumption.",
+          "Before handoff, give every open item a named owner, a dated next action, and a link to the evidence. A shared inbox may receive work, but it cannot own an outcome."
+        ]
+      },
+      {
+        "heading": "Escalate with a bounded packet",
+        "paragraphs": [
+          "An escalation should include the record link, verified facts, the unresolved decision, the deadline, actions already taken, and the safest permitted next step. Use distinct reason codes for missing source, conflicting source, wrong record, expired evidence, unavailable approver, and system outage.",
+          "Do not convert silence into approval. Keep the work paused when the next action depends on authority or evidence that has not arrived."
+        ]
+      },
+      {
+        "heading": "Close, review, and improve",
+        "paragraphs": [
+          "Close only when the completion event, communication, and evidence are present. Include routine, difficult, reopened, and unresolved records. When the same exception recurs, change the intake field, evidence rule, ownership map, or approval gate.",
+          "Test the revision on a bounded sample and keep the prior version for audit. Review quality with denominators and inspect routine, adverse, and unresolved records."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Who owns decisions in quality sampling?",
+        "a": "The accountable Closing Specialist owner retains the professional or commercial decision; support prepares and routes the record."
+      },
+      {
+        "q": "What proves the workflow is complete?",
+        "a": "The completion event, communication, source evidence, named owner, and closure state must all be present."
+      },
+      {
+        "q": "What happens when evidence conflicts?",
+        "a": "Preserve both values, pause the dependent action, and route a concise comparison to the authorized owner."
+      }
+    ],
+    "internalService": "/services",
+    "internalSibling": "/blog/title-commitment-review",
+    "source": {
+      "label": "Consumer Financial Protection Bureau, closing checklist",
+      "url": "https://www.consumerfinance.gov/owning-a-home/closing-disclosure/"
+    }
+  },
+  {
+    "slug": "closingspecialist-closeout-audit",
+    "title": "Closeout Audit for Closing Specialist Teams",
+    "description": "A practical Closing Specialist workflow for closeout audit for closing specialist teams, with evidence, ownership, exceptions, and review.",
+    "category": "Closing Specialist Operations",
+    "publishedAt": "2026-10-25",
+    "readTime": "9 min read",
+    "thumbnail": "/article-thumbnails/october-22/closingspecialist-closeout-audit.svg",
+    "sections": [
+      {
+        "heading": "Define the outcome for Closeout Audit",
+        "paragraphs": [
+          "Closeout Audit gives Closing Specialist teams a bounded way to coordinate closeout audits. The operating risk is that a closed status can be recorded before the evidence or communication is complete. A useful record keeps the request, source, owner, due time, exception state, and completion evidence together.",
+          "Name the event that creates a record, the source system, the minimum evidence, the accountable owner, and the clock start before the queue opens. Closure confirms the administrative record; it does not certify a professional outcome."
+        ]
+      },
+      {
+        "heading": "Map the inputs and the record",
+        "paragraphs": [
+          "Capture record, required evidence, final owner, completion event, communication, exception, and audit date. Link each consequential value to its source and record when it was observed. Missing information must remain visible rather than being replaced by a plausible assumption.",
+          "Use a small set of named states such as received, incomplete, ready for review, exception, and closed. Every exception needs a reason code, the role that must resolve it, and a dated next action."
+        ]
+      },
+      {
+        "heading": "Separate preparation from judgment",
+        "paragraphs": [
+          "The support role may collect, label, route, and draft within approved language. It may not invent a rationale, infer an approval, or make a commitment that belongs to an authorized owner.",
+          "Use proceed, pause for review, and escalate now as operational states. Preserve the original question when the answer depends on a professional or commercial decision."
+        ]
+      },
+      {
+        "heading": "Run the daily queue",
+        "paragraphs": [
+          "Sort open items for closeout audits by client impact, external deadline, dependency, and age. Update status only from a verifiable event, not from a conversation or an assumption.",
+          "Before handoff, give every open item a named owner, a dated next action, and a link to the evidence. A shared inbox may receive work, but it cannot own an outcome."
+        ]
+      },
+      {
+        "heading": "Escalate with a bounded packet",
+        "paragraphs": [
+          "An escalation should include the record link, verified facts, the unresolved decision, the deadline, actions already taken, and the safest permitted next step. Use distinct reason codes for missing source, conflicting source, wrong record, expired evidence, unavailable approver, and system outage.",
+          "Do not convert silence into approval. Keep the work paused when the next action depends on authority or evidence that has not arrived."
+        ]
+      },
+      {
+        "heading": "Close, review, and improve",
+        "paragraphs": [
+          "Close only when the completion event, communication, and evidence are present. Sample closed records and verify the completion event and source. When the same exception recurs, change the intake field, evidence rule, ownership map, or approval gate.",
+          "Test the revision on a bounded sample and keep the prior version for audit. Review quality with denominators and inspect routine, adverse, and unresolved records."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Who owns decisions in closeout audits?",
+        "a": "The accountable Closing Specialist owner retains the professional or commercial decision; support prepares and routes the record."
+      },
+      {
+        "q": "What proves the workflow is complete?",
+        "a": "The completion event, communication, source evidence, named owner, and closure state must all be present."
+      },
+      {
+        "q": "What happens when evidence conflicts?",
+        "a": "Preserve both values, pause the dependent action, and route a concise comparison to the authorized owner."
+      }
+    ],
+    "internalService": "/services",
+    "internalSibling": "/blog/title-commitment-review",
+    "source": {
+      "label": "Consumer Financial Protection Bureau, closing checklist",
+      "url": "https://www.consumerfinance.gov/owning-a-home/closing-disclosure/"
+    }
   }
 ];
 
@@ -1281,6 +2157,341 @@ export const october22ResearchBatch: readonly ResearchPost[] = [
         "paragraphs": [
           "Before reusing this analysis, ask whether the closing file still uses the same status definitions, whether the source guidance has changed, and whether the sample includes ordinary as well as exception cases. Check whether a status can be supported by a dated source and a named owner.",
           "Record what would change the conclusion. A new rule, a system migration, or a revised retention requirement can invalidate a previously reasonable assumption. The review is stronger when its reopening conditions are written down beside the finding."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Consumer Financial Protection Bureau, closing disclosure",
+        "url": "https://www.consumerfinance.gov/owning-a-home/closing-disclosure/"
+      },
+      {
+        "label": "U.S. Department of Housing and Urban Development, settlement process",
+        "url": "https://www.hud.gov/topics/buying_a_home"
+      },
+      {
+        "label": "Fannie Mae Selling Guide",
+        "url": "https://selling-guide.fanniemae.com/"
+      }
+    ]
+  },
+  {
+    "slug": "closingspecialist-intake-completeness-study",
+    "title": "Closing Specialist Intake Completeness Study",
+    "summary": "A reproducible review of which required fields and source artifacts are present at the point of assignment in Closing Specialist operations.",
+    "cluster": "Closing Specialist Research",
+    "publishedAt": "2026-10-25",
+    "thumbnail": "/article-thumbnails/october-22/closingspecialist-intake-completeness-study.svg",
+    "finding": "The reviewable signal is the source, owner, timestamp, exception, and completion evidence for which required fields and source artifacts are present at the point of assignment.",
+    "sections": [
+      {
+        "heading": "Research question and scope",
+        "paragraphs": [
+          "This protocol examines which required fields and source artifacts are present at the point of assignment across intake records for the defined service in Closing Specialist operations. It evaluates the administrative record, not the quality of a professional judgment or the truth of an underlying claim.",
+          "Leadership may use the result to improve forms, ownership, system configuration, reviewer coverage, or escalation rules. It should not rank people, clients, patients, or teams."
+        ]
+      },
+      {
+        "heading": "Population and evidence",
+        "paragraphs": [
+          "Define intake records for the defined service from a fixed export. Record the query time, systems, date boundaries, statuses, exclusions, deduplication rule, and resulting count.",
+          "A record belongs because it meets the written rule, not because it appears easy or unusual. Preserve excluded counts by reason so the denominator can be challenged."
+        ]
+      },
+      {
+        "heading": "Measurement method",
+        "paragraphs": [
+          "Capture the fields used for field completeness, missing evidence, owner assignment, exception state, and correction time. Define allowed values, source system, timestamp rule, and treatment of missing, unknown, and not applicable.",
+          "Retain a restricted crosswalk to source identifiers. When sources conflict, keep both values and create a conflict flag rather than selecting the cleaner result."
+        ]
+      },
+      {
+        "heading": "Sampling and reviewer agreement",
+        "paragraphs": [
+          "Draw a stratified sample across age, state, owner group, channel, exception type, and final disposition. Include completed and unresolved work. Record the random seed and every replacement.",
+          "Train two reviewers on a calibration set, preserve first-pass ratings, and adjudicate disagreements. Escalate professional questions rather than answering them to complete a classification."
+        ]
+      },
+      {
+        "heading": "Analysis and limitations",
+        "paragraphs": [
+          "Report counts, rates, medians, aging bands, denominators, and missingness for field completeness, missing evidence, owner assignment, exception state, and correction time. Inspect case narratives behind important differences before assigning a cause.",
+          "The study cannot determine service quality, legal compliance, or the correctness of a professional decision. System migrations, policy changes, staffing shifts, missing off-system contacts, and reviewer error may influence findings."
+        ]
+      },
+      {
+        "heading": "Privacy, reporting, and replication",
+        "paragraphs": [
+          "Use the minimum information needed for intake records for the defined service, limit access, log exports, and apply retention rules. Do not turn population patterns into assumptions about an individual.",
+          "Retain the query, exclusion log, sample seed, codebook, reviewer notes, classifications, adjudications, and calculations so a qualified reviewer can rebuild the sample and results."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Consumer Financial Protection Bureau, closing disclosure",
+        "url": "https://www.consumerfinance.gov/owning-a-home/closing-disclosure/"
+      },
+      {
+        "label": "U.S. Department of Housing and Urban Development, settlement process",
+        "url": "https://www.hud.gov/topics/buying_a_home"
+      },
+      {
+        "label": "Fannie Mae Selling Guide",
+        "url": "https://selling-guide.fanniemae.com/"
+      }
+    ]
+  },
+  {
+    "slug": "closingspecialist-handoff-latency-study",
+    "title": "Closing Specialist Handoff Latency Study",
+    "summary": "A reproducible review of how long each handoff takes and where acknowledgement or context is lost in Closing Specialist operations.",
+    "cluster": "Closing Specialist Research",
+    "publishedAt": "2026-10-25",
+    "thumbnail": "/article-thumbnails/october-22/closingspecialist-handoff-latency-study.svg",
+    "finding": "The reviewable signal is the source, owner, timestamp, exception, and completion evidence for how long each handoff takes and where acknowledgement or context is lost.",
+    "sections": [
+      {
+        "heading": "Research question and scope",
+        "paragraphs": [
+          "This protocol examines how long each handoff takes and where acknowledgement or context is lost across records that move between two named owners in Closing Specialist operations. It evaluates the administrative record, not the quality of a professional judgment or the truth of an underlying claim.",
+          "Leadership may use the result to improve forms, ownership, system configuration, reviewer coverage, or escalation rules. It should not rank people, clients, patients, or teams."
+        ]
+      },
+      {
+        "heading": "Population and evidence",
+        "paragraphs": [
+          "Define records that move between two named owners from a fixed export. Record the query time, systems, date boundaries, statuses, exclusions, deduplication rule, and resulting count.",
+          "A record belongs because it meets the written rule, not because it appears easy or unusual. Preserve excluded counts by reason so the denominator can be challenged."
+        ]
+      },
+      {
+        "heading": "Measurement method",
+        "paragraphs": [
+          "Capture the fields used for handoff time, acknowledgement, missing context, rework, and unresolved records. Define allowed values, source system, timestamp rule, and treatment of missing, unknown, and not applicable.",
+          "Retain a restricted crosswalk to source identifiers. When sources conflict, keep both values and create a conflict flag rather than selecting the cleaner result."
+        ]
+      },
+      {
+        "heading": "Sampling and reviewer agreement",
+        "paragraphs": [
+          "Draw a stratified sample across age, state, owner group, channel, exception type, and final disposition. Include completed and unresolved work. Record the random seed and every replacement.",
+          "Train two reviewers on a calibration set, preserve first-pass ratings, and adjudicate disagreements. Escalate professional questions rather than answering them to complete a classification."
+        ]
+      },
+      {
+        "heading": "Analysis and limitations",
+        "paragraphs": [
+          "Report counts, rates, medians, aging bands, denominators, and missingness for handoff time, acknowledgement, missing context, rework, and unresolved records. Inspect case narratives behind important differences before assigning a cause.",
+          "The study cannot establish causation or whether a shorter handoff produced a better outcome. System migrations, policy changes, staffing shifts, missing off-system contacts, and reviewer error may influence findings."
+        ]
+      },
+      {
+        "heading": "Privacy, reporting, and replication",
+        "paragraphs": [
+          "Use the minimum information needed for records that move between two named owners, limit access, log exports, and apply retention rules. Do not turn population patterns into assumptions about an individual.",
+          "Retain the query, exclusion log, sample seed, codebook, reviewer notes, classifications, adjudications, and calculations so a qualified reviewer can rebuild the sample and results."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Consumer Financial Protection Bureau, closing disclosure",
+        "url": "https://www.consumerfinance.gov/owning-a-home/closing-disclosure/"
+      },
+      {
+        "label": "U.S. Department of Housing and Urban Development, settlement process",
+        "url": "https://www.hud.gov/topics/buying_a_home"
+      },
+      {
+        "label": "Fannie Mae Selling Guide",
+        "url": "https://selling-guide.fanniemae.com/"
+      }
+    ]
+  },
+  {
+    "slug": "closingspecialist-exception-pattern-audit",
+    "title": "Closing Specialist Exception Pattern Audit",
+    "summary": "A reproducible review of which exception reasons recur and whether they receive a consistent owner and disposition in Closing Specialist operations.",
+    "cluster": "Closing Specialist Research",
+    "publishedAt": "2026-10-25",
+    "thumbnail": "/article-thumbnails/october-22/closingspecialist-exception-pattern-audit.svg",
+    "finding": "The reviewable signal is the source, owner, timestamp, exception, and completion evidence for which exception reasons recur and whether they receive a consistent owner and disposition.",
+    "sections": [
+      {
+        "heading": "Research question and scope",
+        "paragraphs": [
+          "This protocol examines which exception reasons recur and whether they receive a consistent owner and disposition across exception records from the review window in Closing Specialist operations. It evaluates the administrative record, not the quality of a professional judgment or the truth of an underlying claim.",
+          "Leadership may use the result to improve forms, ownership, system configuration, reviewer coverage, or escalation rules. It should not rank people, clients, patients, or teams."
+        ]
+      },
+      {
+        "heading": "Population and evidence",
+        "paragraphs": [
+          "Define exception records from the review window from a fixed export. Record the query time, systems, date boundaries, statuses, exclusions, deduplication rule, and resulting count.",
+          "A record belongs because it meets the written rule, not because it appears easy or unusual. Preserve excluded counts by reason so the denominator can be challenged."
+        ]
+      },
+      {
+        "heading": "Measurement method",
+        "paragraphs": [
+          "Capture the fields used for reason mix, repeat rate, age, owner, resolution, and reopened exceptions. Define allowed values, source system, timestamp rule, and treatment of missing, unknown, and not applicable.",
+          "Retain a restricted crosswalk to source identifiers. When sources conflict, keep both values and create a conflict flag rather than selecting the cleaner result."
+        ]
+      },
+      {
+        "heading": "Sampling and reviewer agreement",
+        "paragraphs": [
+          "Draw a stratified sample across age, state, owner group, channel, exception type, and final disposition. Include completed and unresolved work. Record the random seed and every replacement.",
+          "Train two reviewers on a calibration set, preserve first-pass ratings, and adjudicate disagreements. Escalate professional questions rather than answering them to complete a classification."
+        ]
+      },
+      {
+        "heading": "Analysis and limitations",
+        "paragraphs": [
+          "Report counts, rates, medians, aging bands, denominators, and missingness for reason mix, repeat rate, age, owner, resolution, and reopened exceptions. Inspect case narratives behind important differences before assigning a cause.",
+          "The audit describes documented exceptions and cannot infer undocumented causes. System migrations, policy changes, staffing shifts, missing off-system contacts, and reviewer error may influence findings."
+        ]
+      },
+      {
+        "heading": "Privacy, reporting, and replication",
+        "paragraphs": [
+          "Use the minimum information needed for exception records from the review window, limit access, log exports, and apply retention rules. Do not turn population patterns into assumptions about an individual.",
+          "Retain the query, exclusion log, sample seed, codebook, reviewer notes, classifications, adjudications, and calculations so a qualified reviewer can rebuild the sample and results."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Consumer Financial Protection Bureau, closing disclosure",
+        "url": "https://www.consumerfinance.gov/owning-a-home/closing-disclosure/"
+      },
+      {
+        "label": "U.S. Department of Housing and Urban Development, settlement process",
+        "url": "https://www.hud.gov/topics/buying_a_home"
+      },
+      {
+        "label": "Fannie Mae Selling Guide",
+        "url": "https://selling-guide.fanniemae.com/"
+      }
+    ]
+  },
+  {
+    "slug": "closingspecialist-evidence-reliability-study",
+    "title": "Closing Specialist Evidence Reliability Study",
+    "summary": "A reproducible review of whether the source is reconstructable and consistent with the recorded final state in Closing Specialist operations.",
+    "cluster": "Closing Specialist Research",
+    "publishedAt": "2026-10-25",
+    "thumbnail": "/article-thumbnails/october-22/closingspecialist-evidence-reliability-study.svg",
+    "finding": "The reviewable signal is the source, owner, timestamp, exception, and completion evidence for whether the source is reconstructable and consistent with the recorded final state.",
+    "sections": [
+      {
+        "heading": "Research question and scope",
+        "paragraphs": [
+          "This protocol examines whether the source is reconstructable and consistent with the recorded final state across records with a source artifact and a later outcome in Closing Specialist operations. It evaluates the administrative record, not the quality of a professional judgment or the truth of an underlying claim.",
+          "Leadership may use the result to improve forms, ownership, system configuration, reviewer coverage, or escalation rules. It should not rank people, clients, patients, or teams."
+        ]
+      },
+      {
+        "heading": "Population and evidence",
+        "paragraphs": [
+          "Define records with a source artifact and a later outcome from a fixed export. Record the query time, systems, date boundaries, statuses, exclusions, deduplication rule, and resulting count.",
+          "A record belongs because it meets the written rule, not because it appears easy or unusual. Preserve excluded counts by reason so the denominator can be challenged."
+        ]
+      },
+      {
+        "heading": "Measurement method",
+        "paragraphs": [
+          "Capture the fields used for source presence, match, missing state, correction, reviewer agreement, and time. Define allowed values, source system, timestamp rule, and treatment of missing, unknown, and not applicable.",
+          "Retain a restricted crosswalk to source identifiers. When sources conflict, keep both values and create a conflict flag rather than selecting the cleaner result."
+        ]
+      },
+      {
+        "heading": "Sampling and reviewer agreement",
+        "paragraphs": [
+          "Draw a stratified sample across age, state, owner group, channel, exception type, and final disposition. Include completed and unresolved work. Record the random seed and every replacement.",
+          "Train two reviewers on a calibration set, preserve first-pass ratings, and adjudicate disagreements. Escalate professional questions rather than answering them to complete a classification."
+        ]
+      },
+      {
+        "heading": "Analysis and limitations",
+        "paragraphs": [
+          "Report counts, rates, medians, aging bands, denominators, and missingness for source presence, match, missing state, correction, reviewer agreement, and time. Inspect case narratives behind important differences before assigning a cause.",
+          "The study cannot prove that the source is truthful or that the final decision was correct. System migrations, policy changes, staffing shifts, missing off-system contacts, and reviewer error may influence findings."
+        ]
+      },
+      {
+        "heading": "Privacy, reporting, and replication",
+        "paragraphs": [
+          "Use the minimum information needed for records with a source artifact and a later outcome, limit access, log exports, and apply retention rules. Do not turn population patterns into assumptions about an individual.",
+          "Retain the query, exclusion log, sample seed, codebook, reviewer notes, classifications, adjudications, and calculations so a qualified reviewer can rebuild the sample and results."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Consumer Financial Protection Bureau, closing disclosure",
+        "url": "https://www.consumerfinance.gov/owning-a-home/closing-disclosure/"
+      },
+      {
+        "label": "U.S. Department of Housing and Urban Development, settlement process",
+        "url": "https://www.hud.gov/topics/buying_a_home"
+      },
+      {
+        "label": "Fannie Mae Selling Guide",
+        "url": "https://selling-guide.fanniemae.com/"
+      }
+    ]
+  },
+  {
+    "slug": "closingspecialist-access-recertification-study",
+    "title": "Closing Specialist Access Recertification Study",
+    "summary": "A reproducible review of whether current access matches the approved role and whether removals are evidenced in Closing Specialist operations.",
+    "cluster": "Closing Specialist Research",
+    "publishedAt": "2026-10-25",
+    "thumbnail": "/article-thumbnails/october-22/closingspecialist-access-recertification-study.svg",
+    "finding": "The reviewable signal is the source, owner, timestamp, exception, and completion evidence for whether current access matches the approved role and whether removals are evidenced.",
+    "sections": [
+      {
+        "heading": "Research question and scope",
+        "paragraphs": [
+          "This protocol examines whether current access matches the approved role and whether removals are evidenced across role-based access records for the service in Closing Specialist operations. It evaluates the administrative record, not the quality of a professional judgment or the truth of an underlying claim.",
+          "Leadership may use the result to improve forms, ownership, system configuration, reviewer coverage, or escalation rules. It should not rank people, clients, patients, or teams."
+        ]
+      },
+      {
+        "heading": "Population and evidence",
+        "paragraphs": [
+          "Define role-based access records for the service from a fixed export. Record the query time, systems, date boundaries, statuses, exclusions, deduplication rule, and resulting count.",
+          "A record belongs because it meets the written rule, not because it appears easy or unusual. Preserve excluded counts by reason so the denominator can be challenged."
+        ]
+      },
+      {
+        "heading": "Measurement method",
+        "paragraphs": [
+          "Capture the fields used for role match, excess access, temporary access age, removal evidence, and reviewer sign-off. Define allowed values, source system, timestamp rule, and treatment of missing, unknown, and not applicable.",
+          "Retain a restricted crosswalk to source identifiers. When sources conflict, keep both values and create a conflict flag rather than selecting the cleaner result."
+        ]
+      },
+      {
+        "heading": "Sampling and reviewer agreement",
+        "paragraphs": [
+          "Draw a stratified sample across age, state, owner group, channel, exception type, and final disposition. Include completed and unresolved work. Record the random seed and every replacement.",
+          "Train two reviewers on a calibration set, preserve first-pass ratings, and adjudicate disagreements. Escalate professional questions rather than answering them to complete a classification."
+        ]
+      },
+      {
+        "heading": "Analysis and limitations",
+        "paragraphs": [
+          "Report counts, rates, medians, aging bands, denominators, and missingness for role match, excess access, temporary access age, removal evidence, and reviewer sign-off. Inspect case narratives behind important differences before assigning a cause.",
+          "The study cannot determine legal sufficiency or whether a specific access decision was appropriate. System migrations, policy changes, staffing shifts, missing off-system contacts, and reviewer error may influence findings."
+        ]
+      },
+      {
+        "heading": "Privacy, reporting, and replication",
+        "paragraphs": [
+          "Use the minimum information needed for role-based access records for the service, limit access, log exports, and apply retention rules. Do not turn population patterns into assumptions about an individual.",
+          "Retain the query, exclusion log, sample seed, codebook, reviewer notes, classifications, adjudications, and calculations so a qualified reviewer can rebuild the sample and results."
         ]
       }
     ],
