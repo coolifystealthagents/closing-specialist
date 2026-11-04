@@ -1,13 +1,13 @@
 import type { ResearchPost } from './types';
 export const november04ResearchPosts: ResearchPost[] = [
   {
-    "slug": "closing-cd-delivery-evidence-study",
+    "slug": "cd-delivery-evidence-completeness",
     "title": "CD delivery evidence completeness",
     "summary": "A measurement protocol for CD delivery evidence in closing operations, with a frozen population, an evidence sample, and a dated review.",
     "cluster": "Closing coordination",
     "publishedAt": "2026-11-04",
     "finding": "A reproducible count of CD delivery evidence records missing a required field, reported with its window and exclusions.",
-    "thumbnail": "/thumbnails/november-04/closing-cd-delivery-evidence-study.png",
+    "thumbnail": "/thumbnails/november-04/cd-delivery-evidence-completeness.png",
     "sections": [
       {
         "heading": "Question and decision scope",
@@ -90,13 +90,13 @@ export const november04ResearchPosts: ResearchPost[] = [
     ]
   },
   {
-    "slug": "closing-seller-credit-cycle-study",
+    "slug": "seller-credit-change-cycle-time",
     "title": "Seller credit change cycle time",
     "summary": "A measurement protocol for seller credit change cycle time in closing operations, with a frozen population, an evidence sample, and a dated review.",
     "cluster": "Document coordination",
     "publishedAt": "2026-11-04",
     "finding": "A reproducible count of seller credit change cycle time records missing a required field, reported with its window and exclusions.",
-    "thumbnail": "/thumbnails/november-04/closing-seller-credit-cycle-study.png",
+    "thumbnail": "/thumbnails/november-04/seller-credit-change-cycle-time.png",
     "sections": [
       {
         "heading": "Question and decision scope",
@@ -179,13 +179,13 @@ export const november04ResearchPosts: ResearchPost[] = [
     ]
   },
   {
-    "slug": "closing-payoff-shortfall-study",
+    "slug": "payoff-shortfall-frequency",
     "title": "Payoff shortfall frequency",
     "summary": "A measurement protocol for payoff shortfall frequency in closing operations, with a frozen population, an evidence sample, and a dated review.",
     "cluster": "Closing checklist",
     "publishedAt": "2026-11-04",
     "finding": "A reproducible count of payoff shortfall frequency records missing a required field, reported with its window and exclusions.",
-    "thumbnail": "/thumbnails/november-04/closing-payoff-shortfall-study.png",
+    "thumbnail": "/thumbnails/november-04/payoff-shortfall-frequency.png",
     "sections": [
       {
         "heading": "Question and decision scope",
@@ -268,13 +268,13 @@ export const november04ResearchPosts: ResearchPost[] = [
     ]
   },
   {
-    "slug": "closing-wire-receipt-completeness-study",
+    "slug": "wire-receipt-log-completeness",
     "title": "Wire receipt log completeness",
     "summary": "A measurement protocol for wire receipt completeness in closing operations, with a frozen population, an evidence sample, and a dated review.",
     "cluster": "Post-closing records",
     "publishedAt": "2026-11-04",
     "finding": "A reproducible count of wire receipt completeness records missing a required field, reported with its window and exclusions.",
-    "thumbnail": "/thumbnails/november-04/closing-wire-receipt-completeness-study.png",
+    "thumbnail": "/thumbnails/november-04/wire-receipt-log-completeness.png",
     "sections": [
       {
         "heading": "Question and decision scope",
@@ -357,13 +357,13 @@ export const november04ResearchPosts: ResearchPost[] = [
     ]
   },
   {
-    "slug": "closing-title-update-latency-study",
+    "slug": "title-commitment-update-latency",
     "title": "Title commitment update latency",
     "summary": "A measurement protocol for title update latency in closing operations, with a frozen population, an evidence sample, and a dated review.",
     "cluster": "Title coordination",
     "publishedAt": "2026-11-04",
     "finding": "A reproducible count of title update latency records missing a required field, reported with its window and exclusions.",
-    "thumbnail": "/thumbnails/november-04/closing-title-update-latency-study.png",
+    "thumbnail": "/thumbnails/november-04/title-commitment-update-latency.png",
     "sections": [
       {
         "heading": "Question and decision scope",
@@ -446,13 +446,13 @@ export const november04ResearchPosts: ResearchPost[] = [
     ]
   },
   {
-    "slug": "closing-recording-exception-aging-study",
+    "slug": "recording-exception-aging",
     "title": "Recording exception aging",
     "summary": "A measurement protocol for recording exception aging in closing operations, with a frozen population, an evidence sample, and a dated review.",
     "cluster": "Post-closing records",
     "publishedAt": "2026-11-04",
     "finding": "A reproducible count of recording exception aging records missing a required field, reported with its window and exclusions.",
-    "thumbnail": "/thumbnails/november-04/closing-recording-exception-aging-study.png",
+    "thumbnail": "/thumbnails/november-04/recording-exception-aging.png",
     "sections": [
       {
         "heading": "Question and decision scope",

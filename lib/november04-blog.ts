@@ -1,13 +1,13 @@
 import type { BlogPost } from './types';
 export const november04BlogPosts: BlogPost[] = [
   {
-    "slug": "closing-verify-cd-delivery-before-signing",
+    "slug": "closing-verify-a-closing-disclosure-delivery-before-signing",
     "title": "Verify a closing disclosure delivery before signing",
     "description": "A bounded closing operations guide to CD delivery verification, with explicit evidence, decision rights, and a verified close.",
     "category": "Closing coordination",
     "publishedAt": "2026-11-04",
     "readTime": "9 min read",
-    "thumbnail": "/thumbnails/november-04/closing-verify-cd-delivery-before-signing.png",
+    "thumbnail": "/thumbnails/november-04/closing-verify-a-closing-disclosure-delivery-before-signing.png",
     "sections": [
       {
         "heading": "Name the decision and the queue owner",
@@ -85,20 +85,20 @@ export const november04BlogPosts: BlogPost[] = [
       }
     ],
     "internalService": "/services/closing-file-preparation",
-    "internalSibling": "/blog/closing-control-seller-credit-change",
+    "internalSibling": "/blog/closing-control-a-seller-credit-change-after-the-cd-is-issued",
     "source": {
       "label": "GAO — internal control standards",
       "url": "https://www.gao.gov/greenbook"
     }
   },
   {
-    "slug": "closing-control-seller-credit-change",
+    "slug": "closing-control-a-seller-credit-change-after-the-cd-is-issued",
     "title": "Control a seller credit change after the CD is issued",
     "description": "A bounded closing operations guide to seller credit change, with explicit evidence, decision rights, and a verified close.",
     "category": "Document coordination",
     "publishedAt": "2026-11-04",
     "readTime": "9 min read",
-    "thumbnail": "/thumbnails/november-04/closing-control-seller-credit-change.png",
+    "thumbnail": "/thumbnails/november-04/closing-control-a-seller-credit-change-after-the-cd-is-issued.png",
     "sections": [
       {
         "heading": "Name the decision and the queue owner",
@@ -176,20 +176,20 @@ export const november04BlogPosts: BlogPost[] = [
       }
     ],
     "internalService": "/services/document-coordination",
-    "internalSibling": "/blog/closing-handle-payoff-shortfall",
+    "internalSibling": "/blog/closing-handle-a-payoff-shortfall-at-the-closing-table",
     "source": {
       "label": "GAO — internal control standards",
       "url": "https://www.gao.gov/greenbook"
     }
   },
   {
-    "slug": "closing-handle-payoff-shortfall",
+    "slug": "closing-handle-a-payoff-shortfall-at-the-closing-table",
     "title": "Handle a payoff shortfall at the closing table",
     "description": "A bounded closing operations guide to payoff shortfall, with explicit evidence, decision rights, and a verified close.",
     "category": "Closing checklist",
     "publishedAt": "2026-11-04",
     "readTime": "9 min read",
-    "thumbnail": "/thumbnails/november-04/closing-handle-payoff-shortfall.png",
+    "thumbnail": "/thumbnails/november-04/closing-handle-a-payoff-shortfall-at-the-closing-table.png",
     "sections": [
       {
         "heading": "Name the decision and the queue owner",
@@ -267,20 +267,20 @@ export const november04BlogPosts: BlogPost[] = [
       }
     ],
     "internalService": "/services/closing-checklist-support",
-    "internalSibling": "/blog/closing-keep-wire-receipt-log",
+    "internalSibling": "/blog/closing-keep-a-wire-receipt-log-for-disbursements",
     "source": {
       "label": "GAO — internal control standards",
       "url": "https://www.gao.gov/greenbook"
     }
   },
   {
-    "slug": "closing-keep-wire-receipt-log",
+    "slug": "closing-keep-a-wire-receipt-log-for-disbursements",
     "title": "Keep a wire receipt log for disbursements",
     "description": "A bounded closing operations guide to wire receipt log, with explicit evidence, decision rights, and a verified close.",
     "category": "Post-closing records",
     "publishedAt": "2026-11-04",
     "readTime": "9 min read",
-    "thumbnail": "/thumbnails/november-04/closing-keep-wire-receipt-log.png",
+    "thumbnail": "/thumbnails/november-04/closing-keep-a-wire-receipt-log-for-disbursements.png",
     "sections": [
       {
         "heading": "Name the decision and the queue owner",
@@ -358,20 +358,20 @@ export const november04BlogPosts: BlogPost[] = [
       }
     ],
     "internalService": "/services/post-closing-records",
-    "internalSibling": "/blog/closing-track-title-update-after-survey",
+    "internalSibling": "/blog/closing-track-a-title-commitment-update-after-a-survey",
     "source": {
       "label": "GAO — internal control standards",
       "url": "https://www.gao.gov/greenbook"
     }
   },
   {
-    "slug": "closing-track-title-update-after-survey",
+    "slug": "closing-track-a-title-commitment-update-after-a-survey",
     "title": "Track a title commitment update after a survey",
     "description": "A bounded closing operations guide to title commitment update, with explicit evidence, decision rights, and a verified close.",
     "category": "Title coordination",
     "publishedAt": "2026-11-04",
     "readTime": "9 min read",
-    "thumbnail": "/thumbnails/november-04/closing-track-title-update-after-survey.png",
+    "thumbnail": "/thumbnails/november-04/closing-track-a-title-commitment-update-after-a-survey.png",
     "sections": [
       {
         "heading": "Name the decision and the queue owner",
@@ -449,20 +449,20 @@ export const november04BlogPosts: BlogPost[] = [
       }
     ],
     "internalService": "/services/document-coordination",
-    "internalSibling": "/blog/closing-standardize-recording-exception",
+    "internalSibling": "/blog/closing-standardize-a-post-closing-recording-exception",
     "source": {
       "label": "GAO — internal control standards",
       "url": "https://www.gao.gov/greenbook"
     }
   },
   {
-    "slug": "closing-standardize-recording-exception",
+    "slug": "closing-standardize-a-post-closing-recording-exception",
     "title": "Standardize a post-closing recording exception",
     "description": "A bounded closing operations guide to recording exception, with explicit evidence, decision rights, and a verified close.",
     "category": "Post-closing records",
     "publishedAt": "2026-11-04",
     "readTime": "9 min read",
-    "thumbnail": "/thumbnails/november-04/closing-standardize-recording-exception.png",
+    "thumbnail": "/thumbnails/november-04/closing-standardize-a-post-closing-recording-exception.png",
     "sections": [
       {
         "heading": "Name the decision and the queue owner",
@@ -540,20 +540,20 @@ export const november04BlogPosts: BlogPost[] = [
       }
     ],
     "internalService": "/services/post-closing-records",
-    "internalSibling": "/blog/closing-reconcile-fee-change",
+    "internalSibling": "/blog/closing-reconcile-a-closing-fee-change-without-rewriting-the-cd",
     "source": {
       "label": "GAO — internal control standards",
       "url": "https://www.gao.gov/greenbook"
     }
   },
   {
-    "slug": "closing-reconcile-fee-change",
+    "slug": "closing-reconcile-a-closing-fee-change-without-rewriting-the-cd",
     "title": "Reconcile a closing fee change without rewriting the CD",
     "description": "A bounded closing operations guide to closing fee change, with explicit evidence, decision rights, and a verified close.",
     "category": "Closing coordination",
     "publishedAt": "2026-11-04",
     "readTime": "9 min read",
-    "thumbnail": "/thumbnails/november-04/closing-reconcile-fee-change.png",
+    "thumbnail": "/thumbnails/november-04/closing-reconcile-a-closing-fee-change-without-rewriting-the-cd.png",
     "sections": [
       {
         "heading": "Name the decision and the queue owner",
@@ -631,20 +631,20 @@ export const november04BlogPosts: BlogPost[] = [
       }
     ],
     "internalService": "/services/closing-checklist-support",
-    "internalSibling": "/blog/closing-audit-notary-reschedule",
+    "internalSibling": "/blog/closing-audit-a-notary-appointment-reschedule",
     "source": {
       "label": "GAO — internal control standards",
       "url": "https://www.gao.gov/greenbook"
     }
   },
   {
-    "slug": "closing-audit-notary-reschedule",
+    "slug": "closing-audit-a-notary-appointment-reschedule",
     "title": "Audit a notary appointment reschedule",
     "description": "A bounded closing operations guide to notary reschedule, with explicit evidence, decision rights, and a verified close.",
     "category": "Signing operations",
     "publishedAt": "2026-11-04",
     "readTime": "9 min read",
-    "thumbnail": "/thumbnails/november-04/closing-audit-notary-reschedule.png",
+    "thumbnail": "/thumbnails/november-04/closing-audit-a-notary-appointment-reschedule.png",
     "sections": [
       {
         "heading": "Name the decision and the queue owner",
@@ -722,7 +722,7 @@ export const november04BlogPosts: BlogPost[] = [
       }
     ],
     "internalService": "/services/closing-file-preparation",
-    "internalSibling": "/blog/closing-verify-cd-delivery-before-signing",
+    "internalSibling": "/blog/closing-verify-a-closing-disclosure-delivery-before-signing",
     "source": {
       "label": "GAO — internal control standards",
       "url": "https://www.gao.gov/greenbook"
