@@ -76,11 +76,11 @@ export const november05ResearchPosts: ResearchPost[] = [
     ],
     "sources": [
       {
-        "label": "GAO — internal control standards",
+        "label": "GAO: internal control standards",
         "url": "https://www.gao.gov/greenbook"
       },
       {
-        "label": "GAO — internal control standards",
+        "label": "GAO: internal control standards",
         "url": "https://www.gao.gov/greenbook"
       },
       {
@@ -169,7 +169,7 @@ export const november05ResearchPosts: ResearchPost[] = [
         "url": "https://www.alta.org/"
       },
       {
-        "label": "GAO — internal control standards",
+        "label": "GAO: internal control standards",
         "url": "https://www.gao.gov/greenbook"
       },
       {
@@ -254,11 +254,11 @@ export const november05ResearchPosts: ResearchPost[] = [
     ],
     "sources": [
       {
-        "label": "CFPB — closing disclosure",
+        "label": "CFPB: closing disclosure",
         "url": "https://www.consumerfinance.gov/owning-a-home/closing-disclosure/"
       },
       {
-        "label": "GAO — internal control standards",
+        "label": "GAO: internal control standards",
         "url": "https://www.gao.gov/greenbook"
       },
       {
@@ -347,7 +347,7 @@ export const november05ResearchPosts: ResearchPost[] = [
         "url": "https://www.alta.org/"
       },
       {
-        "label": "GAO — internal control standards",
+        "label": "GAO: internal control standards",
         "url": "https://www.gao.gov/greenbook"
       },
       {
@@ -432,11 +432,11 @@ export const november05ResearchPosts: ResearchPost[] = [
     ],
     "sources": [
       {
-        "label": "National Archives — records management",
+        "label": "National Archives: records management",
         "url": "https://www.archives.gov/records-mgmt"
       },
       {
-        "label": "GAO — internal control standards",
+        "label": "GAO: internal control standards",
         "url": "https://www.gao.gov/greenbook"
       },
       {
@@ -521,11 +521,11 @@ export const november05ResearchPosts: ResearchPost[] = [
     ],
     "sources": [
       {
-        "label": "CFPB — closing disclosure",
+        "label": "CFPB: closing disclosure",
         "url": "https://www.consumerfinance.gov/owning-a-home/closing-disclosure/"
       },
       {
-        "label": "GAO — internal control standards",
+        "label": "GAO: internal control standards",
         "url": "https://www.gao.gov/greenbook"
       },
       {
@@ -610,11 +610,11 @@ export const november05ResearchPosts: ResearchPost[] = [
     ],
     "sources": [
       {
-        "label": "FTC — data security guidance",
+        "label": "FTC: data security guidance",
         "url": "https://www.ftc.gov/business-guidance/privacy-security/data-security"
       },
       {
-        "label": "GAO — internal control standards",
+        "label": "GAO: internal control standards",
         "url": "https://www.gao.gov/greenbook"
       },
       {
