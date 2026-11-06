@@ -2,7 +2,9 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { researchPosts } from "@/lib/content";
+import { researchThumbnail } from "@/lib/editorialThumbnailFallback";
 import { EditorialMotion, ScrubCopy } from "@/components/EditorialMotion";
+import { EditorialThumbnail } from "@/components/EditorialThumbnail";
 export const metadata: Metadata = {
   title: "Closing operations research",
   description:
@@ -49,16 +51,12 @@ export default function ResearchIndex() {
               href={`/research/${p.slug}`}
               key={p.slug}
             >
-              {p.thumbnail && (
-                <Image
-                  src={p.thumbnail}
-                  alt={`Research visual for ${p.title}`}
-                  width={1200}
-                  height={630}
-                  sizes="(max-width: 780px) 100vw, (max-width: 1050px) 50vw, 33vw"
-                  priority={index === 0}
-                />
-              )}
+              <EditorialThumbnail
+                src={researchThumbnail(p.thumbnail, p.slug)}
+                alt={`Research visual for ${p.title}`}
+                featured={index === 0}
+                priority={index === 0}
+              />
               <span className="pill">{p.cluster}</span>
               <h2>{p.title}</h2>
               <p>{p.summary}</p>

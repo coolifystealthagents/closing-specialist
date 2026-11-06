@@ -3,6 +3,7 @@ import Script from 'next/script';
 import { Footer, Header } from '@/components/SiteChrome';
 import { site } from '@/lib/site';
 import './globals.css';
+import './editorial-thumbnails.css';
 
 export const metadata: Metadata = {
   metadataBase: new URL(`https://${site.domain}`),

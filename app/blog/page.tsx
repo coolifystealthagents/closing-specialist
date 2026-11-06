@@ -2,7 +2,9 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { blogPosts } from "@/lib/content";
+import { blogThumbnail } from "@/lib/editorialThumbnailFallback";
 import { EditorialMotion, ScrubCopy } from "@/components/EditorialMotion";
+import { EditorialThumbnail } from "@/components/EditorialThumbnail";
 export const metadata: Metadata = {
   title: "Closing field notes",
   description:
@@ -49,16 +51,12 @@ export default function BlogIndex() {
               href={`/blog/${p.slug}`}
               key={p.slug}
             >
-              {p.thumbnail && (
-                <Image
-                  src={p.thumbnail}
-                  alt={`Editorial visual for ${p.title}`}
-                  width={1200}
-                  height={630}
-                  sizes="(max-width: 780px) 100vw, (max-width: 1050px) 50vw, 33vw"
-                  priority={index === 0}
-                />
-              )}
+              <EditorialThumbnail
+                src={blogThumbnail(p.thumbnail, p.slug)}
+                alt={`Editorial visual for ${p.title}`}
+                featured={index === 0}
+                priority={index === 0}
+              />
               <span className="pill">{p.category}</span>
               <h2>{p.title}</h2>
               <p>{p.description}</p>
