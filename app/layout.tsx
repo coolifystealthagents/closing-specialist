@@ -15,5 +15,12 @@ export const metadata: Metadata = {
 export const viewport: Viewport = { width: 'device-width', initialScale: 1, themeColor: '#173f34' };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
-  return <html lang="en" data-design="closing-desk"><body><Header />{children}<Footer /><Script id="acr-tracker-config" strategy="beforeInteractive">{`window.ACR_TRACKER_CONFIG={siteId:'${site.siteId}',endpoint:'/ingest/track',debug:false};`}</Script><Script src="https://acrtracking.stealthagents.us/v1/tracker.js" strategy="afterInteractive" /></body></html>;
+  return <html lang="en" data-design="closing-desk"><body><Header />{children}<Footer /><Script id="acr-tracker-config" strategy="beforeInteractive">{`window.ACR_TRACKER_CONFIG={siteId:'${site.siteId}',endpoint:'/ingest/track',debug:false};`}</Script><Script src="https://acrtracking.stealthagents.us/v1/tracker.js" strategy="afterInteractive" />
+  <Script
+    id="databull-analytics"
+    src="https://databull.stealthagents.us/js/script.js"
+    data-website-id="dc_i2rel0vd2xs006"
+    data-domain="closingspecialist.com"
+    strategy="afterInteractive"
+  /></body></html>;
 }
