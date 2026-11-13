@@ -530,6 +530,70 @@
   ],
   "blog": [
     {
+      "slug": "verify-a-closing-wire-receipt-against-the-settlement-ledger-for-the-next-review-cycle",
+      "title": "Verify a closing wire receipt against the settlement ledger for the next review cycle",
+      "description": "A bounded closing operations guide to closing wire receipt, with explicit evidence, decision rights, and a verified close Revisit the rule with one current example before the next review cycle.",
+      "category": "Funding control",
+      "date": "2026-11-12",
+      "image": "/refresh-20261113/service1.webp"
+    },
+    {
+      "slug": "control-a-seller-concession-cap-on-the-closing-disclosure-for-the-next-review-cycle",
+      "title": "Control a seller concession cap on the closing disclosure for the next review cycle",
+      "description": "A bounded closing operations guide to seller concession cap, with explicit evidence, decision rights, and a verified close Revisit the rule with one current example before the next review cycle.",
+      "category": "Disclosure control",
+      "date": "2026-11-12",
+      "image": "/refresh-20261113/service2.webp"
+    },
+    {
+      "slug": "reconcile-a-prepaid-interest-per-diem-line-for-the-next-review-cycle",
+      "title": "Reconcile a prepaid interest per-diem line for the next review cycle",
+      "description": "A bounded closing operations guide to prepaid interest per diem, with explicit evidence, decision rights, and a verified close Revisit the rule with one current example before the next review cycle.",
+      "category": "Proration coordination",
+      "date": "2026-11-12",
+      "image": "/refresh-20261113/service3.webp"
+    },
+    {
+      "slug": "track-a-lis-pendens-release-before-recording-for-the-next-review-cycle",
+      "title": "Track a lis pendens release before recording for the next review cycle",
+      "description": "A bounded closing operations guide to lis pendens release, with explicit evidence, decision rights, and a verified close Revisit the rule with one current example before the next review cycle.",
+      "category": "Lien coordination",
+      "date": "2026-11-12",
+      "image": "/refresh-20261113/service4.webp"
+    },
+    {
+      "slug": "verify-a-limited-power-of-attorney-for-a-remote-signer-for-the-next-review-cycle",
+      "title": "Verify a limited power of attorney for a remote signer for the next review cycle",
+      "description": "A bounded closing operations guide to remote signer authority, with explicit evidence, decision rights, and a verified close Revisit the rule with one current example before the next review cycle.",
+      "category": "Authority review",
+      "date": "2026-11-12",
+      "image": "/refresh-20261113/service5.webp"
+    },
+    {
+      "slug": "control-a-closing-package-re-disclosure-after-a-changed-term-for-the-next-review-cycle",
+      "title": "Control a closing package re-disclosure after a changed term for the next review cycle",
+      "description": "A bounded closing operations guide to changed term re-disclosure, with explicit evidence, decision rights, and a verified close Revisit the rule with one current example before the next review cycle.",
+      "category": "Disclosure control",
+      "date": "2026-11-12",
+      "image": "/refresh-20261113/service6.webp"
+    },
+    {
+      "slug": "reconcile-a-title-endorsement-premium-on-the-settlement-statement-for-the-next-review-cycle",
+      "title": "Reconcile a title endorsement premium on the settlement statement for the next review cycle",
+      "description": "A bounded closing operations guide to title endorsement premium, with explicit evidence, decision rights, and a verified close Revisit the rule with one current example before the next review cycle.",
+      "category": "Fee disclosure",
+      "date": "2026-11-12",
+      "image": "/refresh-20261113/service7.webp"
+    },
+    {
+      "slug": "audit-a-closing-file-index-against-the-document-checklist-for-the-next-review-cycle",
+      "title": "Audit a closing file index against the document checklist for the next review cycle",
+      "description": "A bounded closing operations guide to closing file index, with explicit evidence, decision rights, and a verified close Revisit the rule with one current example before the next review cycle.",
+      "category": "Post-closing records",
+      "date": "2026-11-12",
+      "image": "/refresh-20261113/service8.webp"
+    },
+    {
       "slug": "closing-verify-a-closing-wire-receipt-against-the-settlement-ledger",
       "title": "Verify a closing wire receipt against the settlement ledger",
       "description": "A bounded closing operations guide to closing wire receipt, with explicit evidence, decision rights, and a verified close.",
@@ -1883,6 +1947,62 @@
     }
   ],
   "research": [
+    {
+      "slug": "wire-receipt-ledger-match-rate-in-the-next-review-cycle",
+      "title": "Wire receipt ledger match rate in the next review cycle?",
+      "description": "A measurement protocol for closing wire receipt ledger match in closing operations, with a frozen population, an evidence sample, and a dated review The next review cycle adds a checkpoint and a clearer exception path.",
+      "category": "Funding operations",
+      "date": "2026-11-12",
+      "image": "/refresh-20261113/service1.webp"
+    },
+    {
+      "slug": "seller-concession-cap-exception-rate-in-the-next-review-cycle",
+      "title": "Seller concession cap exception rate in the next review cycle?",
+      "description": "A measurement protocol for seller concession cap exception in closing operations, with a frozen population, an evidence sample, and a dated review The next review cycle adds a checkpoint and a clearer exception path.",
+      "category": "Disclosure operations",
+      "date": "2026-11-12",
+      "image": "/refresh-20261113/service2.webp"
+    },
+    {
+      "slug": "prepaid-interest-per-diem-variance-in-the-next-review-cycle",
+      "title": "Prepaid interest per-diem variance in the next review cycle?",
+      "description": "A measurement protocol for prepaid interest per diem variance in closing operations, with a frozen population, an evidence sample, and a dated review The next review cycle adds a checkpoint and a clearer exception path.",
+      "category": "Proration operations",
+      "date": "2026-11-12",
+      "image": "/refresh-20261113/service3.webp"
+    },
+    {
+      "slug": "lis-pendens-release-recording-lag-in-the-next-review-cycle",
+      "title": "Lis pendens release recording lag in the next review cycle?",
+      "description": "A measurement protocol for lis pendens release recording lag in closing operations, with a frozen population, an evidence sample, and a dated review The next review cycle adds a checkpoint and a clearer exception path.",
+      "category": "Lien operations",
+      "date": "2026-11-12",
+      "image": "/refresh-20261113/service4.webp"
+    },
+    {
+      "slug": "remote-signer-authority-verification-coverage-in-the-next-review-cycle",
+      "title": "Remote signer authority verification coverage in the next review cycle?",
+      "description": "A measurement protocol for remote signer authority verification in closing operations, with a frozen population, an evidence sample, and a dated review The next review cycle adds a checkpoint and a clearer exception path.",
+      "category": "Authority operations",
+      "date": "2026-11-12",
+      "image": "/refresh-20261113/service5.webp"
+    },
+    {
+      "slug": "changed-term-re-disclosure-timing-compliance-in-the-next-review-cycle",
+      "title": "Changed term re-disclosure timing compliance in the next review cycle?",
+      "description": "A measurement protocol for changed term re-disclosure timing in closing operations, with a frozen population, an evidence sample, and a dated review The next review cycle adds a checkpoint and a clearer exception path.",
+      "category": "Disclosure operations",
+      "date": "2026-11-12",
+      "image": "/refresh-20261113/service6.webp"
+    },
+    {
+      "slug": "title-endorsement-premium-reconciliation-variance-in-the-next-review-cycle",
+      "title": "Title endorsement premium reconciliation variance in the next review cycle?",
+      "description": "A measurement protocol for title endorsement premium reconciliation in closing operations, with a frozen population, an evidence sample, and a dated review The next review cycle adds a checkpoint and a clearer exception path.",
+      "category": "Fee operations",
+      "date": "2026-11-12",
+      "image": "/refresh-20261113/service7.webp"
+    },
     {
       "slug": "closing-wire-receipt-ledger-match-rate",
       "title": "Wire receipt ledger match rate",
