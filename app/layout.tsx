@@ -1,9 +1,10 @@
 import type { Metadata, Viewport } from 'next';
 import Script from 'next/script';
-import { Footer, Header } from '@/components/SiteChrome';
+import {SiteHeader as Header,SiteFooter as Footer} from './experience';
 import { site } from '@/lib/site';
 import './globals.css';
 import './editorial-thumbnails.css';
+import './experience.css';
 
 export const metadata: Metadata = {
   metadataBase: new URL(`https://${site.domain}`),

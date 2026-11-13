@@ -1,0 +1,2849 @@
+{
+  "short": "Closing Specialist",
+  "heading": [
+    "Every detail,",
+    "ready for the next step."
+  ],
+  "intro": "Dependable coordination for the work between an opened file and a completed closing. Keep documents, dates, and people aligned while your professionals lead the transaction.",
+  "serviceHeading": "A considered approach to closing support.",
+  "storyHeading": "A well-prepared file changes the working day.",
+  "story": "A closing brings together people, documents, conditions, and dates that rarely arrive in a neat sequence. Support makes the current record easier to understand, gives missing items an owner, and prepares the file for the people authorized to decide.",
+  "contact": "Bring clarity to your closing desk.",
+  "footer": "Remote administrative support for closing teams, from document intake and milestone tracking to signing coordination and final records.",
+  "words": [
+    "Current documents",
+    "Visible milestones",
+    "Confident handoffs"
+  ],
+  "close": "A clearer closing starts with a conversation.",
+  "theme": "closing",
+  "name": "closing-specialist",
+  "domain": "closingspecialist.com",
+  "root": "/Users/wrayns/Documents/Codex/2026-11-10/hi/work/portfolio-acr/repos/closing-specialist--main",
+  "app": "/Users/wrayns/Documents/Codex/2026-11-10/hi/work/portfolio-acr/repos/closing-specialist--main/app",
+  "brand": "Closing Specialist",
+  "services": [
+    {
+      "slug": "closing-checklist-support",
+      "title": "Closing checklist support",
+      "description": "Maintain review-ready requirement lists for each transaction.",
+      "intro": "Checklist status becomes unreliable when updates live across email, notes, and several file versions.",
+      "audience": "Title operations teams and transaction coordinators managing many concurrent requirement lists.",
+      "inputs": [
+        "Approved checklist template",
+        "Current transaction milestones",
+        "Named source systems",
+        "Owner-defined exception rules"
+      ],
+      "work": [
+        "Prepare closing checklists",
+        "Track required items",
+        "Record completion status",
+        "Escalate missing conditions"
+      ],
+      "outputs": [
+        "Current requirement status",
+        "Source-linked completion notes",
+        "Missing-item queue",
+        "Escalation record"
+      ],
+      "controls": [
+        "Compare each completed item with its approved source.",
+        "Check that the status, owner, and next action agree across records.",
+        "Keep missing or conflicting information visible until the review owner resolves it.",
+        "Review a sample together before expanding the volume or scope."
+      ],
+      "boundaries": [
+        "No legal or title interpretation",
+        "No waiver of requirements",
+        "No final completeness approval"
+      ],
+      "workflow": [
+        "Agree on the first queue, the expected output, and who reviews the work.",
+        "Walk through representative records together and document ambiguous cases.",
+        "Begin with a manageable volume and a regular exception review.",
+        "Use corrections and completion checks to refine the handoff before expanding it."
+      ],
+      "scenarios": [
+        "New file opening",
+        "Pre-signing readiness review",
+        "Late condition follow-up"
+      ],
+      "faqs": [
+        {
+          "question": "What should we prepare for this role?",
+          "answer": "Bring a current example, the approved source systems, the output you need, and the manager who can answer questions. Together we define what complete means and which situations must be escalated."
+        },
+        {
+          "question": "Can we begin with a limited scope?",
+          "answer": "Yes. Start with one repeatable queue, review a sample of completed work, and improve the instructions before adding responsibilities."
+        },
+        {
+          "question": "Who handles exceptions or consequential decisions?",
+          "answer": "Your authorized owner does. Support collects the context and records the question so the decision can be made by the right person, then follows the approved instruction."
+        }
+      ],
+      "image": "/refresh-20261113/service1.webp",
+      "alt": "A pregnant woman and her partner receive house keys from a real estate agent indoors.",
+      "position": "50% 50%"
+    },
+    {
+      "slug": "document-coordination",
+      "title": "Document coordination",
+      "description": "Organize approved closing records and stakeholder requests.",
+      "intro": "Reviewers lose time when records arrive through several channels without a clear current version or source trail.",
+      "audience": "Closing teams that need consistent document intake, naming, indexing, and version custody.",
+      "inputs": [
+        "Approved naming convention",
+        "Authorized document sources",
+        "Retention rules",
+        "Version and access policy"
+      ],
+      "work": [
+        "Index closing documents",
+        "Track approved requests",
+        "Check document status",
+        "Flag conflicting versions"
+      ],
+      "outputs": [
+        "Indexed closing record",
+        "Version notes",
+        "Document request queue",
+        "Conflict and gap log"
+      ],
+      "controls": [
+        "Compare each completed item with its approved source.",
+        "Check that the status, owner, and next action agree across records.",
+        "Keep missing or conflicting information visible until the review owner resolves it.",
+        "Review a sample together before expanding the volume or scope."
+      ],
+      "boundaries": [
+        "No drafting legal instruments",
+        "No deciding document sufficiency",
+        "No unauthorized sharing"
+      ],
+      "workflow": [
+        "Agree on the first queue, the expected output, and who reviews the work.",
+        "Walk through representative records together and document ambiguous cases.",
+        "Begin with a manageable volume and a regular exception review.",
+        "Use corrections and completion checks to refine the handoff before expanding it."
+      ],
+      "scenarios": [
+        "Multi-party document intake",
+        "Revised disclosure receipt",
+        "Final package assembly"
+      ],
+      "faqs": [
+        {
+          "question": "What should we prepare for this role?",
+          "answer": "Bring a current example, the approved source systems, the output you need, and the manager who can answer questions. Together we define what complete means and which situations must be escalated."
+        },
+        {
+          "question": "Can we begin with a limited scope?",
+          "answer": "Yes. Start with one repeatable queue, review a sample of completed work, and improve the instructions before adding responsibilities."
+        },
+        {
+          "question": "Who handles exceptions or consequential decisions?",
+          "answer": "Your authorized owner does. Support collects the context and records the question so the decision can be made by the right person, then follows the approved instruction."
+        }
+      ],
+      "image": "/refresh-20261113/service2.webp",
+      "alt": "A professional signing an official document at a wooden desk.",
+      "position": "50% 50%"
+    },
+    {
+      "slug": "stakeholder-updates",
+      "title": "Stakeholder update support",
+      "description": "Prepare approved communications around milestones and exceptions.",
+      "intro": "Status communication becomes inconsistent when facts, owners, and next actions are reconstructed for every message.",
+      "audience": "Teams coordinating routine updates among approved transaction participants.",
+      "inputs": [
+        "Approved message templates",
+        "Current verified status",
+        "Contact preferences",
+        "Escalation matrix"
+      ],
+      "work": [
+        "Prepare status drafts",
+        "Record contact outcomes",
+        "Route substantive questions",
+        "Escalate sensitive issues"
+      ],
+      "outputs": [
+        "Draft or approved routine update",
+        "Contact outcome log",
+        "Question owner queue",
+        "Sensitive-item escalation"
+      ],
+      "controls": [
+        "Compare each completed item with its approved source.",
+        "Check that the status, owner, and next action agree across records.",
+        "Keep missing or conflicting information visible until the review owner resolves it.",
+        "Review a sample together before expanding the volume or scope."
+      ],
+      "boundaries": [
+        "No legal advice",
+        "No commitments or negotiation",
+        "No release of unapproved information"
+      ],
+      "workflow": [
+        "Agree on the first queue, the expected output, and who reviews the work.",
+        "Walk through representative records together and document ambiguous cases.",
+        "Begin with a manageable volume and a regular exception review.",
+        "Use corrections and completion checks to refine the handoff before expanding it."
+      ],
+      "scenarios": [
+        "Milestone confirmation",
+        "Missing-item follow-up",
+        "Closing-date change routing"
+      ],
+      "faqs": [
+        {
+          "question": "What should we prepare for this role?",
+          "answer": "Bring a current example, the approved source systems, the output you need, and the manager who can answer questions. Together we define what complete means and which situations must be escalated."
+        },
+        {
+          "question": "Can we begin with a limited scope?",
+          "answer": "Yes. Start with one repeatable queue, review a sample of completed work, and improve the instructions before adding responsibilities."
+        },
+        {
+          "question": "Who handles exceptions or consequential decisions?",
+          "answer": "Your authorized owner does. Support collects the context and records the question so the decision can be made by the right person, then follows the approved instruction."
+        }
+      ],
+      "image": "/refresh-20261113/service3.webp",
+      "alt": "A real estate transaction with a handshake and key exchange, highlighting a home insurance document.",
+      "position": "50% 50%"
+    },
+    {
+      "slug": "date-milestone-tracking",
+      "title": "Date and milestone tracking",
+      "description": "Keep critical dates visible across the closing workflow.",
+      "intro": "A date can change in one system while reminders, stakeholder expectations, and dependent tasks remain stale.",
+      "audience": "Operations teams that need critical dates visible across transaction systems and calendars.",
+      "inputs": [
+        "Authoritative date source",
+        "Milestone definitions",
+        "Reminder policy",
+        "Change-approval rules"
+      ],
+      "work": [
+        "Maintain milestone records",
+        "Prepare reminder queues",
+        "Document schedule changes",
+        "Flag timing conflicts"
+      ],
+      "outputs": [
+        "Milestone register",
+        "Reminder queue",
+        "Change history",
+        "Timing conflict escalation"
+      ],
+      "controls": [
+        "Compare each completed item with its approved source.",
+        "Check that the status, owner, and next action agree across records.",
+        "Keep missing or conflicting information visible until the review owner resolves it.",
+        "Review a sample together before expanding the volume or scope."
+      ],
+      "boundaries": [
+        "No changing contractual dates",
+        "No interpreting deadline obligations",
+        "No overriding owner priorities"
+      ],
+      "workflow": [
+        "Agree on the first queue, the expected output, and who reviews the work.",
+        "Walk through representative records together and document ambiguous cases.",
+        "Begin with a manageable volume and a regular exception review.",
+        "Use corrections and completion checks to refine the handoff before expanding it."
+      ],
+      "scenarios": [
+        "Closing date movement",
+        "Disclosure timing control",
+        "Recording follow-up"
+      ],
+      "faqs": [
+        {
+          "question": "What should we prepare for this role?",
+          "answer": "Bring a current example, the approved source systems, the output you need, and the manager who can answer questions. Together we define what complete means and which situations must be escalated."
+        },
+        {
+          "question": "Can we begin with a limited scope?",
+          "answer": "Yes. Start with one repeatable queue, review a sample of completed work, and improve the instructions before adding responsibilities."
+        },
+        {
+          "question": "Who handles exceptions or consequential decisions?",
+          "answer": "Your authorized owner does. Support collects the context and records the question so the decision can be made by the right person, then follows the approved instruction."
+        }
+      ],
+      "image": "/refresh-20261113/service4.webp",
+      "alt": "Close-up of hands exchanging real estate documents in an office setting.",
+      "position": "50% 50%"
+    },
+    {
+      "slug": "closing-file-preparation",
+      "title": "Closing file preparation",
+      "description": "Assemble organized files for accountable review.",
+      "intro": "A file can look complete while unresolved versions, missing evidence, and open exceptions remain hidden.",
+      "audience": "Review owners who need an organized, source-linked file before signing, funding, or final acceptance.",
+      "inputs": [
+        "Review packet standard",
+        "Approved source records",
+        "Required field list",
+        "Owner sign-off path"
+      ],
+      "work": [
+        "Prepare review packets",
+        "Check required fields",
+        "Maintain source links",
+        "Document unresolved items"
+      ],
+      "outputs": [
+        "Review-ready file",
+        "Source index",
+        "Unresolved-item summary",
+        "Reviewer handoff note"
+      ],
+      "controls": [
+        "Compare each completed item with its approved source.",
+        "Check that the status, owner, and next action agree across records.",
+        "Keep missing or conflicting information visible until the review owner resolves it.",
+        "Review a sample together before expanding the volume or scope."
+      ],
+      "boundaries": [
+        "No final approval",
+        "No signature or notarization",
+        "No funding or disbursement action"
+      ],
+      "workflow": [
+        "Agree on the first queue, the expected output, and who reviews the work.",
+        "Walk through representative records together and document ambiguous cases.",
+        "Begin with a manageable volume and a regular exception review.",
+        "Use corrections and completion checks to refine the handoff before expanding it."
+      ],
+      "scenarios": [
+        "Pre-close review packet",
+        "Signing package handoff",
+        "Funding condition summary"
+      ],
+      "faqs": [
+        {
+          "question": "What should we prepare for this role?",
+          "answer": "Bring a current example, the approved source systems, the output you need, and the manager who can answer questions. Together we define what complete means and which situations must be escalated."
+        },
+        {
+          "question": "Can we begin with a limited scope?",
+          "answer": "Yes. Start with one repeatable queue, review a sample of completed work, and improve the instructions before adding responsibilities."
+        },
+        {
+          "question": "Who handles exceptions or consequential decisions?",
+          "answer": "Your authorized owner does. Support collects the context and records the question so the decision can be made by the right person, then follows the approved instruction."
+        }
+      ],
+      "image": "/refresh-20261113/service5.webp",
+      "alt": "Close-up of hands signing a real estate document at a meeting table with three people.",
+      "position": "50% 50%"
+    },
+    {
+      "slug": "post-closing-records",
+      "title": "Post-closing records support",
+      "description": "Maintain final records and approved follow up after closing.",
+      "intro": "After close, record gaps can disappear into inboxes while delivery, recording, and archive status diverge.",
+      "audience": "Teams responsible for final document delivery, archival status, and approved trailing-item follow-up.",
+      "inputs": [
+        "Final-record checklist",
+        "Approved recipient list",
+        "Archive standard",
+        "Trailing-item owners"
+      ],
+      "work": [
+        "Index final documents",
+        "Track approved delivery",
+        "Maintain archive status",
+        "Escalate missing records"
+      ],
+      "outputs": [
+        "Final document index",
+        "Delivery evidence",
+        "Archive status",
+        "Trailing-record queue"
+      ],
+      "controls": [
+        "Compare each completed item with its approved source.",
+        "Check that the status, owner, and next action agree across records.",
+        "Keep missing or conflicting information visible until the review owner resolves it.",
+        "Review a sample together before expanding the volume or scope."
+      ],
+      "boundaries": [
+        "No changing executed records",
+        "No confirming legal effect",
+        "No release outside approved recipients"
+      ],
+      "workflow": [
+        "Agree on the first queue, the expected output, and who reviews the work.",
+        "Walk through representative records together and document ambiguous cases.",
+        "Begin with a manageable volume and a regular exception review.",
+        "Use corrections and completion checks to refine the handoff before expanding it."
+      ],
+      "scenarios": [
+        "Recorded document receipt",
+        "Final policy tracking",
+        "Archive reconciliation"
+      ],
+      "faqs": [
+        {
+          "question": "What should we prepare for this role?",
+          "answer": "Bring a current example, the approved source systems, the output you need, and the manager who can answer questions. Together we define what complete means and which situations must be escalated."
+        },
+        {
+          "question": "Can we begin with a limited scope?",
+          "answer": "Yes. Start with one repeatable queue, review a sample of completed work, and improve the instructions before adding responsibilities."
+        },
+        {
+          "question": "Who handles exceptions or consequential decisions?",
+          "answer": "Your authorized owner does. Support collects the context and records the question so the decision can be made by the right person, then follows the approved instruction."
+        }
+      ],
+      "image": "/refresh-20261113/service6.webp",
+      "alt": "Two professionals finalize a real estate contract with a clipboard and pen.",
+      "position": "50% 35%"
+    },
+    {
+      "slug": "signing-appointment-coordination",
+      "title": "Signing appointment coordination",
+      "description": "Keep approved signing arrangements, participant availability, and confirmation records organized.",
+      "intro": "Keep approved signing arrangements, participant availability, and confirmation records organized. A focused administrative role maintains the agreed record and prepares useful next actions, with exceptions kept visible for the person who has authority to resolve them.",
+      "audience": "title teams, real estate operations leaders, and transaction coordinators",
+      "inputs": [
+        "The current workflow, source systems, and approved access",
+        "Your templates, definitions, and completion criteria",
+        "A named review owner, communication cadence, and escalation rules"
+      ],
+      "work": [
+        "Collect availability from approved participants",
+        "Coordinate the appointment after your team confirms readiness",
+        "Maintain location, access, and contact instructions",
+        "Record confirmations and route last-minute changes"
+      ],
+      "outputs": [
+        "A confirmed appointment record",
+        "Participant and instruction checklist",
+        "A schedule-change log"
+      ],
+      "controls": [
+        "Compare each completed item with its approved source.",
+        "Check that the status, owner, and next action agree across records.",
+        "Keep missing or conflicting information visible until the review owner resolves it.",
+        "Review a sample together before expanding the volume or scope."
+      ],
+      "boundaries": [
+        "No notarization, legal explanation, or instruction to sign",
+        "Readiness, identity requirements, and appointment authority stay with qualified owners"
+      ],
+      "workflow": [
+        "Agree on the first queue, the expected output, and who reviews the work.",
+        "Walk through representative records together and document ambiguous cases.",
+        "Begin with a manageable volume and a regular exception review.",
+        "Use corrections and completion checks to refine the handoff before expanding it."
+      ],
+      "scenarios": [
+        "A recurring signing appointment coordination queue needs consistent attention while your manager focuses on decisions.",
+        "Several people contribute information, and the reviewer needs one current record with visible gaps."
+      ],
+      "faqs": [
+        {
+          "question": "What should we prepare for this role?",
+          "answer": "Bring a current example, the approved source systems, the output you need, and the manager who can answer questions. Together we define what complete means and which situations must be escalated."
+        },
+        {
+          "question": "Can we begin with a limited scope?",
+          "answer": "Yes. Start with one repeatable queue, review a sample of completed work, and improve the instructions before adding responsibilities."
+        },
+        {
+          "question": "Who handles exceptions or consequential decisions?",
+          "answer": "Your authorized owner does. Support collects the context and records the question so the decision can be made by the right person, then follows the approved instruction."
+        }
+      ],
+      "image": "/refresh-20261113/service7.webp",
+      "alt": "Three adults reviewing and signing real estate documents indoors.",
+      "position": "50% 50%"
+    },
+    {
+      "slug": "closing-exception-follow-up",
+      "title": "Closing exception follow-up",
+      "description": "Keep open conditions and unanswered requests visible until the responsible owner resolves them.",
+      "intro": "Keep open conditions and unanswered requests visible until the responsible owner resolves them. A focused administrative role maintains the agreed record and prepares useful next actions, with exceptions kept visible for the person who has authority to resolve them.",
+      "audience": "title teams, real estate operations leaders, and transaction coordinators",
+      "inputs": [
+        "The current workflow, source systems, and approved access",
+        "Your templates, definitions, and completion criteria",
+        "A named review owner, communication cadence, and escalation rules"
+      ],
+      "work": [
+        "Maintain the owner-approved open-item register",
+        "Request routine status updates through approved channels",
+        "Attach responses to their source condition",
+        "Prepare aging and unresolved-item summaries for review"
+      ],
+      "outputs": [
+        "A current exception register",
+        "Source-linked response history",
+        "An owner-ready unresolved-items brief"
+      ],
+      "controls": [
+        "Compare each completed item with its approved source.",
+        "Check that the status, owner, and next action agree across records.",
+        "Keep missing or conflicting information visible until the review owner resolves it.",
+        "Review a sample together before expanding the volume or scope."
+      ],
+      "boundaries": [
+        "No waiver, interpretation, or clearance of closing conditions",
+        "Funding, disbursement, and final authorization remain with your professionals"
+      ],
+      "workflow": [
+        "Agree on the first queue, the expected output, and who reviews the work.",
+        "Walk through representative records together and document ambiguous cases.",
+        "Begin with a manageable volume and a regular exception review.",
+        "Use corrections and completion checks to refine the handoff before expanding it."
+      ],
+      "scenarios": [
+        "A recurring closing exception follow-up queue needs consistent attention while your manager focuses on decisions.",
+        "Several people contribute information, and the reviewer needs one current record with visible gaps."
+      ],
+      "faqs": [
+        {
+          "question": "What should we prepare for this role?",
+          "answer": "Bring a current example, the approved source systems, the output you need, and the manager who can answer questions. Together we define what complete means and which situations must be escalated."
+        },
+        {
+          "question": "Can we begin with a limited scope?",
+          "answer": "Yes. Start with one repeatable queue, review a sample of completed work, and improve the instructions before adding responsibilities."
+        },
+        {
+          "question": "Who handles exceptions or consequential decisions?",
+          "answer": "Your authorized owner does. Support collects the context and records the question so the decision can be made by the right person, then follows the approved instruction."
+        }
+      ],
+      "image": "/refresh-20261113/service8.webp",
+      "alt": "A real estate agent handing over house keys, symbolizing property ownership transfer.",
+      "position": "50% 50%"
+    }
+  ],
+  "blog": [
+    {
+      "slug": "closing-verify-a-closing-wire-receipt-against-the-settlement-ledger",
+      "title": "Verify a closing wire receipt against the settlement ledger",
+      "description": "A bounded closing operations guide to closing wire receipt, with explicit evidence, decision rights, and a verified close.",
+      "category": "Funding control",
+      "date": "2026-11-11",
+      "image": "/thumbnails/november-11/closing-verify-a-closing-wire-receipt-against-the-settlement-ledger.png"
+    },
+    {
+      "slug": "closing-control-a-seller-concession-cap-on-the-closing-disclosure",
+      "title": "Control a seller concession cap on the closing disclosure",
+      "description": "A bounded closing operations guide to seller concession cap, with explicit evidence, decision rights, and a verified close.",
+      "category": "Disclosure control",
+      "date": "2026-11-11",
+      "image": "/thumbnails/november-11/closing-control-a-seller-concession-cap-on-the-closing-disclosure.png"
+    },
+    {
+      "slug": "closing-reconcile-a-prepaid-interest-per-diem-line",
+      "title": "Reconcile a prepaid interest per-diem line",
+      "description": "A bounded closing operations guide to prepaid interest per diem, with explicit evidence, decision rights, and a verified close.",
+      "category": "Proration coordination",
+      "date": "2026-11-11",
+      "image": "/thumbnails/november-11/closing-reconcile-a-prepaid-interest-per-diem-line.png"
+    },
+    {
+      "slug": "closing-track-a-lis-pendens-release-before-recording",
+      "title": "Track a lis pendens release before recording",
+      "description": "A bounded closing operations guide to lis pendens release, with explicit evidence, decision rights, and a verified close.",
+      "category": "Lien coordination",
+      "date": "2026-11-11",
+      "image": "/thumbnails/november-11/closing-track-a-lis-pendens-release-before-recording.png"
+    },
+    {
+      "slug": "closing-verify-a-limited-power-of-attorney-for-a-remote-signer",
+      "title": "Verify a limited power of attorney for a remote signer",
+      "description": "A bounded closing operations guide to remote signer authority, with explicit evidence, decision rights, and a verified close.",
+      "category": "Authority review",
+      "date": "2026-11-11",
+      "image": "/thumbnails/november-11/closing-verify-a-limited-power-of-attorney-for-a-remote-signer.png"
+    },
+    {
+      "slug": "closing-control-a-closing-package-re-disclosure-after-a-changed-term",
+      "title": "Control a closing package re-disclosure after a changed term",
+      "description": "A bounded closing operations guide to changed term re-disclosure, with explicit evidence, decision rights, and a verified close.",
+      "category": "Disclosure control",
+      "date": "2026-11-11",
+      "image": "/thumbnails/november-11/closing-control-a-closing-package-re-disclosure-after-a-changed-term.png"
+    },
+    {
+      "slug": "closing-reconcile-a-title-endorsement-premium-on-the-settlement-statement",
+      "title": "Reconcile a title endorsement premium on the settlement statement",
+      "description": "A bounded closing operations guide to title endorsement premium, with explicit evidence, decision rights, and a verified close.",
+      "category": "Fee disclosure",
+      "date": "2026-11-11",
+      "image": "/thumbnails/november-11/closing-reconcile-a-title-endorsement-premium-on-the-settlement-statement.png"
+    },
+    {
+      "slug": "closing-audit-a-closing-file-index-against-the-document-checklist",
+      "title": "Audit a closing file index against the document checklist",
+      "description": "A bounded closing operations guide to closing file index, with explicit evidence, decision rights, and a verified close.",
+      "category": "Post-closing records",
+      "date": "2026-11-11",
+      "image": "/thumbnails/november-11/closing-audit-a-closing-file-index-against-the-document-checklist.png"
+    },
+    {
+      "slug": "closing-verify-an-escrow-dual-control-disbursement-approval",
+      "title": "Verify an escrow dual-control disbursement approval",
+      "description": "A bounded closing operations guide to escrow dual-control disbursement, with explicit evidence, decision rights, and a verified close.",
+      "category": "Funding control",
+      "date": "2026-11-10",
+      "image": "/thumbnails/november-10/closing-verify-an-escrow-dual-control-disbursement-approval.png"
+    },
+    {
+      "slug": "closing-control-a-mortgage-payoff-good-through-date-quote",
+      "title": "Control a mortgage payoff good-through date quote",
+      "description": "A bounded closing operations guide to mortgage payoff good-through date, with explicit evidence, decision rights, and a verified close.",
+      "category": "Payoff coordination",
+      "date": "2026-11-10",
+      "image": "/thumbnails/november-10/closing-control-a-mortgage-payoff-good-through-date-quote.png"
+    },
+    {
+      "slug": "closing-reconcile-a-rent-proration-credit-on-the-settlement-statement",
+      "title": "Reconcile a rent proration credit on the settlement statement",
+      "description": "A bounded closing operations guide to rent proration credit, with explicit evidence, decision rights, and a verified close.",
+      "category": "Proration coordination",
+      "date": "2026-11-10",
+      "image": "/thumbnails/november-10/closing-reconcile-a-rent-proration-credit-on-the-settlement-statement.png"
+    },
+    {
+      "slug": "closing-track-a-title-curative-affidavit-through-recording",
+      "title": "Track a title curative affidavit through recording",
+      "description": "A bounded closing operations guide to title curative affidavit, with explicit evidence, decision rights, and a verified close.",
+      "category": "Title coordination",
+      "date": "2026-11-10",
+      "image": "/thumbnails/november-10/closing-track-a-title-curative-affidavit-through-recording.png"
+    },
+    {
+      "slug": "closing-verify-a-closing-agent-notary-journal-entry",
+      "title": "Verify a closing agent notary journal entry",
+      "description": "A bounded closing operations guide to notary journal entry, with explicit evidence, decision rights, and a verified close.",
+      "category": "Notary records",
+      "date": "2026-11-10",
+      "image": "/thumbnails/november-10/closing-verify-a-closing-agent-notary-journal-entry.png"
+    },
+    {
+      "slug": "closing-control-a-settlement-statement-vendor-fee-disclosure",
+      "title": "Control a settlement statement vendor fee disclosure",
+      "description": "A bounded closing operations guide to settlement vendor fee disclosure, with explicit evidence, decision rights, and a verified close.",
+      "category": "Fee disclosure",
+      "date": "2026-11-10",
+      "image": "/thumbnails/november-10/closing-control-a-settlement-statement-vendor-fee-disclosure.png"
+    },
+    {
+      "slug": "closing-reconcile-a-municipal-lien-certificate-at-closing",
+      "title": "Reconcile a municipal lien certificate at closing",
+      "description": "A bounded closing operations guide to municipal lien certificate, with explicit evidence, decision rights, and a verified close.",
+      "category": "Lien coordination",
+      "date": "2026-11-10",
+      "image": "/thumbnails/november-10/closing-reconcile-a-municipal-lien-certificate-at-closing.png"
+    },
+    {
+      "slug": "closing-audit-a-post-closing-document-delivery-acknowledgement",
+      "title": "Audit a post-closing document delivery acknowledgement",
+      "description": "A bounded closing operations guide to post-closing document delivery, with explicit evidence, decision rights, and a verified close.",
+      "category": "Post-closing delivery",
+      "date": "2026-11-10",
+      "image": "/thumbnails/november-10/closing-audit-a-post-closing-document-delivery-acknowledgement.png"
+    },
+    {
+      "slug": "closing-verify-a-hazard-insurance-binder-before-disbursement",
+      "title": "Verify a hazard insurance binder before disbursement",
+      "description": "A bounded closing operations guide to hazard insurance binder, with explicit evidence, decision rights, and a verified close.",
+      "category": "Insurance coordination",
+      "date": "2026-11-09",
+      "image": "/thumbnails/november-09/closing-verify-a-hazard-insurance-binder-before-disbursement.png"
+    },
+    {
+      "slug": "closing-control-a-closing-disclosure-tolerance-cure",
+      "title": "Control a closing disclosure tolerance cure",
+      "description": "A bounded closing operations guide to closing disclosure tolerance cure, with explicit evidence, decision rights, and a verified close.",
+      "category": "Compliance coordination",
+      "date": "2026-11-09",
+      "image": "/thumbnails/november-09/closing-control-a-closing-disclosure-tolerance-cure.png"
+    },
+    {
+      "slug": "closing-reconcile-a-property-tax-certificate-against-the-closing-statement",
+      "title": "Reconcile a property tax certificate against the closing statement",
+      "description": "A bounded closing operations guide to property tax certificate, with explicit evidence, decision rights, and a verified close.",
+      "category": "Tax coordination",
+      "date": "2026-11-09",
+      "image": "/thumbnails/november-09/closing-reconcile-a-property-tax-certificate-against-the-closing-statement.png"
+    },
+    {
+      "slug": "closing-track-a-subordination-agreement-before-recording",
+      "title": "Track a subordination agreement before recording",
+      "description": "A bounded closing operations guide to subordination agreement, with explicit evidence, decision rights, and a verified close.",
+      "category": "Document coordination",
+      "date": "2026-11-09",
+      "image": "/thumbnails/november-09/closing-track-a-subordination-agreement-before-recording.png"
+    },
+    {
+      "slug": "closing-verify-a-trustee-payoff-authorization",
+      "title": "Verify a trustee payoff authorization",
+      "description": "A bounded closing operations guide to trustee payoff authorization, with explicit evidence, decision rights, and a verified close.",
+      "category": "Funding control",
+      "date": "2026-11-09",
+      "image": "/thumbnails/november-09/closing-verify-a-trustee-payoff-authorization.png"
+    },
+    {
+      "slug": "closing-control-a-final-walk-through-acknowledgement",
+      "title": "Control a final walk-through acknowledgement",
+      "description": "A bounded closing operations guide to final walk-through acknowledgement, with explicit evidence, decision rights, and a verified close.",
+      "category": "Closing coordination",
+      "date": "2026-11-09",
+      "image": "/thumbnails/november-09/closing-control-a-final-walk-through-acknowledgement.png"
+    },
+    {
+      "slug": "closing-reconcile-an-earnest-money-deposit-receipt",
+      "title": "Reconcile an earnest money deposit receipt",
+      "description": "A bounded closing operations guide to earnest money deposit receipt, with explicit evidence, decision rights, and a verified close.",
+      "category": "Escrow coordination",
+      "date": "2026-11-09",
+      "image": "/thumbnails/november-09/closing-reconcile-an-earnest-money-deposit-receipt.png"
+    },
+    {
+      "slug": "closing-control-a-title-premium-reissue-credit",
+      "title": "Control a title premium reissue credit",
+      "description": "A bounded closing operations guide to title premium reissue credit, with explicit evidence, decision rights, and a verified close.",
+      "category": "Title coordination",
+      "date": "2026-11-09",
+      "image": "/thumbnails/november-09/closing-control-a-title-premium-reissue-credit.png"
+    },
+    {
+      "slug": "closing-verify-a-wire-instruction-change-before-funding",
+      "title": "Verify a wire instruction change before funding",
+      "description": "A bounded closing operations guide to wire instruction change, with explicit evidence, decision rights, and a verified close.",
+      "category": "Funding control",
+      "date": "2026-11-08",
+      "image": "/thumbnails/november-08/closing-verify-a-wire-instruction-change-before-funding.png"
+    },
+    {
+      "slug": "closing-control-a-title-commitment-effective-date",
+      "title": "Control a title commitment effective date",
+      "description": "A bounded closing operations guide to title commitment effective date, with explicit evidence, decision rights, and a verified close.",
+      "category": "Title coordination",
+      "date": "2026-11-08",
+      "image": "/thumbnails/november-08/closing-control-a-title-commitment-effective-date.png"
+    },
+    {
+      "slug": "closing-reconcile-a-seller-credit-on-the-closing-statement",
+      "title": "Reconcile a seller credit on the closing statement",
+      "description": "A bounded closing operations guide to seller credit reconciliation, with explicit evidence, decision rights, and a verified close.",
+      "category": "Closing coordination",
+      "date": "2026-11-08",
+      "image": "/thumbnails/november-08/closing-reconcile-a-seller-credit-on-the-closing-statement.png"
+    },
+    {
+      "slug": "closing-track-a-lien-release-before-disbursement",
+      "title": "Track a lien release before disbursement",
+      "description": "A bounded closing operations guide to lien release, with explicit evidence, decision rights, and a verified close.",
+      "category": "Post-closing records",
+      "date": "2026-11-08",
+      "image": "/thumbnails/november-08/closing-track-a-lien-release-before-disbursement.png"
+    },
+    {
+      "slug": "closing-verify-a-notary-commission-before-the-signing",
+      "title": "Verify a notary commission before the signing",
+      "description": "A bounded closing operations guide to notary commission verification, with explicit evidence, decision rights, and a verified close.",
+      "category": "Signing operations",
+      "date": "2026-11-08",
+      "image": "/thumbnails/november-08/closing-verify-a-notary-commission-before-the-signing.png"
+    },
+    {
+      "slug": "closing-control-a-closing-date-extension-notice",
+      "title": "Control a closing date extension notice",
+      "description": "A bounded closing operations guide to closing date extension, with explicit evidence, decision rights, and a verified close.",
+      "category": "Closing coordination",
+      "date": "2026-11-08",
+      "image": "/thumbnails/november-08/closing-control-a-closing-date-extension-notice.png"
+    },
+    {
+      "slug": "closing-reconcile-an-escrow-holdback-release",
+      "title": "Reconcile an escrow holdback release",
+      "description": "A bounded closing operations guide to escrow holdback release, with explicit evidence, decision rights, and a verified close.",
+      "category": "Post-closing records",
+      "date": "2026-11-08",
+      "image": "/thumbnails/november-08/closing-reconcile-an-escrow-holdback-release.png"
+    },
+    {
+      "slug": "closing-verify-an-hoa-estoppel-certificate-before-closing",
+      "title": "Verify an HOA estoppel certificate before closing",
+      "description": "A bounded closing operations guide to HOA estoppel certificate, with explicit evidence, decision rights, and a verified close.",
+      "category": "Document coordination",
+      "date": "2026-11-08",
+      "image": "/thumbnails/november-08/closing-verify-an-hoa-estoppel-certificate-before-closing.png"
+    },
+    {
+      "slug": "closing-verify-a-power-of-attorney-before-signing",
+      "title": "Verify a power of attorney before signing",
+      "description": "A bounded closing operations guide to power of attorney review, with explicit evidence, decision rights, and a verified close.",
+      "category": "Signing operations",
+      "date": "2026-11-07",
+      "image": "/thumbnails/november-07/closing-verify-a-power-of-attorney-before-signing.png"
+    },
+    {
+      "slug": "closing-control-a-payoff-statement-expiration",
+      "title": "Control a payoff statement expiration",
+      "description": "A bounded closing operations guide to payoff statement expiration, with explicit evidence, decision rights, and a verified close.",
+      "category": "Closing coordination",
+      "date": "2026-11-07",
+      "image": "/thumbnails/november-07/closing-control-a-payoff-statement-expiration.png"
+    },
+    {
+      "slug": "closing-reconcile-a-proration-change-at-closing",
+      "title": "Reconcile a proration change at closing",
+      "description": "A bounded closing operations guide to proration change, with explicit evidence, decision rights, and a verified close.",
+      "category": "Closing coordination",
+      "date": "2026-11-07",
+      "image": "/thumbnails/november-07/closing-reconcile-a-proration-change-at-closing.png"
+    },
+    {
+      "slug": "closing-track-a-survey-exception-before-clear-to-close",
+      "title": "Track a survey exception before clear-to-close",
+      "description": "A bounded closing operations guide to survey exception clearance, with explicit evidence, decision rights, and a verified close.",
+      "category": "Title coordination",
+      "date": "2026-11-07",
+      "image": "/thumbnails/november-07/closing-track-a-survey-exception-before-clear-to-close.png"
+    },
+    {
+      "slug": "closing-verify-a-closing-protection-letter",
+      "title": "Verify a closing protection letter",
+      "description": "A bounded closing operations guide to closing protection letter verification, with explicit evidence, decision rights, and a verified close.",
+      "category": "Document coordination",
+      "date": "2026-11-07",
+      "image": "/thumbnails/november-07/closing-verify-a-closing-protection-letter.png"
+    },
+    {
+      "slug": "closing-control-a-document-package-version-at-signing",
+      "title": "Control a document package version at signing",
+      "description": "A bounded closing operations guide to document package version, with explicit evidence, decision rights, and a verified close.",
+      "category": "Signing operations",
+      "date": "2026-11-07",
+      "image": "/thumbnails/november-07/closing-control-a-document-package-version-at-signing.png"
+    },
+    {
+      "slug": "closing-reconcile-a-recording-fee-estimate",
+      "title": "Reconcile a recording fee estimate",
+      "description": "A bounded closing operations guide to recording fee estimate, with explicit evidence, decision rights, and a verified close.",
+      "category": "Post-closing records",
+      "date": "2026-11-07",
+      "image": "/thumbnails/november-07/closing-reconcile-a-recording-fee-estimate.png"
+    },
+    {
+      "slug": "closing-verify-a-borrower-name-change-on-the-closing-file",
+      "title": "Verify a borrower name change on the closing file",
+      "description": "A bounded closing operations guide to borrower name change, with explicit evidence, decision rights, and a verified close.",
+      "category": "Closing checklist",
+      "date": "2026-11-07",
+      "image": "/thumbnails/november-07/closing-verify-a-borrower-name-change-on-the-closing-file.png"
+    },
+    {
+      "slug": "closing-verify-a-cd-revised-date-before-signing",
+      "title": "Verify a CD revised date before signing",
+      "description": "A bounded closing operations guide to CD revised date, with explicit evidence, decision rights, and a verified close.",
+      "category": "Closing coordination",
+      "date": "2026-11-06",
+      "image": "/thumbnails/november-06/closing-verify-a-cd-revised-date-before-signing.png"
+    },
+    {
+      "slug": "closing-control-a-seller-concession-limit-before-the-cd",
+      "title": "Control a seller concession limit before the CD",
+      "description": "A bounded closing operations guide to seller concession limit, with explicit evidence, decision rights, and a verified close.",
+      "category": "Document coordination",
+      "date": "2026-11-06",
+      "image": "/thumbnails/november-06/closing-control-a-seller-concession-limit-before-the-cd.png"
+    },
+    {
+      "slug": "closing-reconcile-an-earnest-money-deposit",
+      "title": "Reconcile an earnest money deposit",
+      "description": "A bounded closing operations guide to earnest money deposit, with explicit evidence, decision rights, and a verified close.",
+      "category": "Closing checklist",
+      "date": "2026-11-06",
+      "image": "/thumbnails/november-06/closing-reconcile-an-earnest-money-deposit.png"
+    },
+    {
+      "slug": "closing-track-a-title-exception-clearance",
+      "title": "Track a title exception clearance",
+      "description": "A bounded closing operations guide to title exception clearance, with explicit evidence, decision rights, and a verified close.",
+      "category": "Title coordination",
+      "date": "2026-11-06",
+      "image": "/thumbnails/november-06/closing-track-a-title-exception-clearance.png"
+    },
+    {
+      "slug": "closing-handle-a-wire-fraud-callback-before-funding",
+      "title": "Handle a wire fraud callback before funding",
+      "description": "A bounded closing operations guide to wire fraud callback, with explicit evidence, decision rights, and a verified close.",
+      "category": "Closing checklist",
+      "date": "2026-11-06",
+      "image": "/thumbnails/november-06/closing-handle-a-wire-fraud-callback-before-funding.png"
+    },
+    {
+      "slug": "closing-standardize-a-notary-identification-check",
+      "title": "Standardize a notary identification check",
+      "description": "A bounded closing operations guide to notary identification, with explicit evidence, decision rights, and a verified close.",
+      "category": "Signing operations",
+      "date": "2026-11-06",
+      "image": "/thumbnails/november-06/closing-standardize-a-notary-identification-check.png"
+    },
+    {
+      "slug": "closing-reconcile-a-closing-statement-line-to-the-cd",
+      "title": "Reconcile a closing statement line to the CD",
+      "description": "A bounded closing operations guide to closing statement line, with explicit evidence, decision rights, and a verified close.",
+      "category": "Closing coordination",
+      "date": "2026-11-06",
+      "image": "/thumbnails/november-06/closing-reconcile-a-closing-statement-line-to-the-cd.png"
+    },
+    {
+      "slug": "closing-record-a-post-closing-package-receipt",
+      "title": "Record a post-closing package receipt",
+      "description": "A bounded closing operations guide to post-closing package, with explicit evidence, decision rights, and a verified close.",
+      "category": "Post-closing records",
+      "date": "2026-11-06",
+      "image": "/thumbnails/november-06/closing-record-a-post-closing-package-receipt.png"
+    },
+    {
+      "slug": "closing-verify-a-closing-wire-limit-before-release",
+      "title": "Verify a closing wire limit before release",
+      "description": "A bounded closing operations guide to closing wire limit, with explicit evidence, decision rights, and a verified close.",
+      "category": "Closing coordination",
+      "date": "2026-11-05",
+      "image": "/thumbnails/november-05/closing-verify-a-closing-wire-limit-before-release.png"
+    },
+    {
+      "slug": "closing-control-a-title-endorsement-request",
+      "title": "Control a title endorsement request",
+      "description": "A bounded closing operations guide to title endorsement, with explicit evidence, decision rights, and a verified close.",
+      "category": "Title coordination",
+      "date": "2026-11-05",
+      "image": "/thumbnails/november-05/closing-control-a-title-endorsement-request.png"
+    },
+    {
+      "slug": "closing-handle-a-borrower-death-certificate-in-a-closing-file",
+      "title": "Handle a borrower death certificate in a closing file",
+      "description": "A bounded closing operations guide to borrower death certificate, with explicit evidence, decision rights, and a verified close.",
+      "category": "Closing file preparation",
+      "date": "2026-11-05",
+      "image": "/thumbnails/november-05/closing-handle-a-borrower-death-certificate-in-a-closing-file.png"
+    },
+    {
+      "slug": "closing-keep-an-escrow-analysis-reconciliation",
+      "title": "Keep an escrow analysis reconciliation",
+      "description": "A bounded closing operations guide to escrow analysis, with explicit evidence, decision rights, and a verified close.",
+      "category": "Post-closing records",
+      "date": "2026-11-05",
+      "image": "/thumbnails/november-05/closing-keep-an-escrow-analysis-reconciliation.png"
+    },
+    {
+      "slug": "closing-track-a-municipal-lien-search-result",
+      "title": "Track a municipal lien search result",
+      "description": "A bounded closing operations guide to municipal lien search, with explicit evidence, decision rights, and a verified close.",
+      "category": "Title coordination",
+      "date": "2026-11-05",
+      "image": "/thumbnails/november-05/closing-track-a-municipal-lien-search-result.png"
+    },
+    {
+      "slug": "closing-standardize-a-closing-package-courier-chain",
+      "title": "Standardize a closing package courier chain",
+      "description": "A bounded closing operations guide to closing package courier, with explicit evidence, decision rights, and a verified close.",
+      "category": "Post-closing records",
+      "date": "2026-11-05",
+      "image": "/thumbnails/november-05/closing-standardize-a-closing-package-courier-chain.png"
+    },
+    {
+      "slug": "closing-reconcile-a-seller-proceeds-adjustment",
+      "title": "Reconcile a seller proceeds adjustment",
+      "description": "A bounded closing operations guide to seller proceeds adjustment, with explicit evidence, decision rights, and a verified close.",
+      "category": "Closing coordination",
+      "date": "2026-11-05",
+      "image": "/thumbnails/november-05/closing-reconcile-a-seller-proceeds-adjustment.png"
+    },
+    {
+      "slug": "closing-audit-an-attorney-review-handoff",
+      "title": "Audit an attorney review handoff",
+      "description": "A bounded closing operations guide to attorney review handoff, with explicit evidence, decision rights, and a verified close.",
+      "category": "Document coordination",
+      "date": "2026-11-05",
+      "image": "/thumbnails/november-05/closing-audit-an-attorney-review-handoff.png"
+    },
+    {
+      "slug": "closing-nov02-settlement-statement-review",
+      "title": "Settlement Statement Review Before Release",
+      "description": "A settlement statement review control for closing teams, with a source, an owner, an exception path, and a close condition.",
+      "category": "Settlement review",
+      "date": "2026-11-02",
+      "image": "/article-thumbnails/november-02/closing-nov02-settlement-statement-review.jpg"
+    },
+    {
+      "slug": "closing-nov02-title-commitment-exception",
+      "title": "Track Title Commitment Exceptions",
+      "description": "A track title commitment exceptions control for closing teams, with a source, an owner, an exception path, and a close condition.",
+      "category": "Title review",
+      "date": "2026-11-02",
+      "image": "/article-thumbnails/november-02/closing-nov02-title-commitment-exception.jpg"
+    },
+    {
+      "slug": "closing-nov02-wire-instruction-change",
+      "title": "Control Last-Minute Wire Instruction Changes",
+      "description": "A control last-minute wire instruction changes control for closing teams, with a source, an owner, an exception path, and a close condition.",
+      "category": "Wire safety",
+      "date": "2026-11-02",
+      "image": "/article-thumbnails/november-02/closing-nov02-wire-instruction-change.jpg"
+    },
+    {
+      "slug": "closing-nov02-closing-disclosure-delivery",
+      "title": "Closing Disclosure Delivery Evidence",
+      "description": "A closing disclosure delivery evidence control for closing teams, with a source, an owner, an exception path, and a close condition.",
+      "category": "Disclosure",
+      "date": "2026-11-02",
+      "image": "/article-thumbnails/november-02/closing-nov02-closing-disclosure-delivery.jpg"
+    },
+    {
+      "slug": "closing-nov02-notary-signing-log",
+      "title": "Notary Signing Log",
+      "description": "A notary signing log control for closing teams, with a source, an owner, an exception path, and a close condition.",
+      "category": "Signing",
+      "date": "2026-11-02",
+      "image": "/article-thumbnails/november-02/closing-nov02-notary-signing-log.jpg"
+    },
+    {
+      "slug": "closing-nov02-funding-condition-checklist",
+      "title": "Funding Condition Checklist",
+      "description": "A funding condition checklist control for closing teams, with a source, an owner, an exception path, and a close condition.",
+      "category": "Funding",
+      "date": "2026-11-02",
+      "image": "/article-thumbnails/november-02/closing-nov02-funding-condition-checklist.jpg"
+    },
+    {
+      "slug": "closing-nov02-post-closing-package",
+      "title": "Post-Closing Package Control",
+      "description": "A post-closing package control control for closing teams, with a source, an owner, an exception path, and a close condition.",
+      "category": "Post-closing",
+      "date": "2026-11-02",
+      "image": "/article-thumbnails/november-02/closing-nov02-post-closing-package.jpg"
+    },
+    {
+      "slug": "closing-nov02-borrower-name-change",
+      "title": "Borrower Name Change Verification",
+      "description": "A borrower name change verification control for closing teams, with a source, an owner, an exception path, and a close condition.",
+      "category": "Identity",
+      "date": "2026-11-02",
+      "image": "/article-thumbnails/november-02/closing-nov02-borrower-name-change.jpg"
+    },
+    {
+      "slug": "closing-nov02-escrow-disbursement-owner",
+      "title": "Assign Escrow Disbursement Ownership",
+      "description": "A assign escrow disbursement ownership control for closing teams, with a source, an owner, an exception path, and a close condition.",
+      "category": "Escrow",
+      "date": "2026-11-02",
+      "image": "/article-thumbnails/november-02/closing-nov02-escrow-disbursement-owner.jpg"
+    },
+    {
+      "slug": "closing-nov02-document-version-custody",
+      "title": "Document Version Custody",
+      "description": "A document version custody control for closing teams, with a source, an owner, an exception path, and a close condition.",
+      "category": "Records",
+      "date": "2026-11-02",
+      "image": "/article-thumbnails/november-02/closing-nov02-document-version-custody.jpg"
+    },
+    {
+      "slug": "closing-nov02-closing-date-change",
+      "title": "Closing Date Change Control",
+      "description": "A closing date change control control for closing teams, with a source, an owner, an exception path, and a close condition.",
+      "category": "Scheduling",
+      "date": "2026-11-02",
+      "image": "/article-thumbnails/november-02/closing-nov02-closing-date-change.jpg"
+    },
+    {
+      "slug": "closing-nov02-file-audit-sample",
+      "title": "Run a Closing File Audit Sample",
+      "description": "A run a closing file audit sample control for closing teams, with a source, an owner, an exception path, and a close condition.",
+      "category": "Quality review",
+      "date": "2026-11-02",
+      "image": "/article-thumbnails/november-02/closing-nov02-file-audit-sample.jpg"
+    },
+    {
+      "slug": "closingspecialist-map-the-closing-checklist-decision-to-one-accountable-owner-2026-11-01",
+      "title": "Map the closing checklist decision to one accountable owner",
+      "description": "A real estate closing teams guide for title teams, real estate operations leaders, and transaction coordinators, focused on closing checklist and bounded by honest evidence Written for the Closing Specialist desk at closingspecialist.com.",
+      "category": "Owner mapping",
+      "date": "2026-11-01",
+      "image": "/thumbnails/november-01/closingspecialist-map-the-closing-checklist-decision-to-one-accountable-owner-2026-11-01.webp"
+    },
+    {
+      "slug": "closingspecialist-write-the-document-coordination-intake-note-that-survives-a-later-review-2026-11-01",
+      "title": "Write the document coordination intake note that survives a later review",
+      "description": "A real estate closing teams guide for title teams, real estate operations leaders, and transaction coordinators, focused on document coordination and bounded by honest evidence Written for the Closing Specialist desk at closingspecialist.com.",
+      "category": "Documentation",
+      "date": "2026-11-01",
+      "image": "/thumbnails/november-01/closingspecialist-write-the-document-coordination-intake-note-that-survives-a-later-review-2026-11-01.webp"
+    },
+    {
+      "slug": "closingspecialist-cut-rework-at-the-stakeholder-update-handoff-with-a-two-field-check-2026-11-01",
+      "title": "Cut rework at the stakeholder update handoff with a two-field check",
+      "description": "A real estate closing teams guide for title teams, real estate operations leaders, and transaction coordinators, focused on stakeholder update and bounded by honest evidence Written for the Closing Specialist desk at closingspecialist.com.",
+      "category": "Handoff design",
+      "date": "2026-11-01",
+      "image": "/thumbnails/november-01/closingspecialist-cut-rework-at-the-stakeholder-update-handoff-with-a-two-field-check-2026-11-01.webp"
+    },
+    {
+      "slug": "closingspecialist-resolve-a-conflicting-date-and-milestone-tracking-record-without-erasing-history-2026-11-01",
+      "title": "Resolve a conflicting date and milestone tracking record without erasing history",
+      "description": "A real estate closing teams guide for title teams, real estate operations leaders, and transaction coordinators, focused on date and milestone tracking and bounded by honest evidence Written for the Closing Specialist desk at closingspecialist.com.",
+      "category": "Record integrity",
+      "date": "2026-11-01",
+      "image": "/thumbnails/november-01/closingspecialist-resolve-a-conflicting-date-and-milestone-tracking-record-without-erasing-history-2026-11-01.webp"
+    },
+    {
+      "slug": "closingspecialist-sample-closing-file-quality-weekly-not-only-volume-2026-11-01",
+      "title": "Sample closing file quality weekly, not only volume",
+      "description": "A real estate closing teams guide for title teams, real estate operations leaders, and transaction coordinators, focused on closing file and bounded by honest evidence Written for the Closing Specialist desk at closingspecialist.com.",
+      "category": "Quality sampling",
+      "date": "2026-11-01",
+      "image": "/thumbnails/november-01/closingspecialist-sample-closing-file-quality-weekly-not-only-volume-2026-11-01.webp"
+    },
+    {
+      "slug": "closingspecialist-build-an-exception-code-list-the-post-closing-records-team-will-use-2026-11-01",
+      "title": "Build an exception code list the post-closing records team will use",
+      "description": "A real estate closing teams guide for title teams, real estate operations leaders, and transaction coordinators, focused on post-closing records and bounded by honest evidence Written for the Closing Specialist desk at closingspecialist.com.",
+      "category": "Exception control",
+      "date": "2026-11-01",
+      "image": "/thumbnails/november-01/closingspecialist-build-an-exception-code-list-the-post-closing-records-team-will-use-2026-11-01.webp"
+    },
+    {
+      "slug": "closingspecialist-keep-closing-checklist-queue-evidence-durable-when-the-systems-change-2026-11-01",
+      "title": "Keep closing checklist queue evidence durable when the systems change",
+      "description": "A real estate closing teams guide for title teams, real estate operations leaders, and transaction coordinators, focused on closing checklist queue and bounded by honest evidence Written for the Closing Specialist desk at closingspecialist.com.",
+      "category": "Evidence retention",
+      "date": "2026-11-01",
+      "image": "/thumbnails/november-01/closingspecialist-keep-closing-checklist-queue-evidence-durable-when-the-systems-change-2026-11-01.webp"
+    },
+    {
+      "slug": "closingspecialist-prepare-document-coordination-queue-work-for-month-end-without-a-scramble-2026-11-01",
+      "title": "Prepare document coordination queue work for month-end without a scramble",
+      "description": "A real estate closing teams guide for title teams, real estate operations leaders, and transaction coordinators, focused on document coordination queue and bounded by honest evidence Written for the Closing Specialist desk at closingspecialist.com.",
+      "category": "Month-end readiness",
+      "date": "2026-11-01",
+      "image": "/thumbnails/november-01/closingspecialist-prepare-document-coordination-queue-work-for-month-end-without-a-scramble-2026-11-01.webp"
+    },
+    {
+      "slug": "closingspecialist-coach-a-specialist-through-a-stakeholder-update-queue-near-miss-2026-11-01",
+      "title": "Coach a specialist through a stakeholder update queue near miss",
+      "description": "A real estate closing teams guide for title teams, real estate operations leaders, and transaction coordinators, focused on stakeholder update queue and bounded by honest evidence Written for the Closing Specialist desk at closingspecialist.com.",
+      "category": "Coaching",
+      "date": "2026-11-01",
+      "image": "/thumbnails/november-01/closingspecialist-coach-a-specialist-through-a-stakeholder-update-queue-near-miss-2026-11-01.webp"
+    },
+    {
+      "slug": "closingspecialist-decide-what-a-va-may-send-on-date-and-milestone-tracking-queue-without-a-second-review-2026-11-01",
+      "title": "Decide what a VA may send on date and milestone tracking queue without a second review",
+      "description": "A real estate closing teams guide for title teams, real estate operations leaders, and transaction coordinators, focused on date and milestone tracking queue and bounded by honest evidence Written for the Closing Specialist desk at closingspecialist.com.",
+      "category": "Delegation boundaries",
+      "date": "2026-11-01",
+      "image": "/thumbnails/november-01/closingspecialist-decide-what-a-va-may-send-on-date-and-milestone-tracking-queue-without-a-second-review-2026-11-01.webp"
+    },
+    {
+      "slug": "closingspecialist-turn-a-closing-file-queue-backlog-into-a-dated-work-plan-2026-11-01",
+      "title": "Turn a closing file queue backlog into a dated work plan",
+      "description": "A real estate closing teams guide for title teams, real estate operations leaders, and transaction coordinators, focused on closing file queue and bounded by honest evidence Written for the Closing Specialist desk at closingspecialist.com.",
+      "category": "Backlog planning",
+      "date": "2026-11-01",
+      "image": "/thumbnails/november-01/closingspecialist-turn-a-closing-file-queue-backlog-into-a-dated-work-plan-2026-11-01.webp"
+    },
+    {
+      "slug": "closingspecialist-protect-post-closing-records-queue-coverage-during-leave-and-turnover-2026-11-01",
+      "title": "Protect post-closing records queue coverage during leave and turnover",
+      "description": "A real estate closing teams guide for title teams, real estate operations leaders, and transaction coordinators, focused on post-closing records queue and bounded by honest evidence Written for the Closing Specialist desk at closingspecialist.com.",
+      "category": "Continuity",
+      "date": "2026-11-01",
+      "image": "/thumbnails/november-01/closingspecialist-protect-post-closing-records-queue-coverage-during-leave-and-turnover-2026-11-01.webp"
+    },
+    {
+      "slug": "closingspecialist-wire-callback-verification-oct28",
+      "title": "Wire Callback Verification for Last-Minute Changes",
+      "description": "A callback routine for last-minute wire changes, covering the verified number, the two-person release, and the evidence a reviewer needs.",
+      "category": "Wire safety",
+      "date": "2026-10-28",
+      "image": "/article-thumbnails/october-28/closingspecialist-wire-callback-verification-oct28.jpg"
+    },
+    {
+      "slug": "closingspecialist-closing-disclosure-timing-oct28",
+      "title": "Closing Disclosure Timing Evidence",
+      "description": "A timing record for closing disclosures that separates preparation, delivery, receipt, and the closing date.",
+      "category": "Disclosure timing",
+      "date": "2026-10-28",
+      "image": "/article-thumbnails/october-28/closingspecialist-closing-disclosure-timing-oct28.jpg"
+    },
+    {
+      "slug": "closingspecialist-title-commitment-exception-oct28",
+      "title": "Title Commitment Exception Queue",
+      "description": "An exception queue for title commitments that names the missing item, the owner, the cure path, and the closing impact.",
+      "category": "Title operations",
+      "date": "2026-10-28",
+      "image": "/article-thumbnails/october-28/closingspecialist-title-commitment-exception-oct28.jpg"
+    },
+    {
+      "slug": "closingspecialist-borrower-document-followup-oct28",
+      "title": "Borrower Document Follow-Up Without Guesswork",
+      "description": "A follow-up routine for borrower documents that records the request, the version received, the reviewer, and the remaining condition.",
+      "category": "Document follow-up",
+      "date": "2026-10-28",
+      "image": "/article-thumbnails/october-28/closingspecialist-borrower-document-followup-oct28.jpg"
+    },
+    {
+      "slug": "closingspecialist-appraisal-scheduling-oct28",
+      "title": "Appraisal Scheduling Coordination",
+      "description": "A scheduling control for appraisals that records access, the point of contact, the fee status, and the expected report date.",
+      "category": "Appraisal coordination",
+      "date": "2026-10-28",
+      "image": "/article-thumbnails/october-28/closingspecialist-appraisal-scheduling-oct28.jpg"
+    },
+    {
+      "slug": "closingspecialist-closing-package-checklist-oct28",
+      "title": "Closing Package Checklist Ownership",
+      "description": "A closing package checklist that assigns one owner to each document group and records the evidence of completion.",
+      "category": "Closing package",
+      "date": "2026-10-28",
+      "image": "/article-thumbnails/october-28/closingspecialist-closing-package-checklist-oct28.jpg"
+    },
+    {
+      "slug": "closingspecialist-escrow-disbursement-reconciliation-oct28",
+      "title": "Escrow Disbursement Reconciliation",
+      "description": "A reconciliation routine for escrow disbursements that matches the closing statement, the bank release, and the payee confirmation.",
+      "category": "Escrow operations",
+      "date": "2026-10-28",
+      "image": "/article-thumbnails/october-28/closingspecialist-escrow-disbursement-reconciliation-oct28.jpg"
+    },
+    {
+      "slug": "closingspecialist-notary-coverage-plan-oct28",
+      "title": "Notary Coverage Plan for Peak Closing Days",
+      "description": "A coverage plan for notary scheduling that names the primary, the backup, the travel window, and the escalation owner.",
+      "category": "Notary coordination",
+      "date": "2026-10-28",
+      "image": "/article-thumbnails/october-28/closingspecialist-notary-coverage-plan-oct28.jpg"
+    },
+    {
+      "slug": "closingspecialist-post-closing-audit-oct28",
+      "title": "Post-Closing Audit Sample",
+      "description": "A post-closing sample that checks signatures, dates, disclosures, recording evidence, and the correction trail.",
+      "category": "Quality review",
+      "date": "2026-10-28",
+      "image": "/article-thumbnails/october-28/closingspecialist-post-closing-audit-oct28.jpg"
+    },
+    {
+      "slug": "closingspecialist-lender-condition-handoff-oct28",
+      "title": "Lender Condition Handoff",
+      "description": "A handoff record for lender conditions that names the condition, the evidence, the reviewer, and the clear-to-close dependency.",
+      "category": "Condition clearing",
+      "date": "2026-10-28",
+      "image": "/article-thumbnails/october-28/closingspecialist-lender-condition-handoff-oct28.jpg"
+    },
+    {
+      "slug": "closingspecialist-fee-quote-consistency-oct28",
+      "title": "Fee Quote Consistency Across Closing Documents",
+      "description": "A consistency check for fees that compares the quote, the closing disclosure, the settlement statement, and the disbursement ledger.",
+      "category": "Fee accuracy",
+      "date": "2026-10-28",
+      "image": "/article-thumbnails/october-28/closingspecialist-fee-quote-consistency-oct28.jpg"
+    },
+    {
+      "slug": "closingspecialist-closing-date-change-oct28",
+      "title": "Closing Date Change Communication",
+      "description": "A communication control for closing date changes that records the reason, the affected parties, the new date, and the confirmation.",
+      "category": "Closing coordination",
+      "date": "2026-10-28",
+      "image": "/article-thumbnails/october-28/closingspecialist-closing-date-change-oct28.jpg"
+    },
+    {
+      "slug": "wire-instruction-callback-verification",
+      "title": "Wire Instruction Callback Verification",
+      "description": "A callback routine that tests wiring instructions against a known number before disbursement.",
+      "category": "Wire safety",
+      "date": "2026-10-27",
+      "image": "/refresh-20261113/service5.webp"
+    },
+    {
+      "slug": "title-commitment-schedule-b-review",
+      "title": "Reading Schedule B Before the File Moves",
+      "description": "A review routine for requirements, exceptions, and endorsements in a title commitment.",
+      "category": "Title review",
+      "date": "2026-10-27",
+      "image": "/refresh-20261113/service6.webp"
+    },
+    {
+      "slug": "seller-payoff-statement-reconciliation",
+      "title": "Seller Payoff Reconciliation Before Disbursement",
+      "description": "How to check good-through dates, per diem, and second liens on a seller payoff.",
+      "category": "Disbursement",
+      "date": "2026-10-27",
+      "image": "/refresh-20261113/service7.webp"
+    },
+    {
+      "slug": "closing-disclosure-delivery-evidence",
+      "title": "Closing Disclosure Delivery Evidence",
+      "description": "A timing record for delivery, receipt, and re-disclosure on a residential closing.",
+      "category": "Compliance timing",
+      "date": "2026-10-27",
+      "image": "/refresh-20261113/service8.webp"
+    },
+    {
+      "slug": "hoa-estoppel-transfer-fee-queue",
+      "title": "HOA Estoppel and Transfer Fee Queue",
+      "description": "A tracking routine for association statements, expiration dates, and closing transfer charges.",
+      "category": "Association items",
+      "date": "2026-10-27",
+      "image": "/refresh-20261113/service1.webp"
+    },
+    {
+      "slug": "earnest-money-receipt-ledger",
+      "title": "Earnest Money Receipt and Deposit Ledger",
+      "description": "A deposit trail for earnest money from receipt to escrow credit and refund.",
+      "category": "Escrow records",
+      "date": "2026-10-27",
+      "image": "/refresh-20261113/service2.webp"
+    },
+    {
+      "slug": "survey-plat-and-legal-description-review",
+      "title": "Survey, Plat, and Legal Description Review",
+      "description": "A comparison routine for survey returns, plats, and the legal description in the title commitment.",
+      "category": "Property records",
+      "date": "2026-10-27",
+      "image": "/refresh-20261113/service3.webp"
+    },
+    {
+      "slug": "notary-signing-packet-assembly",
+      "title": "Notary Signing Packet Assembly",
+      "description": "A packet order and signer check that reduces missed initials, dates, and shipping errors.",
+      "category": "Signing coordination",
+      "date": "2026-10-27",
+      "image": "/refresh-20261113/service4.webp"
+    },
+    {
+      "slug": "recording-exception-clearance-queue",
+      "title": "Recording Exception Clearance Queue",
+      "description": "A post-closing queue for rejected recordings, cover sheets, and missing recording evidence.",
+      "category": "Post-closing",
+      "date": "2026-10-27",
+      "image": "/refresh-20261113/service5.webp"
+    },
+    {
+      "slug": "lien-release-follow-up-calendar",
+      "title": "Lien Release Follow-Up Calendar",
+      "description": "A dated follow-up system for payoff releases and satisfied liens after closing.",
+      "category": "Post-closing",
+      "date": "2026-10-27",
+      "image": "/refresh-20261113/service6.webp"
+    },
+    {
+      "slug": "fee-tolerance-cure-tracking",
+      "title": "Fee Tolerance Cure Tracking",
+      "description": "A comparison routine for zero-tolerance and ten-percent fee buckets before consummation.",
+      "category": "Compliance timing",
+      "date": "2026-10-27",
+      "image": "/refresh-20261113/service7.webp"
+    },
+    {
+      "slug": "cash-to-close-reconciliation",
+      "title": "Cash to Close Reconciliation",
+      "description": "A final funds check across the closing disclosure, settlement statement, and borrower wiring.",
+      "category": "Disbursement",
+      "date": "2026-10-27",
+      "image": "/refresh-20261113/service8.webp"
+    },
+    {
+      "slug": "closingspecialist-intake-request-triage-2",
+      "title": "Intake Request Triage for Closing Specialist Teams",
+      "description": "A practical Closing Specialist workflow for intake request triage for closing specialist teams, with evidence, ownership, exceptions, and review.",
+      "category": "Closing Specialist Operations",
+      "date": "2026-10-26",
+      "image": "/refresh-20261113/service1.webp"
+    },
+    {
+      "slug": "closingspecialist-evidence-capture-standard-2",
+      "title": "Evidence Capture Standard for Closing Specialist Teams",
+      "description": "A practical Closing Specialist workflow for evidence capture standard for closing specialist teams, with evidence, ownership, exceptions, and review.",
+      "category": "Closing Specialist Operations",
+      "date": "2026-10-26",
+      "image": "/refresh-20261113/service2.webp"
+    },
+    {
+      "slug": "closingspecialist-owner-handoff-map-2",
+      "title": "Owner Handoff Map for Closing Specialist Teams",
+      "description": "A practical Closing Specialist workflow for owner handoff map for closing specialist teams, with evidence, ownership, exceptions, and review.",
+      "category": "Closing Specialist Operations",
+      "date": "2026-10-26",
+      "image": "/refresh-20261113/service3.webp"
+    },
+    {
+      "slug": "closingspecialist-queue-aging-review-2",
+      "title": "Queue Aging Review for Closing Specialist Teams",
+      "description": "A practical Closing Specialist workflow for queue aging review for closing specialist teams, with evidence, ownership, exceptions, and review.",
+      "category": "Closing Specialist Operations",
+      "date": "2026-10-26",
+      "image": "/refresh-20261113/service4.webp"
+    },
+    {
+      "slug": "closingspecialist-exception-escalation-path-2",
+      "title": "Exception Escalation Path for Closing Specialist Teams",
+      "description": "A practical Closing Specialist workflow for exception escalation path for closing specialist teams, with evidence, ownership, exceptions, and review.",
+      "category": "Closing Specialist Operations",
+      "date": "2026-10-26",
+      "image": "/refresh-20261113/service5.webp"
+    },
+    {
+      "slug": "closingspecialist-access-permission-review-2",
+      "title": "Access Permission Review for Closing Specialist Teams",
+      "description": "A practical Closing Specialist workflow for access permission review for closing specialist teams, with evidence, ownership, exceptions, and review.",
+      "category": "Closing Specialist Operations",
+      "date": "2026-10-26",
+      "image": "/refresh-20261113/service6.webp"
+    },
+    {
+      "slug": "closingspecialist-documentation-version-control-2",
+      "title": "Documentation Version Control for Closing Specialist Teams",
+      "description": "A practical Closing Specialist workflow for documentation version control for closing specialist teams, with evidence, ownership, exceptions, and review.",
+      "category": "Closing Specialist Operations",
+      "date": "2026-10-26",
+      "image": "/refresh-20261113/service7.webp"
+    },
+    {
+      "slug": "closingspecialist-vendor-coordination-ledger-2",
+      "title": "Vendor Coordination Ledger for Closing Specialist Teams",
+      "description": "A practical Closing Specialist workflow for vendor coordination ledger for closing specialist teams, with evidence, ownership, exceptions, and review.",
+      "category": "Closing Specialist Operations",
+      "date": "2026-10-26",
+      "image": "/refresh-20261113/service8.webp"
+    },
+    {
+      "slug": "closingspecialist-reporting-cadence-review-2",
+      "title": "Reporting Cadence Review for Closing Specialist Teams",
+      "description": "A practical Closing Specialist workflow for reporting cadence review for closing specialist teams, with evidence, ownership, exceptions, and review.",
+      "category": "Closing Specialist Operations",
+      "date": "2026-10-26",
+      "image": "/refresh-20261113/service1.webp"
+    },
+    {
+      "slug": "closingspecialist-client-onboarding-brief-2",
+      "title": "Client Onboarding Brief for Closing Specialist Teams",
+      "description": "A practical Closing Specialist workflow for client onboarding brief for closing specialist teams, with evidence, ownership, exceptions, and review.",
+      "category": "Closing Specialist Operations",
+      "date": "2026-10-26",
+      "image": "/refresh-20261113/service2.webp"
+    },
+    {
+      "slug": "closingspecialist-quality-sample-review-2",
+      "title": "Quality Sample Review for Closing Specialist Teams",
+      "description": "A practical Closing Specialist workflow for quality sample review for closing specialist teams, with evidence, ownership, exceptions, and review.",
+      "category": "Closing Specialist Operations",
+      "date": "2026-10-26",
+      "image": "/refresh-20261113/service3.webp"
+    },
+    {
+      "slug": "closingspecialist-closeout-audit-2",
+      "title": "Closeout Audit for Closing Specialist Teams",
+      "description": "A practical Closing Specialist workflow for closeout audit for closing specialist teams, with evidence, ownership, exceptions, and review.",
+      "category": "Closing Specialist Operations",
+      "date": "2026-10-26",
+      "image": "/refresh-20261113/service4.webp"
+    },
+    {
+      "slug": "closingspecialist-intake-request-triage",
+      "title": "Intake Request Triage for Closing Specialist Teams",
+      "description": "A practical Closing Specialist workflow for intake request triage for closing specialist teams, with evidence, ownership, exceptions, and review.",
+      "category": "Closing Specialist Operations",
+      "date": "2026-10-25",
+      "image": "/refresh-20261113/service5.webp"
+    },
+    {
+      "slug": "closingspecialist-evidence-capture-standard",
+      "title": "Evidence Capture Standard for Closing Specialist Teams",
+      "description": "A practical Closing Specialist workflow for evidence capture standard for closing specialist teams, with evidence, ownership, exceptions, and review.",
+      "category": "Closing Specialist Operations",
+      "date": "2026-10-25",
+      "image": "/refresh-20261113/service6.webp"
+    },
+    {
+      "slug": "closingspecialist-owner-handoff-map",
+      "title": "Owner Handoff Map for Closing Specialist Teams",
+      "description": "A practical Closing Specialist workflow for owner handoff map for closing specialist teams, with evidence, ownership, exceptions, and review.",
+      "category": "Closing Specialist Operations",
+      "date": "2026-10-25",
+      "image": "/refresh-20261113/service7.webp"
+    },
+    {
+      "slug": "closingspecialist-queue-aging-review",
+      "title": "Queue Aging Review for Closing Specialist Teams",
+      "description": "A practical Closing Specialist workflow for queue aging review for closing specialist teams, with evidence, ownership, exceptions, and review.",
+      "category": "Closing Specialist Operations",
+      "date": "2026-10-25",
+      "image": "/refresh-20261113/service8.webp"
+    },
+    {
+      "slug": "closingspecialist-exception-escalation-path",
+      "title": "Exception Escalation Path for Closing Specialist Teams",
+      "description": "A practical Closing Specialist workflow for exception escalation path for closing specialist teams, with evidence, ownership, exceptions, and review.",
+      "category": "Closing Specialist Operations",
+      "date": "2026-10-25",
+      "image": "/refresh-20261113/service1.webp"
+    },
+    {
+      "slug": "closingspecialist-access-permission-review",
+      "title": "Access Permission Review for Closing Specialist Teams",
+      "description": "A practical Closing Specialist workflow for access permission review for closing specialist teams, with evidence, ownership, exceptions, and review.",
+      "category": "Closing Specialist Operations",
+      "date": "2026-10-25",
+      "image": "/refresh-20261113/service2.webp"
+    },
+    {
+      "slug": "closingspecialist-documentation-version-control",
+      "title": "Documentation Version Control for Closing Specialist Teams",
+      "description": "A practical Closing Specialist workflow for documentation version control for closing specialist teams, with evidence, ownership, exceptions, and review.",
+      "category": "Closing Specialist Operations",
+      "date": "2026-10-25",
+      "image": "/refresh-20261113/service3.webp"
+    },
+    {
+      "slug": "closingspecialist-vendor-coordination-ledger",
+      "title": "Vendor Coordination Ledger for Closing Specialist Teams",
+      "description": "A practical Closing Specialist workflow for vendor coordination ledger for closing specialist teams, with evidence, ownership, exceptions, and review.",
+      "category": "Closing Specialist Operations",
+      "date": "2026-10-25",
+      "image": "/refresh-20261113/service4.webp"
+    },
+    {
+      "slug": "closingspecialist-reporting-cadence-review",
+      "title": "Reporting Cadence Review for Closing Specialist Teams",
+      "description": "A practical Closing Specialist workflow for reporting cadence review for closing specialist teams, with evidence, ownership, exceptions, and review.",
+      "category": "Closing Specialist Operations",
+      "date": "2026-10-25",
+      "image": "/refresh-20261113/service5.webp"
+    },
+    {
+      "slug": "closingspecialist-client-onboarding-brief",
+      "title": "Client Onboarding Brief for Closing Specialist Teams",
+      "description": "A practical Closing Specialist workflow for client onboarding brief for closing specialist teams, with evidence, ownership, exceptions, and review.",
+      "category": "Closing Specialist Operations",
+      "date": "2026-10-25",
+      "image": "/refresh-20261113/service6.webp"
+    },
+    {
+      "slug": "closingspecialist-quality-sample-review",
+      "title": "Quality Sample Review for Closing Specialist Teams",
+      "description": "A practical Closing Specialist workflow for quality sample review for closing specialist teams, with evidence, ownership, exceptions, and review.",
+      "category": "Closing Specialist Operations",
+      "date": "2026-10-25",
+      "image": "/refresh-20261113/service7.webp"
+    },
+    {
+      "slug": "closingspecialist-closeout-audit",
+      "title": "Closeout Audit for Closing Specialist Teams",
+      "description": "A practical Closing Specialist workflow for closeout audit for closing specialist teams, with evidence, ownership, exceptions, and review.",
+      "category": "Closing Specialist Operations",
+      "date": "2026-10-25",
+      "image": "/refresh-20261113/service8.webp"
+    },
+    {
+      "slug": "closing-package-completeness",
+      "title": "A Closing Package Completeness Check",
+      "description": "A document readiness routine for signatures, disclosures, and lender requirements.",
+      "category": "Closing preparation",
+      "date": "2026-10-22",
+      "image": "/refresh-20261113/service1.webp"
+    },
+    {
+      "slug": "title-commitment-review",
+      "title": "A Title Commitment Review Routine for Closing Teams",
+      "description": "A preparation checklist for exceptions, requirements, and ownership.",
+      "category": "Title operations",
+      "date": "2026-10-22",
+      "image": "/refresh-20261113/service2.webp"
+    },
+    {
+      "slug": "closing-scheduling-coordination",
+      "title": "Coordinate Closing Scheduling Without Double Booking",
+      "description": "A scheduling workflow for parties, locations, and document readiness.",
+      "category": "Scheduling",
+      "date": "2026-10-22",
+      "image": "/refresh-20261113/service3.webp"
+    },
+    {
+      "slug": "wire-instruction-verification",
+      "title": "Wire Instruction Verification Before Closing",
+      "description": "A callback and evidence routine for wire details and changes.",
+      "category": "Payment security",
+      "date": "2026-10-22",
+      "image": "/refresh-20261113/service4.webp"
+    },
+    {
+      "slug": "closing-disclosure-timing",
+      "title": "Closing Disclosure Timing and Delivery Evidence",
+      "description": "A record of delivery, receipt, and open questions without legal interpretation.",
+      "category": "Compliance records",
+      "date": "2026-10-22",
+      "image": "/refresh-20261113/service5.webp"
+    },
+    {
+      "slug": "lender-condition-handoff",
+      "title": "A Lender Condition Handoff for Closing Teams",
+      "description": "A queue for open conditions, owners, and due dates before closing.",
+      "category": "Closing preparation",
+      "date": "2026-10-22",
+      "image": "/refresh-20261113/service6.webp"
+    },
+    {
+      "slug": "recording-follow-up",
+      "title": "Recording Follow-Up After Closing",
+      "description": "A post-closing routine for recording status, confirmations, and exceptions.",
+      "category": "Post-closing",
+      "date": "2026-10-22",
+      "image": "/refresh-20261113/service7.webp"
+    },
+    {
+      "slug": "buyer-closing-updates",
+      "title": "Buyer Closing Updates Without Promising a Date",
+      "description": "A status update structure for readiness, outstanding items, and next steps.",
+      "category": "Borrower communication",
+      "date": "2026-10-22",
+      "image": "/refresh-20261113/service8.webp"
+    },
+    {
+      "slug": "notary-coordination-record",
+      "title": "A Notary Coordination Record That Holds Up",
+      "description": "A record for assignment, confirmation, documents, and completion.",
+      "category": "Scheduling",
+      "date": "2026-10-22",
+      "image": "/refresh-20261113/service1.webp"
+    },
+    {
+      "slug": "post-closing-file-audit",
+      "title": "A Post-Closing File Audit for Remote Support",
+      "description": "A sample review of signatures, recordings, and missing documents.",
+      "category": "Quality review",
+      "date": "2026-10-22",
+      "image": "/refresh-20261113/service2.webp"
+    },
+    {
+      "slug": "closing-va-role-boundaries",
+      "title": "Where a Closing Virtual Assistant Should Stop",
+      "description": "The boundary between preparation and legal, title, or funding decisions.",
+      "category": "Role design",
+      "date": "2026-10-22",
+      "image": "/refresh-20261113/service3.webp"
+    },
+    {
+      "slug": "onboarding-closing-assistant",
+      "title": "Onboarding a Closing Assistant Into Your Pipeline",
+      "description": "A first-month plan for access, checklists, and supervised coordination.",
+      "category": "Team enablement",
+      "date": "2026-10-22",
+      "image": "/refresh-20261113/service4.webp"
+    },
+    {
+      "slug": "earnest-money-receipt-custody",
+      "title": "Keep Earnest Money Receipt Evidence Tied to the Transaction",
+      "description": "A practical earnest money receipt custody control for preserving source evidence, role boundaries, exceptions, execution records, and closing confirmation.",
+      "category": "Closing controls",
+      "date": "2026-10-13",
+      "image": "/refresh-20261113/service5.webp"
+    },
+    {
+      "slug": "payoff-statement-validity-review",
+      "title": "Review Payoff Statement Validity Before Closing Handoff",
+      "description": "A practical payoff statement validity control for preserving source evidence, role boundaries, exceptions, execution records, and closing confirmation.",
+      "category": "Document systems",
+      "date": "2026-10-13",
+      "image": "/refresh-20261113/service6.webp"
+    },
+    {
+      "slug": "lien-release-exception-handoff",
+      "title": "Handoff Lien Release Exceptions With Source Evidence",
+      "description": "A practical lien release exception handoff control for preserving source evidence, role boundaries, exceptions, execution records, and closing confirmation.",
+      "category": "Closing controls",
+      "date": "2026-10-13",
+      "image": "/refresh-20261113/service7.webp"
+    },
+    {
+      "slug": "signing-identity-check-handoff",
+      "title": "Route Signing Identity Check Exceptions Without Guesswork",
+      "description": "A practical signing identity check handoff control for preserving source evidence, role boundaries, exceptions, execution records, and closing confirmation.",
+      "category": "Closing controls",
+      "date": "2026-10-13",
+      "image": "/refresh-20261113/service8.webp"
+    },
+    {
+      "slug": "final-walkthrough-issue-routing",
+      "title": "Route Final Walkthrough Issues to an Accountable Decision Owner",
+      "description": "A practical final walkthrough issue routing control for preserving source evidence, role boundaries, exceptions, execution records, and closing confirmation.",
+      "category": "Stakeholder communication",
+      "date": "2026-10-13",
+      "image": "/refresh-20261113/service1.webp"
+    },
+    {
+      "slug": "closing-cost-change-acknowledgment",
+      "title": "Track Acknowledgment of Closing Cost Changes",
+      "description": "A practical closing cost change acknowledgment control for preserving source evidence, role boundaries, exceptions, execution records, and closing confirmation.",
+      "category": "Document systems",
+      "date": "2026-10-13",
+      "image": "/refresh-20261113/service2.webp"
+    },
+    {
+      "slug": "recording-package-chain-of-custody",
+      "title": "Maintain Chain of Custody for Recording Packages",
+      "description": "A practical recording package custody control for preserving source evidence, role boundaries, exceptions, execution records, and closing confirmation.",
+      "category": "Document systems",
+      "date": "2026-10-13",
+      "image": "/refresh-20261113/service3.webp"
+    },
+    {
+      "slug": "hoa-transfer-document-queue",
+      "title": "Control HOA Transfer Documents in a Separate Review Queue",
+      "description": "A practical HOA transfer document control control for preserving source evidence, role boundaries, exceptions, execution records, and closing confirmation.",
+      "category": "Document systems",
+      "date": "2026-10-13",
+      "image": "/refresh-20261113/service4.webp"
+    },
+    {
+      "slug": "remote-signing-package-delivery",
+      "title": "Verify Remote Signing Package Delivery and Return Events",
+      "description": "A practical remote signing package delivery control for preserving source evidence, role boundaries, exceptions, execution records, and closing confirmation.",
+      "category": "Closing controls",
+      "date": "2026-10-13",
+      "image": "/refresh-20261113/service5.webp"
+    },
+    {
+      "slug": "funding-authorization-evidence",
+      "title": "Keep Funding Authorization Separate From Funding Preparation",
+      "description": "A practical funding authorization evidence control for preserving source evidence, role boundaries, exceptions, execution records, and closing confirmation.",
+      "category": "Closing controls",
+      "date": "2026-10-13",
+      "image": "/refresh-20261113/service6.webp"
+    },
+    {
+      "slug": "closing-day-communication-ledger",
+      "title": "Use One Communication Ledger for Closing Day Changes",
+      "description": "A practical closing day communication ledger control for preserving source evidence, role boundaries, exceptions, execution records, and closing confirmation.",
+      "category": "Stakeholder communication",
+      "date": "2026-10-13",
+      "image": "/refresh-20261113/service7.webp"
+    },
+    {
+      "slug": "returned-document-reconciliation",
+      "title": "Reconcile Returned Closing Documents Against the Final Index",
+      "description": "A practical returned closing document reconciliation control for preserving source evidence, role boundaries, exceptions, execution records, and closing confirmation.",
+      "category": "Post-closing records",
+      "date": "2026-10-13",
+      "image": "/refresh-20261113/service8.webp"
+    },
+    {
+      "slug": "closing-checklist-version-custody",
+      "title": "Keep Closing Checklist Versions Traceable",
+      "description": "A practical closing control that preserves source evidence, ownership, exceptions, and review decisions.",
+      "category": "Closing controls",
+      "date": "2026-10-12",
+      "image": "/refresh-20261113/service1.webp"
+    },
+    {
+      "slug": "closing-document-receipt-log",
+      "title": "Build a Closing Document Receipt Log",
+      "description": "A practical closing control that preserves source evidence, ownership, exceptions, and review decisions.",
+      "category": "Document systems",
+      "date": "2026-10-12",
+      "image": "/refresh-20261113/service2.webp"
+    },
+    {
+      "slug": "stakeholder-question-owner-routing",
+      "title": "Route Closing Questions to Accountable Owners",
+      "description": "A practical closing control that preserves source evidence, ownership, exceptions, and review decisions.",
+      "category": "Stakeholder communication",
+      "date": "2026-10-12",
+      "image": "/refresh-20261113/service3.webp"
+    },
+    {
+      "slug": "closing-date-change-verification",
+      "title": "Verify Closing Date Changes Before Updating",
+      "description": "A practical closing control that preserves source evidence, ownership, exceptions, and review decisions.",
+      "category": "Closing controls",
+      "date": "2026-10-12",
+      "image": "/refresh-20261113/service4.webp"
+    },
+    {
+      "slug": "wire-instruction-change-escalation",
+      "title": "Escalate Wire Instruction Changes Independently",
+      "description": "A practical closing control that preserves source evidence, ownership, exceptions, and review decisions.",
+      "category": "Closing controls",
+      "date": "2026-10-12",
+      "image": "/refresh-20261113/service5.webp"
+    },
+    {
+      "slug": "title-exception-follow-up-custody",
+      "title": "Track Title Exception Follow Up by Owner",
+      "description": "A practical closing control that preserves source evidence, ownership, exceptions, and review decisions.",
+      "category": "Document systems",
+      "date": "2026-10-12",
+      "image": "/refresh-20261113/service6.webp"
+    },
+    {
+      "slug": "closing-disclosure-version-reconciliation",
+      "title": "Reconcile Closing Disclosure Versions",
+      "description": "A practical closing control that preserves source evidence, ownership, exceptions, and review decisions.",
+      "category": "Document systems",
+      "date": "2026-10-12",
+      "image": "/refresh-20261113/service7.webp"
+    },
+    {
+      "slug": "signing-package-delivery-chain",
+      "title": "Verify the Signing Package Delivery Chain",
+      "description": "A practical closing control that preserves source evidence, ownership, exceptions, and review decisions.",
+      "category": "Closing controls",
+      "date": "2026-10-12",
+      "image": "/refresh-20261113/service8.webp"
+    },
+    {
+      "slug": "post-closing-record-gap-log",
+      "title": "Log Post-Closing Record Gaps",
+      "description": "A practical closing control that preserves source evidence, ownership, exceptions, and review decisions.",
+      "category": "Document systems",
+      "date": "2026-10-12",
+      "image": "/refresh-20261113/service1.webp"
+    },
+    {
+      "slug": "closing-contact-preference-register",
+      "title": "Maintain Closing Contact Preferences",
+      "description": "A practical closing control that preserves source evidence, ownership, exceptions, and review decisions.",
+      "category": "Stakeholder communication",
+      "date": "2026-10-12",
+      "image": "/refresh-20261113/service2.webp"
+    },
+    {
+      "slug": "funding-condition-handoff",
+      "title": "Build a Funding Condition Handoff",
+      "description": "A practical closing control that preserves source evidence, ownership, exceptions, and review decisions.",
+      "category": "Closing controls",
+      "date": "2026-10-12",
+      "image": "/refresh-20261113/service3.webp"
+    },
+    {
+      "slug": "closing-system-outage-reconciliation",
+      "title": "Reconcile Closing Records After an Outage",
+      "description": "A practical closing control that preserves source evidence, ownership, exceptions, and review decisions.",
+      "category": "Closing controls",
+      "date": "2026-10-12",
+      "image": "/refresh-20261113/service4.webp"
+    },
+    {
+      "slug": "post-closing-record-check",
+      "title": "Design a post-closing record check",
+      "description": "A practical guide to design a post-closing record check for title teams, real estate operations leaders, and transaction coordinators.",
+      "category": "Document systems",
+      "date": "2026-10-08",
+      "image": "/refresh-20261113/service5.webp"
+    },
+    {
+      "slug": "closing-status-update-rhythm",
+      "title": "A closing status update rhythm",
+      "description": "A practical guide to a closing status update rhythm for title teams, real estate operations leaders, and transaction coordinators.",
+      "category": "Stakeholder communication",
+      "date": "2026-10-07",
+      "image": "/refresh-20261113/service6.webp"
+    },
+    {
+      "slug": "real-estate-milestone-map",
+      "title": "Create a real estate milestone map",
+      "description": "A practical guide to create a real estate milestone map for title teams, real estate operations leaders, and transaction coordinators.",
+      "category": "Closing controls",
+      "date": "2026-10-06",
+      "image": "/refresh-20261113/service7.webp"
+    },
+    {
+      "slug": "closing-document-index",
+      "title": "Build a closing document index",
+      "description": "A practical guide to build a closing document index for title teams, real estate operations leaders, and transaction coordinators.",
+      "category": "Document systems",
+      "date": "2026-10-05",
+      "image": "/refresh-20261113/service8.webp"
+    },
+    {
+      "slug": "closing-manager-vs-closing-va",
+      "title": "Closing manager vs closing VA",
+      "description": "A practical guide to closing manager vs closing va for title teams, real estate operations leaders, and transaction coordinators.",
+      "category": "Role design",
+      "date": "2026-10-04",
+      "image": "/refresh-20261113/service1.webp"
+    }
+  ],
+  "research": [
+    {
+      "slug": "closing-wire-receipt-ledger-match-rate",
+      "title": "Wire receipt ledger match rate",
+      "description": "A measurement protocol for closing wire receipt ledger match in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Funding operations",
+      "date": "2026-11-11",
+      "image": "/thumbnails/november-11/closing-wire-receipt-ledger-match-rate.png"
+    },
+    {
+      "slug": "closing-seller-concession-cap-exception-rate",
+      "title": "Seller concession cap exception rate",
+      "description": "A measurement protocol for seller concession cap exception in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Disclosure operations",
+      "date": "2026-11-11",
+      "image": "/thumbnails/november-11/closing-seller-concession-cap-exception-rate.png"
+    },
+    {
+      "slug": "closing-prepaid-interest-per-diem-variance",
+      "title": "Prepaid interest per-diem variance",
+      "description": "A measurement protocol for prepaid interest per diem variance in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Proration operations",
+      "date": "2026-11-11",
+      "image": "/thumbnails/november-11/closing-prepaid-interest-per-diem-variance.png"
+    },
+    {
+      "slug": "closing-lis-pendens-release-recording-lag",
+      "title": "Lis pendens release recording lag",
+      "description": "A measurement protocol for lis pendens release recording lag in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Lien operations",
+      "date": "2026-11-11",
+      "image": "/thumbnails/november-11/closing-lis-pendens-release-recording-lag.png"
+    },
+    {
+      "slug": "closing-remote-signer-authority-verification-coverage",
+      "title": "Remote signer authority verification coverage",
+      "description": "A measurement protocol for remote signer authority verification in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Authority operations",
+      "date": "2026-11-11",
+      "image": "/thumbnails/november-11/closing-remote-signer-authority-verification-coverage.png"
+    },
+    {
+      "slug": "closing-changed-term-re-disclosure-timing-compliance",
+      "title": "Changed term re-disclosure timing compliance",
+      "description": "A measurement protocol for changed term re-disclosure timing in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Disclosure operations",
+      "date": "2026-11-11",
+      "image": "/thumbnails/november-11/closing-changed-term-re-disclosure-timing-compliance.png"
+    },
+    {
+      "slug": "closing-title-endorsement-premium-reconciliation-variance",
+      "title": "Title endorsement premium reconciliation variance",
+      "description": "A measurement protocol for title endorsement premium reconciliation in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Fee operations",
+      "date": "2026-11-11",
+      "image": "/thumbnails/november-11/closing-title-endorsement-premium-reconciliation-variance.png"
+    },
+    {
+      "slug": "closing-escrow-dual-control-disbursement-exceptions",
+      "title": "Escrow dual-control disbursement exceptions",
+      "description": "A measurement protocol for escrow dual-control disbursement exception in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Funding operations",
+      "date": "2026-11-10",
+      "image": "/thumbnails/november-10/closing-escrow-dual-control-disbursement-exceptions.png"
+    },
+    {
+      "slug": "closing-mortgage-payoff-good-through-date-gaps",
+      "title": "Mortgage payoff good-through date gaps",
+      "description": "A measurement protocol for mortgage payoff good-through date gap in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Payoff operations",
+      "date": "2026-11-10",
+      "image": "/thumbnails/november-10/closing-mortgage-payoff-good-through-date-gaps.png"
+    },
+    {
+      "slug": "closing-rent-proration-credit-variance",
+      "title": "Rent proration credit variance",
+      "description": "A measurement protocol for rent proration credit variance in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Proration operations",
+      "date": "2026-11-10",
+      "image": "/thumbnails/november-10/closing-rent-proration-credit-variance.png"
+    },
+    {
+      "slug": "closing-title-curative-affidavit-recording-lag",
+      "title": "Title curative affidavit recording lag",
+      "description": "A measurement protocol for title curative affidavit recording lag in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Title operations",
+      "date": "2026-11-10",
+      "image": "/thumbnails/november-10/closing-title-curative-affidavit-recording-lag.png"
+    },
+    {
+      "slug": "closing-notary-journal-entry-completeness",
+      "title": "Notary journal entry completeness",
+      "description": "A measurement protocol for notary journal entry completeness in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Notary operations",
+      "date": "2026-11-10",
+      "image": "/thumbnails/november-10/closing-notary-journal-entry-completeness.png"
+    },
+    {
+      "slug": "closing-settlement-vendor-fee-disclosure-accuracy",
+      "title": "Settlement vendor fee disclosure accuracy",
+      "description": "A measurement protocol for settlement vendor fee disclosure accuracy in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Fee operations",
+      "date": "2026-11-10",
+      "image": "/thumbnails/november-10/closing-settlement-vendor-fee-disclosure-accuracy.png"
+    },
+    {
+      "slug": "closing-post-closing-document-delivery-acknowledgement-rate",
+      "title": "Post-closing document delivery acknowledgement rate",
+      "description": "A measurement protocol for post-closing document delivery acknowledgement in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Post-closing operations",
+      "date": "2026-11-10",
+      "image": "/thumbnails/november-10/closing-post-closing-document-delivery-acknowledgement-rate.png"
+    },
+    {
+      "slug": "closing-hazard-insurance-binder-expiration-incidents",
+      "title": "Hazard insurance binder expiration incidents",
+      "description": "A measurement protocol for hazard insurance binder expiration in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Insurance operations",
+      "date": "2026-11-09",
+      "image": "/thumbnails/november-09/closing-hazard-insurance-binder-expiration-incidents.png"
+    },
+    {
+      "slug": "closing-closing-disclosure-tolerance-cure-rate",
+      "title": "Closing disclosure tolerance cure rate",
+      "description": "A measurement protocol for closing disclosure tolerance cure in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Compliance operations",
+      "date": "2026-11-09",
+      "image": "/thumbnails/november-09/closing-closing-disclosure-tolerance-cure-rate.png"
+    },
+    {
+      "slug": "closing-property-tax-certificate-variance",
+      "title": "Property tax certificate variance",
+      "description": "A measurement protocol for property tax certificate variance in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Tax operations",
+      "date": "2026-11-09",
+      "image": "/thumbnails/november-09/closing-property-tax-certificate-variance.png"
+    },
+    {
+      "slug": "closing-subordination-agreement-recording-lag",
+      "title": "Subordination agreement recording lag",
+      "description": "A measurement protocol for subordination agreement recording lag in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Post-closing operations",
+      "date": "2026-11-09",
+      "image": "/thumbnails/november-09/closing-subordination-agreement-recording-lag.png"
+    },
+    {
+      "slug": "closing-trustee-payoff-authorization-gaps",
+      "title": "Trustee payoff authorization gaps",
+      "description": "A measurement protocol for trustee payoff authorization gap in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Funding operations",
+      "date": "2026-11-09",
+      "image": "/thumbnails/november-09/closing-trustee-payoff-authorization-gaps.png"
+    },
+    {
+      "slug": "closing-final-walk-through-acknowledgement-completeness",
+      "title": "Final walk-through acknowledgement completeness",
+      "description": "A measurement protocol for final walk-through acknowledgement completeness in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Closing operations",
+      "date": "2026-11-09",
+      "image": "/thumbnails/november-09/closing-final-walk-through-acknowledgement-completeness.png"
+    },
+    {
+      "slug": "closing-earnest-money-deposit-receipt-reconciliation-rate",
+      "title": "Earnest money deposit receipt reconciliation rate",
+      "description": "A measurement protocol for earnest money deposit receipt reconciliation in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Escrow operations",
+      "date": "2026-11-09",
+      "image": "/thumbnails/november-09/closing-earnest-money-deposit-receipt-reconciliation-rate.png"
+    },
+    {
+      "slug": "closing-wire-instruction-change-incidents",
+      "title": "Wire instruction change incidents",
+      "description": "A measurement protocol for wire instruction change incident in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Funding operations",
+      "date": "2026-11-08",
+      "image": "/thumbnails/november-08/closing-wire-instruction-change-incidents.png"
+    },
+    {
+      "slug": "closing-title-commitment-effective-date-errors",
+      "title": "Title commitment effective-date errors",
+      "description": "A measurement protocol for title commitment date error in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Title operations",
+      "date": "2026-11-08",
+      "image": "/thumbnails/november-08/closing-title-commitment-effective-date-errors.png"
+    },
+    {
+      "slug": "closing-seller-credit-reconciliation-variance",
+      "title": "Seller credit reconciliation variance",
+      "description": "A measurement protocol for seller credit variance in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Closing operations",
+      "date": "2026-11-08",
+      "image": "/thumbnails/november-08/closing-seller-credit-reconciliation-variance.png"
+    },
+    {
+      "slug": "closing-lien-release-recording-lag",
+      "title": "Lien release recording lag",
+      "description": "A measurement protocol for lien release lag in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Post-closing operations",
+      "date": "2026-11-08",
+      "image": "/thumbnails/november-08/closing-lien-release-recording-lag.png"
+    },
+    {
+      "slug": "closing-notary-commission-expiry-exposure",
+      "title": "Notary commission expiry exposure",
+      "description": "A measurement protocol for notary commission expiry in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Signing operations",
+      "date": "2026-11-08",
+      "image": "/thumbnails/november-08/closing-notary-commission-expiry-exposure.png"
+    },
+    {
+      "slug": "closing-closing-date-extension-notice-compliance",
+      "title": "Closing date extension notice compliance",
+      "description": "A measurement protocol for date extension compliance in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Closing operations",
+      "date": "2026-11-08",
+      "image": "/thumbnails/november-08/closing-closing-date-extension-notice-compliance.png"
+    },
+    {
+      "slug": "closing-escrow-holdback-release-completeness",
+      "title": "Escrow holdback release completeness",
+      "description": "A measurement protocol for holdback release completeness in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Post-closing operations",
+      "date": "2026-11-08",
+      "image": "/thumbnails/november-08/closing-escrow-holdback-release-completeness.png"
+    },
+    {
+      "slug": "closing-power-of-attorney-authority-scope-errors",
+      "title": "Power of attorney authority-scope errors",
+      "description": "A measurement protocol for POA authority-scope error in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Signing operations",
+      "date": "2026-11-07",
+      "image": "/thumbnails/november-07/closing-power-of-attorney-authority-scope-errors.png"
+    },
+    {
+      "slug": "closing-payoff-statement-expiration-incidents",
+      "title": "Payoff statement expiration incidents",
+      "description": "A measurement protocol for payoff statement expiration in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Closing coordination",
+      "date": "2026-11-07",
+      "image": "/thumbnails/november-07/closing-payoff-statement-expiration-incidents.png"
+    },
+    {
+      "slug": "closing-proration-change-rework-rate",
+      "title": "Proration change rework rate",
+      "description": "A measurement protocol for proration change rework in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Closing coordination",
+      "date": "2026-11-07",
+      "image": "/thumbnails/november-07/closing-proration-change-rework-rate.png"
+    },
+    {
+      "slug": "closing-survey-exception-clearance-lag",
+      "title": "Survey exception clearance lag",
+      "description": "A measurement protocol for survey exception clearance lag in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Title coordination",
+      "date": "2026-11-07",
+      "image": "/thumbnails/november-07/closing-survey-exception-clearance-lag.png"
+    },
+    {
+      "slug": "closing-closing-protection-letter-coverage-gaps",
+      "title": "Closing protection letter coverage gaps",
+      "description": "A measurement protocol for CPL coverage gap in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Document coordination",
+      "date": "2026-11-07",
+      "image": "/thumbnails/november-07/closing-closing-protection-letter-coverage-gaps.png"
+    },
+    {
+      "slug": "closing-document-package-version-drift",
+      "title": "Document package version drift",
+      "description": "A measurement protocol for document package version drift in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Signing operations",
+      "date": "2026-11-07",
+      "image": "/thumbnails/november-07/closing-document-package-version-drift.png"
+    },
+    {
+      "slug": "closing-recording-fee-estimate-variance",
+      "title": "Recording fee estimate variance",
+      "description": "A measurement protocol for recording fee estimate variance in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Post-closing records",
+      "date": "2026-11-07",
+      "image": "/thumbnails/november-07/closing-recording-fee-estimate-variance.png"
+    },
+    {
+      "slug": "closing-cd-revised-date-evidence-completeness",
+      "title": "CD revised-date evidence completeness",
+      "description": "A measurement protocol for CD revised-date evidence in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Closing coordination",
+      "date": "2026-11-06",
+      "image": "/thumbnails/november-06/closing-cd-revised-date-evidence-completeness.png"
+    },
+    {
+      "slug": "closing-seller-concession-limit-compliance",
+      "title": "Seller concession limit compliance",
+      "description": "A measurement protocol for seller concession limit compliance in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Document coordination",
+      "date": "2026-11-06",
+      "image": "/thumbnails/november-06/closing-seller-concession-limit-compliance.png"
+    },
+    {
+      "slug": "closing-earnest-money-reconciliation-errors",
+      "title": "Earnest money reconciliation errors",
+      "description": "A measurement protocol for earnest money reconciliation in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Closing checklist",
+      "date": "2026-11-06",
+      "image": "/thumbnails/november-06/closing-earnest-money-reconciliation-errors.png"
+    },
+    {
+      "slug": "closing-title-exception-clearance-latency",
+      "title": "Title exception clearance latency",
+      "description": "A measurement protocol for title exception clearance latency in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Title coordination",
+      "date": "2026-11-06",
+      "image": "/thumbnails/november-06/closing-title-exception-clearance-latency.png"
+    },
+    {
+      "slug": "closing-wire-callback-compliance",
+      "title": "Wire callback compliance",
+      "description": "A measurement protocol for wire callback compliance in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Closing checklist",
+      "date": "2026-11-06",
+      "image": "/thumbnails/november-06/closing-wire-callback-compliance.png"
+    },
+    {
+      "slug": "closing-notary-commission-lapse-at-signing",
+      "title": "Notary commission lapse at signing",
+      "description": "A measurement protocol for notary commission lapse in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Signing operations",
+      "date": "2026-11-06",
+      "image": "/thumbnails/november-06/closing-notary-commission-lapse-at-signing.png"
+    },
+    {
+      "slug": "closing-closing-statement-line-variance",
+      "title": "Closing statement line variance",
+      "description": "A measurement protocol for closing statement line variance in closing operations, with a frozen population, an evidence sample, and a dated review.",
+      "category": "Closing coordination",
+      "date": "2026-11-06",
+      "image": "/thumbnails/november-06/closing-closing-statement-line-variance.png"
+    },
+    {
+      "slug": "wire-limit-verification-completeness",
+      "title": "Wire limit verification completeness",
+      "description": "A measurement protocol for wire limit completeness in closing operations, with a frozen population and an evidence sample.",
+      "category": "Closing coordination",
+      "date": "2026-11-05",
+      "image": "/thumbnails/november-05/wire-limit-verification-completeness.png"
+    },
+    {
+      "slug": "title-endorsement-cycle",
+      "title": "Title endorsement cycle",
+      "description": "A measurement protocol for endorsement cycle in closing operations, with a frozen population and an evidence sample.",
+      "category": "Title coordination",
+      "date": "2026-11-05",
+      "image": "/thumbnails/november-05/title-endorsement-cycle.png"
+    },
+    {
+      "slug": "escrow-analysis-variance",
+      "title": "Escrow analysis variance",
+      "description": "A measurement protocol for escrow analysis variance in closing operations, with a frozen population and an evidence sample.",
+      "category": "Post-closing records",
+      "date": "2026-11-05",
+      "image": "/thumbnails/november-05/escrow-analysis-variance.png"
+    },
+    {
+      "slug": "municipal-lien-search-coverage",
+      "title": "Municipal lien search coverage",
+      "description": "A measurement protocol for lien search coverage in closing operations, with a frozen population and an evidence sample.",
+      "category": "Title coordination",
+      "date": "2026-11-05",
+      "image": "/thumbnails/november-05/municipal-lien-search-coverage.png"
+    },
+    {
+      "slug": "closing-package-courier-completeness",
+      "title": "Closing package courier completeness",
+      "description": "A measurement protocol for courier completeness in closing operations, with a frozen population and an evidence sample.",
+      "category": "Post-closing records",
+      "date": "2026-11-05",
+      "image": "/thumbnails/november-05/closing-package-courier-completeness.png"
+    },
+    {
+      "slug": "seller-proceeds-adjustment-evidence",
+      "title": "Seller proceeds adjustment evidence",
+      "description": "A measurement protocol for proceeds adjustment evidence in closing operations, with a frozen population and an evidence sample.",
+      "category": "Closing coordination",
+      "date": "2026-11-05",
+      "image": "/thumbnails/november-05/seller-proceeds-adjustment-evidence.png"
+    },
+    {
+      "slug": "attorney-review-handoff-latency",
+      "title": "Attorney review handoff latency",
+      "description": "A measurement protocol for attorney handoff latency in closing operations, with a frozen population and an evidence sample.",
+      "category": "Document coordination",
+      "date": "2026-11-05",
+      "image": "/thumbnails/november-05/attorney-review-handoff-latency.png"
+    },
+    {
+      "slug": "closing-nov02-wire-callback-study",
+      "title": "Wire Callback Completion",
+      "description": "A bounded record review for how often is an independent wire callback completed before release?",
+      "category": "Closing operations",
+      "date": "2026-11-02",
+      "image": "/article-thumbnails/november-02/closing-nov02-wire-callback-study.jpg"
+    },
+    {
+      "slug": "closing-nov02-disclosure-delivery-study",
+      "title": "Closing Disclosure Delivery Timing",
+      "description": "A bounded record review for how much time passes between disclosure delivery and closing?",
+      "category": "Closing operations",
+      "date": "2026-11-02",
+      "image": "/article-thumbnails/november-02/closing-nov02-disclosure-delivery-study.jpg"
+    },
+    {
+      "slug": "closing-nov02-title-exception-study",
+      "title": "Title Exception Clearance",
+      "description": "A bounded record review for which title exceptions remain open at closing?",
+      "category": "Closing operations",
+      "date": "2026-11-02",
+      "image": "/article-thumbnails/november-02/closing-nov02-title-exception-study.jpg"
+    },
+    {
+      "slug": "closing-nov02-package-return-study",
+      "title": "Post-Closing Package Return",
+      "description": "A bounded record review for how often is a recorded package returned to the file on time?",
+      "category": "Closing operations",
+      "date": "2026-11-02",
+      "image": "/article-thumbnails/november-02/closing-nov02-package-return-study.jpg"
+    },
+    {
+      "slug": "closing-nov02-file-audit-defects",
+      "title": "Defects in a Closing File Audit Sample",
+      "description": "A bounded record review for which defects appear in a weekly closing file sample?",
+      "category": "Closing operations",
+      "date": "2026-11-02",
+      "image": "/article-thumbnails/november-02/closing-nov02-file-audit-defects.jpg"
+    },
+    {
+      "slug": "closingspecialist-how-complete-is-the-evidence-in-the-closing-checklist-record-2026-11-01",
+      "title": "How complete is the evidence in the closing checklist record?",
+      "description": "A repeatable measurement protocol for closing checklist in real estate closing teams, with definitions, sampling, limits, and reporting Prepared for the Closing Specialist record at closingspecialist.com.",
+      "category": "Evidence Quality",
+      "date": "2026-11-01",
+      "image": "/thumbnails/november-01/closingspecialist-how-complete-is-the-evidence-in-the-closing-checklist-record-2026-11-01.webp"
+    },
+    {
+      "slug": "closingspecialist-where-does-delay-accumulate-in-the-document-coordination-handoff-2026-11-01",
+      "title": "Where does delay accumulate in the document coordination handoff?",
+      "description": "A repeatable measurement protocol for document coordination in real estate closing teams, with definitions, sampling, limits, and reporting Prepared for the Closing Specialist record at closingspecialist.com.",
+      "category": "Timing",
+      "date": "2026-11-01",
+      "image": "/thumbnails/november-01/closingspecialist-where-does-delay-accumulate-in-the-document-coordination-handoff-2026-11-01.webp"
+    },
+    {
+      "slug": "closingspecialist-how-old-are-the-exceptions-in-the-stakeholder-update-queue-2026-11-01",
+      "title": "How old are the exceptions in the stakeholder update queue?",
+      "description": "A repeatable measurement protocol for stakeholder update in real estate closing teams, with definitions, sampling, limits, and reporting Prepared for the Closing Specialist record at closingspecialist.com.",
+      "category": "Queue Health",
+      "date": "2026-11-01",
+      "image": "/thumbnails/november-01/closingspecialist-how-old-are-the-exceptions-in-the-stakeholder-update-queue-2026-11-01.webp"
+    },
+    {
+      "slug": "closingspecialist-what-happens-to-date-and-milestone-tracking-coverage-when-the-owner-is-away-2026-11-01",
+      "title": "What happens to date and milestone tracking coverage when the owner is away?",
+      "description": "A repeatable measurement protocol for date and milestone tracking in real estate closing teams, with definitions, sampling, limits, and reporting Prepared for the Closing Specialist record at closingspecialist.com.",
+      "category": "Capacity",
+      "date": "2026-11-01",
+      "image": "/thumbnails/november-01/closingspecialist-what-happens-to-date-and-milestone-tracking-coverage-when-the-owner-is-away-2026-11-01.webp"
+    },
+    {
+      "slug": "closingspecialist-can-the-closing-file-report-be-reproduced-from-its-sources-2026-11-01",
+      "title": "Can the closing file report be reproduced from its sources?",
+      "description": "A repeatable measurement protocol for closing file in real estate closing teams, with definitions, sampling, limits, and reporting Prepared for the Closing Specialist record at closingspecialist.com.",
+      "category": "Measurement",
+      "date": "2026-11-01",
+      "image": "/thumbnails/november-01/closingspecialist-can-the-closing-file-report-be-reproduced-from-its-sources-2026-11-01.webp"
+    },
+    {
+      "slug": "closingspecialist-wire-callback-completion-oct28-study",
+      "title": "Wire Callback Completion Time in Closing Files",
+      "description": "What share of wire releases have a completed independent callback before funds leave, and where does the callback clock stop?",
+      "category": "Closing Specialist Research",
+      "date": "2026-10-28",
+      "image": "/article-thumbnails/october-28/closingspecialist-wire-callback-completion-oct28-study.jpg"
+    },
+    {
+      "slug": "closingspecialist-cd-delivery-lag-oct28-study",
+      "title": "Closing Disclosure Delivery Lag",
+      "description": "How much time passes between disclosure preparation, delivery, receipt, and closing, and where does the lag appear?",
+      "category": "Closing Specialist Research",
+      "date": "2026-10-28",
+      "image": "/article-thumbnails/october-28/closingspecialist-cd-delivery-lag-oct28-study.jpg"
+    },
+    {
+      "slug": "closingspecialist-condition-rework-oct28-study",
+      "title": "Condition-Clearing Rework in Closing Files",
+      "description": "How often does a lender condition reopen after it was marked cleared, and what evidence predicts the reopen?",
+      "category": "Closing Specialist Research",
+      "date": "2026-10-28",
+      "image": "/article-thumbnails/october-28/closingspecialist-condition-rework-oct28-study.jpg"
+    },
+    {
+      "slug": "closingspecialist-notary-coverage-variance-oct28-study",
+      "title": "Notary Coverage Variance on Peak Closing Days",
+      "description": "How much does signing coverage vary when closings cluster on the same day, and which coverage model absorbs the peak?",
+      "category": "Closing Specialist Research",
+      "date": "2026-10-28",
+      "image": "/article-thumbnails/october-28/closingspecialist-notary-coverage-variance-oct28-study.jpg"
+    },
+    {
+      "slug": "closingspecialist-post-closing-defect-oct28-study",
+      "title": "Post-Closing Defect Rate by File Type",
+      "description": "Which defects appear after closing, and do they concentrate in particular file types or document groups?",
+      "category": "Closing Specialist Research",
+      "date": "2026-10-28",
+      "image": "/article-thumbnails/october-28/closingspecialist-post-closing-defect-oct28-study.jpg"
+    },
+    {
+      "slug": "wire-callback-exception-audit",
+      "title": "Wire Callback Exceptions in Closing Files",
+      "description": "A source-level review of callback records, instruction changes, and the points where wire verification is documented or deferred.",
+      "category": "Closing Specialist Research",
+      "date": "2026-10-27",
+      "image": "/refresh-20261113/service1.webp"
+    },
+    {
+      "slug": "cd-delivery-timestamp-review",
+      "title": "Closing Disclosure Delivery Timestamps",
+      "description": "A review of sent, delivered, and received timestamps and the gaps that appear between them in closing files.",
+      "category": "Closing Specialist Research",
+      "date": "2026-10-27",
+      "image": "/refresh-20261113/service2.webp"
+    },
+    {
+      "slug": "title-exception-rework-study",
+      "title": "Title Exception Rework and Record Quality",
+      "description": "A study of repeated Schedule B exceptions and what the surrounding file shows about the cause of rework.",
+      "category": "Closing Specialist Research",
+      "date": "2026-10-27",
+      "image": "/refresh-20261113/service3.webp"
+    },
+    {
+      "slug": "notary-packet-completeness-study",
+      "title": "Signing Packet Completeness at the Table",
+      "description": "A review of returned signing packages for missing initials, dates, notarial certificates, and page-order defects.",
+      "category": "Closing Specialist Research",
+      "date": "2026-10-27",
+      "image": "/refresh-20261113/service4.webp"
+    },
+    {
+      "slug": "post-closing-recording-gap-review",
+      "title": "Post-Closing Recording Gaps",
+      "description": "A review of rejected instruments and the delay between submission and recorded evidence in closed files.",
+      "category": "Closing Specialist Research",
+      "date": "2026-10-27",
+      "image": "/refresh-20261113/service5.webp"
+    },
+    {
+      "slug": "closingspecialist-intake-completeness-study-2",
+      "title": "Closing Specialist Intake Completeness Study",
+      "description": "A reproducible review of which required fields and source artifacts are present at the point of assignment in Closing Specialist operations.",
+      "category": "Closing Specialist Research",
+      "date": "2026-10-26",
+      "image": "/refresh-20261113/service6.webp"
+    },
+    {
+      "slug": "closingspecialist-handoff-latency-study-2",
+      "title": "Closing Specialist Handoff Latency Study",
+      "description": "A reproducible review of how long each handoff takes and where acknowledgement or context is lost in Closing Specialist operations.",
+      "category": "Closing Specialist Research",
+      "date": "2026-10-26",
+      "image": "/refresh-20261113/service7.webp"
+    },
+    {
+      "slug": "closingspecialist-exception-pattern-audit-2",
+      "title": "Closing Specialist Exception Pattern Audit",
+      "description": "A reproducible review of which exception reasons recur and whether they receive a consistent owner and disposition in Closing Specialist operations.",
+      "category": "Closing Specialist Research",
+      "date": "2026-10-26",
+      "image": "/refresh-20261113/service8.webp"
+    },
+    {
+      "slug": "closingspecialist-evidence-reliability-study-2",
+      "title": "Closing Specialist Evidence Reliability Study",
+      "description": "A reproducible review of whether the source is reconstructable and consistent with the recorded final state in Closing Specialist operations.",
+      "category": "Closing Specialist Research",
+      "date": "2026-10-26",
+      "image": "/refresh-20261113/service1.webp"
+    },
+    {
+      "slug": "closingspecialist-access-recertification-study-2",
+      "title": "Closing Specialist Access Recertification Study",
+      "description": "A reproducible review of whether current access matches the approved role and whether removals are evidenced in Closing Specialist operations.",
+      "category": "Closing Specialist Research",
+      "date": "2026-10-26",
+      "image": "/refresh-20261113/service2.webp"
+    },
+    {
+      "slug": "closingspecialist-intake-completeness-study",
+      "title": "Closing Specialist Intake Completeness Study",
+      "description": "A reproducible review of which required fields and source artifacts are present at the point of assignment in Closing Specialist operations.",
+      "category": "Closing Specialist Research",
+      "date": "2026-10-25",
+      "image": "/refresh-20261113/service3.webp"
+    },
+    {
+      "slug": "closingspecialist-handoff-latency-study",
+      "title": "Closing Specialist Handoff Latency Study",
+      "description": "A reproducible review of how long each handoff takes and where acknowledgement or context is lost in Closing Specialist operations.",
+      "category": "Closing Specialist Research",
+      "date": "2026-10-25",
+      "image": "/refresh-20261113/service4.webp"
+    },
+    {
+      "slug": "closingspecialist-exception-pattern-audit",
+      "title": "Closing Specialist Exception Pattern Audit",
+      "description": "A reproducible review of which exception reasons recur and whether they receive a consistent owner and disposition in Closing Specialist operations.",
+      "category": "Closing Specialist Research",
+      "date": "2026-10-25",
+      "image": "/refresh-20261113/service5.webp"
+    },
+    {
+      "slug": "closingspecialist-evidence-reliability-study",
+      "title": "Closing Specialist Evidence Reliability Study",
+      "description": "A reproducible review of whether the source is reconstructable and consistent with the recorded final state in Closing Specialist operations.",
+      "category": "Closing Specialist Research",
+      "date": "2026-10-25",
+      "image": "/refresh-20261113/service6.webp"
+    },
+    {
+      "slug": "closingspecialist-access-recertification-study",
+      "title": "Closing Specialist Access Recertification Study",
+      "description": "A reproducible review of whether current access matches the approved role and whether removals are evidenced in Closing Specialist operations.",
+      "category": "Closing Specialist Research",
+      "date": "2026-10-25",
+      "image": "/refresh-20261113/service7.webp"
+    },
+    {
+      "slug": "closing-delay-signal-review",
+      "title": "Closing Delay Signals and Record Quality",
+      "description": "A review of readiness dates, open conditions, and the records that distinguish a scheduling delay from a substantive defect.",
+      "category": "Closing preparation",
+      "date": "2026-10-22",
+      "image": "/refresh-20261113/service8.webp"
+    },
+    {
+      "slug": "closing-document-rework-review",
+      "title": "Closing Document Rework and Evidence Gaps",
+      "description": "An analytical review of missing signatures, version conflicts, and the handoffs that create rework at the closing table.",
+      "category": "Closing preparation",
+      "date": "2026-10-22",
+      "image": "/refresh-20261113/service1.webp"
+    },
+    {
+      "slug": "wire-verification-control-review",
+      "title": "Wire Verification Controls in Real Estate Closing",
+      "description": "A structured review of callback procedures, change detection, and the records that make wire verification auditable.",
+      "category": "Payment security",
+      "date": "2026-10-22",
+      "image": "/refresh-20261113/service2.webp"
+    },
+    {
+      "slug": "recording-turnaround-review",
+      "title": "Recording Turnaround and Post-Closing Exceptions",
+      "description": "A review of recording submission, confirmation, and the exceptions that remain after a file is treated as closed.",
+      "category": "Post-closing",
+      "date": "2026-10-22",
+      "image": "/refresh-20261113/service3.webp"
+    },
+    {
+      "slug": "buyer-closing-communication-review",
+      "title": "Buyer Closing Communication and Expectation Risk",
+      "description": "A review of status updates, readiness claims, and the language that prevents a target date from sounding like a guarantee.",
+      "category": "Borrower communication",
+      "date": "2026-10-22",
+      "image": "/refresh-20261113/service4.webp"
+    },
+    {
+      "slug": "payoff-validity-adherence-study",
+      "title": "Adherence to Payoff Statement Validity Controls",
+      "description": "A reproducible closing-operations protocol to measure whether payoff statements remain within their recorded validity window at the declared closing checkpoint, with frozen sampling, evidence lineage, reviewer checks, privacy controls, sensitivity analysis, and limits.",
+      "category": "Document reliability",
+      "date": "2026-10-13",
+      "image": "/refresh-20261113/service5.webp"
+    },
+    {
+      "slug": "disclosure-delivery-timestamp-agreement",
+      "title": "Agreement Between Disclosure Delivery Timestamps",
+      "description": "A reproducible closing-operations protocol to measure whether selected systems agree on disclosure issue, send, access, and acknowledgment events, with frozen sampling, evidence lineage, reviewer checks, privacy controls, sensitivity analysis, and limits.",
+      "category": "Milestone reliability",
+      "date": "2026-10-13",
+      "image": "/refresh-20261113/service6.webp"
+    },
+    {
+      "slug": "closing-package-completeness-agreement",
+      "title": "Reviewer Agreement on Closing Package Completeness",
+      "description": "A reproducible closing-operations protocol to measure whether independent reviewers reach the same completeness result under a versioned closing-file checklist, with frozen sampling, evidence lineage, reviewer checks, privacy controls, sensitivity analysis, and limits.",
+      "category": "Closing evidence",
+      "date": "2026-10-13",
+      "image": "/refresh-20261113/service7.webp"
+    },
+    {
+      "slug": "recording-submission-lineage-study",
+      "title": "Lineage Completeness for Recording Submissions",
+      "description": "A reproducible closing-operations protocol to assess whether recording submissions retain their executed source, reviewer, delivery, rejection, correction, resubmission, and confirmation history, with frozen sampling, evidence lineage, reviewer checks, privacy controls, sensitivity analysis, and limits.",
+      "category": "Post-closing evidence",
+      "date": "2026-10-13",
+      "image": "/refresh-20261113/service8.webp"
+    },
+    {
+      "slug": "wire-verification-reviewer-reliability",
+      "title": "Reviewer Reliability for Wire Change Verification Evidence",
+      "description": "A reproducible closing-operations protocol to measure whether reviewers consistently identify required independent-verification evidence for wire instruction changes, with frozen sampling, evidence lineage, reviewer checks, privacy controls, sensitivity analysis, and limits.",
+      "category": "Transaction safety",
+      "date": "2026-10-13",
+      "image": "/refresh-20261113/service1.webp"
+    },
+    {
+      "slug": "closing-checklist-completeness-study",
+      "title": "Closing Checklist Evidence Completeness",
+      "description": "A reproducible protocol for measuring closing checklist evidence completeness with evidence lineage, reviewer checks, privacy limits, and explicit interpretation.",
+      "category": "Closing evidence",
+      "date": "2026-10-12",
+      "image": "/refresh-20261113/service2.webp"
+    },
+    {
+      "slug": "document-version-lineage-study",
+      "title": "Closing Document Version Lineage",
+      "description": "A reproducible protocol for measuring closing document version lineage with evidence lineage, reviewer checks, privacy limits, and explicit interpretation.",
+      "category": "Closing evidence",
+      "date": "2026-10-12",
+      "image": "/refresh-20261113/service3.webp"
+    },
+    {
+      "slug": "milestone-timestamp-agreement-study",
+      "title": "Closing Milestone Timestamp Agreement",
+      "description": "A reproducible protocol for measuring closing milestone timestamp agreement with evidence lineage, reviewer checks, privacy limits, and explicit interpretation.",
+      "category": "Closing evidence",
+      "date": "2026-10-12",
+      "image": "/refresh-20261113/service4.webp"
+    },
+    {
+      "slug": "stakeholder-handoff-acknowledgment-study",
+      "title": "Stakeholder Handoff Acknowledgment Reliability",
+      "description": "A reproducible protocol for measuring stakeholder handoff acknowledgment reliability with evidence lineage, reviewer checks, privacy limits, and explicit interpretation.",
+      "category": "Closing evidence",
+      "date": "2026-10-12",
+      "image": "/refresh-20261113/service5.webp"
+    },
+    {
+      "slug": "wire-change-verification-adherence-study",
+      "title": "Independent Verification for Wire Changes",
+      "description": "A reproducible protocol for measuring independent verification for wire changes with evidence lineage, reviewer checks, privacy limits, and explicit interpretation.",
+      "category": "Closing evidence",
+      "date": "2026-10-12",
+      "image": "/refresh-20261113/service6.webp"
+    },
+    {
+      "slug": "document-coordination-exception-pattern-study-8",
+      "title": "Document coordination: exception pattern study",
+      "description": "A source-led brief on how title teams, real estate operations leaders, and transaction coordinators can define, inspect, and improve document coordination workflows.",
+      "category": "Role design",
+      "date": "2026-10-08",
+      "image": "/refresh-20261113/service7.webp"
+    },
+    {
+      "slug": "date-milestone-tracking-workflow-boundary-review-16",
+      "title": "Date and milestone tracking: workflow boundary review",
+      "description": "A source-led brief on how title teams, real estate operations leaders, and transaction coordinators can define, inspect, and improve date and milestone tracking workflows.",
+      "category": "Role design",
+      "date": "2026-10-08",
+      "image": "/refresh-20261113/service8.webp"
+    },
+    {
+      "slug": "closing-checklist-support-source-quality-audit-7",
+      "title": "Closing checklist support: source quality audit",
+      "description": "A source-led brief on how title teams, real estate operations leaders, and transaction coordinators can define, inspect, and improve closing checklist support workflows.",
+      "category": "Stakeholder communication",
+      "date": "2026-10-07",
+      "image": "/refresh-20261113/service1.webp"
+    },
+    {
+      "slug": "stakeholder-updates-review-consistency-report-15",
+      "title": "Stakeholder update support: review consistency report",
+      "description": "A source-led brief on how title teams, real estate operations leaders, and transaction coordinators can define, inspect, and improve stakeholder update support workflows.",
+      "category": "Stakeholder communication",
+      "date": "2026-10-07",
+      "image": "/refresh-20261113/service2.webp"
+    },
+    {
+      "slug": "post-closing-records-workflow-boundary-review-6",
+      "title": "Post-closing records support: workflow boundary review",
+      "description": "A source-led brief on how title teams, real estate operations leaders, and transaction coordinators can define, inspect, and improve post-closing records support workflows.",
+      "category": "Document systems",
+      "date": "2026-10-06",
+      "image": "/refresh-20261113/service3.webp"
+    },
+    {
+      "slug": "document-coordination-handoff-reliability-brief-14",
+      "title": "Document coordination: handoff reliability brief",
+      "description": "A source-led brief on how title teams, real estate operations leaders, and transaction coordinators can define, inspect, and improve document coordination workflows.",
+      "category": "Document systems",
+      "date": "2026-10-06",
+      "image": "/refresh-20261113/service4.webp"
+    },
+    {
+      "slug": "closing-file-preparation-review-consistency-report-5",
+      "title": "Closing file preparation: review consistency report",
+      "description": "A source-led brief on how title teams, real estate operations leaders, and transaction coordinators can define, inspect, and improve closing file preparation workflows.",
+      "category": "Closing controls",
+      "date": "2026-10-05",
+      "image": "/refresh-20261113/service5.webp"
+    },
+    {
+      "slug": "closing-checklist-support-exception-pattern-study-13",
+      "title": "Closing checklist support: exception pattern study",
+      "description": "A source-led brief on how title teams, real estate operations leaders, and transaction coordinators can define, inspect, and improve closing checklist support workflows.",
+      "category": "Closing controls",
+      "date": "2026-10-05",
+      "image": "/refresh-20261113/service6.webp"
+    },
+    {
+      "slug": "date-milestone-tracking-handoff-reliability-brief-4",
+      "title": "Date and milestone tracking: handoff reliability brief",
+      "description": "A source-led brief on how title teams, real estate operations leaders, and transaction coordinators can define, inspect, and improve date and milestone tracking workflows.",
+      "category": "Role design",
+      "date": "2026-10-04",
+      "image": "/refresh-20261113/service7.webp"
+    },
+    {
+      "slug": "post-closing-records-source-quality-audit-12",
+      "title": "Post-closing records support: source quality audit",
+      "description": "A source-led brief on how title teams, real estate operations leaders, and transaction coordinators can define, inspect, and improve post-closing records support workflows.",
+      "category": "Role design",
+      "date": "2026-10-04",
+      "image": "/refresh-20261113/service8.webp"
+    },
+    {
+      "slug": "document-coordination-review-consistency-report-20",
+      "title": "Document coordination: review consistency report",
+      "description": "A source-led brief on how title teams, real estate operations leaders, and transaction coordinators can define, inspect, and improve document coordination workflows.",
+      "category": "Role design",
+      "date": "2026-10-04",
+      "image": "/refresh-20261113/service1.webp"
+    },
+    {
+      "slug": "stakeholder-updates-exception-pattern-study-3",
+      "title": "Stakeholder update support: exception pattern study",
+      "description": "A source-led brief on how title teams, real estate operations leaders, and transaction coordinators can define, inspect, and improve stakeholder update support workflows.",
+      "category": "Stakeholder communication",
+      "date": "2026-10-03",
+      "image": "/refresh-20261113/service2.webp"
+    },
+    {
+      "slug": "closing-file-preparation-workflow-boundary-review-11",
+      "title": "Closing file preparation: workflow boundary review",
+      "description": "A source-led brief on how title teams, real estate operations leaders, and transaction coordinators can define, inspect, and improve closing file preparation workflows.",
+      "category": "Stakeholder communication",
+      "date": "2026-10-03",
+      "image": "/refresh-20261113/service3.webp"
+    },
+    {
+      "slug": "closing-checklist-support-handoff-reliability-brief-19",
+      "title": "Closing checklist support: handoff reliability brief",
+      "description": "A source-led brief on how title teams, real estate operations leaders, and transaction coordinators can define, inspect, and improve closing checklist support workflows.",
+      "category": "Stakeholder communication",
+      "date": "2026-10-03",
+      "image": "/refresh-20261113/service4.webp"
+    },
+    {
+      "slug": "document-coordination-source-quality-audit-2",
+      "title": "Document coordination: source quality audit",
+      "description": "A source-led brief on how title teams, real estate operations leaders, and transaction coordinators can define, inspect, and improve document coordination workflows.",
+      "category": "Document systems",
+      "date": "2026-10-02",
+      "image": "/refresh-20261113/service5.webp"
+    },
+    {
+      "slug": "date-milestone-tracking-review-consistency-report-10",
+      "title": "Date and milestone tracking: review consistency report",
+      "description": "A source-led brief on how title teams, real estate operations leaders, and transaction coordinators can define, inspect, and improve date and milestone tracking workflows.",
+      "category": "Document systems",
+      "date": "2026-10-02",
+      "image": "/refresh-20261113/service6.webp"
+    },
+    {
+      "slug": "post-closing-records-exception-pattern-study-18",
+      "title": "Post-closing records support: exception pattern study",
+      "description": "A source-led brief on how title teams, real estate operations leaders, and transaction coordinators can define, inspect, and improve post-closing records support workflows.",
+      "category": "Document systems",
+      "date": "2026-10-02",
+      "image": "/refresh-20261113/service7.webp"
+    },
+    {
+      "slug": "closing-checklist-support-workflow-boundary-review-1",
+      "title": "Closing checklist support: workflow boundary review",
+      "description": "A source-led brief on how title teams, real estate operations leaders, and transaction coordinators can define, inspect, and improve closing checklist support workflows.",
+      "category": "Closing controls",
+      "date": "2026-10-01",
+      "image": "/refresh-20261113/service8.webp"
+    },
+    {
+      "slug": "stakeholder-updates-handoff-reliability-brief-9",
+      "title": "Stakeholder update support: handoff reliability brief",
+      "description": "A source-led brief on how title teams, real estate operations leaders, and transaction coordinators can define, inspect, and improve stakeholder update support workflows.",
+      "category": "Closing controls",
+      "date": "2026-10-01",
+      "image": "/refresh-20261113/service1.webp"
+    },
+    {
+      "slug": "closing-file-preparation-source-quality-audit-17",
+      "title": "Closing file preparation: source quality audit",
+      "description": "A source-led brief on how title teams, real estate operations leaders, and transaction coordinators can define, inspect, and improve closing file preparation workflows.",
+      "category": "Closing controls",
+      "date": "2026-10-01",
+      "image": "/refresh-20261113/service2.webp"
+    }
+  ],
+  "photos": {
+    "home": {
+      "alt": "Real estate agent standing by a home with a sale pending sign, holding documents.",
+      "position": "50% 50%"
+    },
+    "services": {
+      "alt": "Young couple signing a real estate agreement with an agent indoors.",
+      "position": "50% 50%"
+    },
+    "blog": {
+      "alt": "Hands of a person signing official documents on a desk in an office setting.",
+      "position": "50% 50%"
+    },
+    "research": {
+      "alt": "Hands using a calculator with real estate documents on a desk, indicating a financial transaction or meeting.",
+      "position": "50% 50%"
+    },
+    "service1": {
+      "alt": "A pregnant woman and her partner receive house keys from a real estate agent indoors.",
+      "position": "50% 50%"
+    },
+    "service2": {
+      "alt": "A professional signing an official document at a wooden desk.",
+      "position": "50% 50%"
+    },
+    "service3": {
+      "alt": "A real estate transaction with a handshake and key exchange, highlighting a home insurance document.",
+      "position": "50% 50%"
+    },
+    "service4": {
+      "alt": "Close-up of hands exchanging real estate documents in an office setting.",
+      "position": "50% 50%"
+    },
+    "service5": {
+      "alt": "Close-up of hands signing a real estate document at a meeting table with three people.",
+      "position": "50% 50%"
+    },
+    "service6": {
+      "alt": "Two professionals finalize a real estate contract with a clipboard and pen.",
+      "position": "50% 35%"
+    },
+    "service7": {
+      "alt": "Three adults reviewing and signing real estate documents indoors.",
+      "position": "50% 50%"
+    },
+    "service8": {
+      "alt": "A real estate agent handing over house keys, symbolizing property ownership transfer.",
+      "position": "50% 50%"
+    }
+  }
+}

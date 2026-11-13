@@ -1,5 +1,4 @@
 import { NextResponse } from 'next/server';
-import { sendLeadFallbackToMattermost } from '../../../lib/lead-fallback-mattermost';
 
 const MAX_BODY_BYTES = 64 * 1024;
 const RATE_WINDOW_MS = 10 * 60 * 1000;
@@ -70,14 +69,6 @@ export async function POST(request: Request) {
   if (!/^\S+@\S+\.\S+$/.test(email) || (full ? (!firstName || !lastName || !company || !companySize || !positions || !referral) : !legacyName)) return json({ ok: false, message: 'Please complete every required field.' }, 400);
   if (full && personalDomains.has(email.split('@')[1])) return json({ ok: false, message: 'Please use your business email address.' }, 400);
 
-  const payload = { source, first_name:firstName, last_name:lastName, name:legacyName, email, company, company_website:companyWebsite, company_size:companySize, positions_to_fill:positions, referral_source:referral, phone, phone_country:phoneCountry, message, _page_url:pageUrl };
-  const endpoint = process.env.ACR_LEAD_ENDPOINT;
-  if (endpoint) {
-    const controller = new AbortController(); const timeout = setTimeout(() => controller.abort(), 8000);
-    try { const forwarded = await fetch(endpoint, { method:'POST', headers:{'content-type':'application/json'}, body:JSON.stringify(payload), signal:controller.signal, cache:'no-store' }); if (!forwarded.ok) return json({ ok:false, message:'We could not send your request.' }, 502); }
-    catch { return json({ ok:false, message:'We could not send your request.' }, 502); }
-    finally { clearTimeout(timeout); }
-  }
-  void sendLeadFallbackToMattermost({ name:[firstName,lastName].filter(Boolean).join(' ')||legacyName, email, phone:[phoneCountry,phone].filter(Boolean).join(' '), business:company, message, companySize, positions, referral, pageUrl, userAgent:(request.headers.get('user-agent')||'').slice(0,500) });
-  return json({ ok: true });
+  // Validation only. The client explicitly delivers one accepted lead through ACR.
+  return json({ok:true});
 }

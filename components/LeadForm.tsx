@@ -1,30 +1,31 @@
 'use client';
 
-import { FormEvent, useState } from 'react';
+import { FormEvent, useRef, useState } from 'react';
 import { useRouter } from 'next/navigation';
+import {submitAcrLead} from '../app/acr-submit';
 
 const personalDomains = new Set(['gmail.com','yahoo.com','hotmail.com','outlook.com','icloud.com','aol.com','proton.me','protonmail.com']);
 
 export function LeadForm({ source = 'contact-page-consultation' }: { source?: string }) {
-  const router = useRouter();
+  const submissionLock=useRef(false);const router = useRouter();
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState('');
   async function submit(event: FormEvent<HTMLFormElement>) {
-    event.preventDefault(); if (busy) return;
-    const form = event.currentTarget; const data = new FormData(form);
+    event.preventDefault(); if (busy || submissionLock.current) return;
+    const form = event.currentTarget; const data = new FormData(form);if(String(data.get("website_url")||"").trim()){submissionLock.current=false;setBusy(false);return;}
     const domain = String(data.get('email') || '').trim().toLowerCase().split('@')[1];
     if (!domain || personalDomains.has(domain)) { setError('Please use your business email address.'); return; }
-    setBusy(true); setError(''); data.set('source', source); data.set('_page_url', location.href);
+    submissionLock.current=true;setBusy(true); setError(''); data.set('source', source); data.set('_page_url', location.href);
     try {
       const response = await fetch('/api/submit-lead', { method: 'POST', body: data });
       const result = await response.json();
-      if (!response.ok || !result.ok || result.ignored) { setError(result.message || 'Please check your details and try again.'); setBusy(false); return; }
+      if (!response.ok || !result.ok || result.ignored) { setError(result.message || 'Please check your details and try again.'); submissionLock.current=false;setBusy(false); return; }
       const payload = Object.fromEntries(data.entries()); delete payload.website_url;
-      /* ACR captures the native submit event once. */
+      submitAcrLead(payload,source);
       router.push('/thank-you');
-    } catch { setError('We could not send your request. Please try again.'); setBusy(false); }
+    } catch { setError('We could not send your request. Please try again.'); submissionLock.current=false;setBusy(false); }
   }
-  return <form className="lead-form" onSubmit={submit}>
+  return <form data-acr-lead-mode="manual" className="lead-form" onSubmit={submit}>
     <div className="field-row name-row"><label>First name <span aria-hidden="true">*</span><input name="first_name" autoComplete="given-name" required maxLength={80} /></label><label>Last name <span aria-hidden="true">*</span><input name="last_name" autoComplete="family-name" required maxLength={80} /></label></div>
     <div className="field-row company-row"><label>Business email <span aria-hidden="true">*</span><input name="email" type="email" autoComplete="email" required maxLength={160} /></label><label>Company <span aria-hidden="true">*</span><input name="company" autoComplete="organization" required maxLength={120} /></label></div>
     <div className="field-row phone-row"><label className="country-field">Code<select name="phone_country" defaultValue="+1"><option value="+1">US/CA +1</option><option value="+44">UK +44</option><option value="+61">AU +61</option><option value="+63">PH +63</option><option value="other">Other</option></select></label><label>Phone number<input name="phone" type="tel" autoComplete="tel-national" inputMode="tel" maxLength={40} /></label></div>
