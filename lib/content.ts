@@ -11,6 +11,7 @@ import { november09BlogPosts } from './november09-blog';
 import { november10BlogPosts } from './november10-blog';
 import { november12BlogPosts } from './november12BlogPosts';
 import { november22BlogPosts } from './november22BlogPosts';
+import { november23BlogPosts } from './november23BlogPosts';
 import { november21BlogPosts } from './november21BlogPosts';
 import { november20BlogPosts } from './november20BlogPosts';
 import { november19BlogPosts } from './november19BlogPosts';
@@ -29,6 +30,7 @@ import { november09ResearchPosts } from './november09-research';
 import { november10ResearchPosts } from './november10-research';
 import { november12ResearchPosts } from './november12ResearchPosts';
 import { november22ResearchPosts } from './november22ResearchPosts';
+import { november23ResearchPosts } from './november23ResearchPosts';
 import { november21ResearchPosts } from './november21ResearchPosts';
 import { november20ResearchPosts } from './november20ResearchPosts';
 import { november19ResearchPosts } from './november19ResearchPosts';
@@ -958,8 +960,8 @@ const existingResearchPosts: ResearchPost[] = [
   }
 ];
 
-export const blogPosts: BlogPost[] = [...november22BlogPosts, ...november21BlogPosts, ...november20BlogPosts, ...november19BlogPosts, ...november18BlogPosts, ...november17BlogPosts, ...november16BlogPosts, ...november12BlogPosts, ...november09BlogPosts, ...november10BlogPosts, ...november11BlogPosts, ...november08BlogPosts, ...november07BlogPosts, ...november06BlogPosts, ...november05BlogPosts, ...november02BlogPosts, ...november01BlogPosts, ...october28BlogPosts, ...october27BlogBatchOne, ...october27BlogBatchTwo, ...october22BlogBatch, ...october13BlogPosts,...october12BlogPosts,...existingBlogPosts].sort((a,b)=>String(b.publishedAt).localeCompare(String(a.publishedAt)));
-export const researchPosts: ResearchPost[] = [...november22ResearchPosts, ...november21ResearchPosts, ...november20ResearchPosts, ...november19ResearchPosts, ...november18ResearchPosts, ...november17ResearchPosts, ...november16ResearchPosts, ...november12ResearchPosts, ...november09ResearchPosts, ...november10ResearchPosts, ...november11ResearchPosts, ...november08ResearchPosts, ...november07ResearchPosts, ...november06ResearchPosts, ...november05ResearchPosts, ...november02ResearchPosts, ...november01ResearchPosts, ...october28ResearchPosts, ...october27ResearchBatch, ...october22ResearchBatch, ...october13ResearchPosts,...october12ResearchPosts,...existingResearchPosts].sort((a,b)=>String(b.publishedAt).localeCompare(String(a.publishedAt)));
+export const blogPosts: BlogPost[] = [...november23BlogPosts, ...november22BlogPosts, ...november21BlogPosts, ...november20BlogPosts, ...november19BlogPosts, ...november18BlogPosts, ...november17BlogPosts, ...november16BlogPosts, ...november12BlogPosts, ...november09BlogPosts, ...november10BlogPosts, ...november11BlogPosts, ...november08BlogPosts, ...november07BlogPosts, ...november06BlogPosts, ...november05BlogPosts, ...november02BlogPosts, ...november01BlogPosts, ...october28BlogPosts, ...october27BlogBatchOne, ...october27BlogBatchTwo, ...october22BlogBatch, ...october13BlogPosts,...october12BlogPosts,...existingBlogPosts].sort((a,b)=>String(b.publishedAt).localeCompare(String(a.publishedAt)));
+export const researchPosts: ResearchPost[] = [...november23ResearchPosts, ...november22ResearchPosts, ...november21ResearchPosts, ...november20ResearchPosts, ...november19ResearchPosts, ...november18ResearchPosts, ...november17ResearchPosts, ...november16ResearchPosts, ...november12ResearchPosts, ...november09ResearchPosts, ...november10ResearchPosts, ...november11ResearchPosts, ...november08ResearchPosts, ...november07ResearchPosts, ...november06ResearchPosts, ...november05ResearchPosts, ...november02ResearchPosts, ...november01ResearchPosts, ...october28ResearchPosts, ...october27ResearchBatch, ...october22ResearchBatch, ...october13ResearchPosts,...october12ResearchPosts,...existingResearchPosts].sort((a,b)=>String(b.publishedAt).localeCompare(String(a.publishedAt)));
 
 export const nav = [
   { href: '/services', label: 'Services' },
