@@ -22,10 +22,10 @@ export function ReviewRail() {
     };
     const pause = () => { paused = true; };
     const resume = () => { paused = false; last = performance.now(); };
-    track.addEventListener('mouseenter', pause); track.addEventListener('mouseleave', resume);
+     
     track.addEventListener('focusin', pause); track.addEventListener('focusout', resume);
     frame = requestAnimationFrame(tick);
-    return () => { cancelAnimationFrame(frame); track.removeEventListener('mouseenter', pause); track.removeEventListener('mouseleave', resume); track.removeEventListener('focusin', pause); track.removeEventListener('focusout', resume); };
+    return () => { cancelAnimationFrame(frame);   track.removeEventListener('focusin', pause); track.removeEventListener('focusout', resume); };
   }, []);
   return <section className="reviews" aria-labelledby="reviews-heading"><div className="review-heading"><p className="kicker" id="reviews-heading">StealthAgents reviews</p><a href={reviewData.source} target="_blank" rel="noreferrer">Verified first-party source</a></div><div className="review-viewport"><div className="review-track" ref={trackRef}>{reviewData.records.map(review => <figure className="review-card" key={review.id} tabIndex={0}><div className="stars" aria-label={`${reviewData.ratingShownBySource} out of 5 stars`}>★★★★★</div><blockquote><strong>{review.headline}</strong><p>{review.body}</p></blockquote><figcaption>{review.name}<span>{review.detail}</span></figcaption></figure>)}</div></div></section>;
 }

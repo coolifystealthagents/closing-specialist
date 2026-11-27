@@ -6,6 +6,8 @@ import './globals.css';
 import './editorial-thumbnails.css';
 import './experience.css';
 
+import "./site-chrome-fixes.css";
+
 export const metadata: Metadata = {
   metadataBase: new URL(`https://${site.domain}`),
   title: { default: `${site.name} | Closing coordination support`, template: `%s | ${site.name}` },
